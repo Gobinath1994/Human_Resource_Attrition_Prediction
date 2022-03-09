@@ -1,0 +1,2323 @@
+Employeeid,Age,Experience,EducationField,City,Department,Job_Title,Gender,NumCompaniesWorked,Attrition,Attrition_num
+101117,42,19,M.Tech/M.E.,Ahmedabad,Legal,Manager ,Male,5,No,0
+101165,43,9,MBA/PGDM,Chennai,Engineering,Vice President ,Male,8,No,0
+101168,38,18,Ph.D/Doctorate,Ahmedabad,Services,Project Manager ,Male,6,No,0
+101188,43,12,MBA/PGDM,Ahmedabad,Business Development,Assistant Vice-President ,Male,7,No,0
+101217,42,14,Ph.D/Doctorate,Chennai,Human Resources,Senior Manager ,Male,3,No,0
+101230,40,9,MBA/PGDM,Bangalore,Research and Development,Program Manager ,Male,3,No,0
+101232,49,4,Ph.D/Doctorate,Chennai,Research and Development,Senior Lead Engineer ,Male,4,No,0
+101290,43,11,Ph.D/Doctorate,Delhi,Product Management,Senior Manager ,Male,5,No,0
+101300,40,4,M.Tech/M.E.,Ahmedabad,Legal,Manager ,Male,4,No,0
+101574,43,6,Ph.D/Doctorate,Kolkata,Sales,Project Leader ,Male,6,No,0
+101576,38,7,Ph.D/Doctorate,Bangalore,Product Management,Program Manager ,Male,5,No,0
+101698,52,21,M.Tech/M.E.,Kolkata,Services,Vice President ,Male,6,No,0
+101712,48,16,Other degrees,Hyderabad,Human Resources,Centre Manager ,Male,4,No,0
+101714,38,15,M.Tech/M.E.,Bangalore,Research and Development,Manager ,Female,6,No,0
+101721,45,15,MBA/PGDM,Ahmedabad,Sales,Technical Manager ,Male,6,No,0
+101749,37,14,M.Tech/M.E.,Kolkata,Training,Centre Manager ,Male,3,No,0
+101759,55,13,Other degrees,Chennai,Support,Assistant Vice-President ,Male,8,No,0
+101761,37,13,B.Tech/B.E.,Ahmedabad,Accounting,Program Manager ,Male,4,No,0
+101822,37,13,MBA/PGDM,Hyderabad,Services,Senior Manager ,Male,4,No,0
+101841,38,13,M.Tech/M.E.,Hyderabad,Business Development,Centre Manager ,Male,5,No,0
+101952,39,3,MBA/PGDM,Hyderabad,Product Management,Senior Lead Engineer ,Male,5,No,0
+102045,49,12,Other degrees,Chennai,Human Resources,Centre Manager ,Female,6,No,0
+102046,48,12,M.Tech/M.E.,Delhi,Support,Project Leader ,Male,0,No,0
+102049,42,5,MBA/PGDM,Delhi,Accounting,Senior Engineer ,Male,5,No,0
+102090,39,8,B.Tech/B.E.,Hyderabad,Services,Project Manager ,Male,5,No,0
+102091,37,10,MBA/PGDM,Ahmedabad,Research and Development,Project Leader ,Male,4,No,0
+102100,38,1,B.Tech/B.E.,Kolkata,Product Management,Senior Lead Engineer ,Male,5,No,0
+102125,64,12,Other degrees,Kolkata,Human Resources,Lead Engineer  ,Female,6,Yes,1
+102169,35,12,Ph.D/Doctorate,Bangalore,Research and Development,Centre Manager ,Female,6,No,0
+102457,38,3,B.Tech/B.E.,Delhi,Business Development,Senior Manager ,Male,6,No,0
+102546,56,11,MBA/PGDM,Chennai,Accounting,Vice President ,Male,2,No,0
+102757,38,3,Other degrees,Hyderabad,Services,Lead Engineer ,Male,6,No,0
+102774,38,2,Other degrees,Delhi,Marketing,Project Leader ,Male,5,Yes,1
+102785,36,11,M.Tech/M.E.,Kolkata,Training,Deputy Manager ,Male,4,No,0
+102789,41,4,B.Tech/B.E.,Hyderabad,Business Development,Technical Manager ,Male,5,Yes,1
+102792,39,7,M.Tech/M.E.,Kolkata,Research and Development,Project Manager ,Male,2,No,0
+102797,69,11,M.Tech/M.E.,Hyderabad,Sales,Lead Engineer ,Male,3,No,0
+102842,53,11,M.Tech/M.E.,Kolkata,Legal,Centre Manager ,Male,4,No,0
+102852,61,11,Ph.D/Doctorate,Hyderabad,Training,Senior Lead Engineer ,Male,3,No,0
+102853,33,11,Other degrees,Hyderabad,Support,Centre Manager ,Female,4,No,0
+102866,38,3,Ph.D/Doctorate,Kolkata,Services,Lead Engineer ,Male,1,No,0
+102868,33,11,MBA/PGDM,Hyderabad,Product Management,Centre Manager ,Male,5,No,0
+103188,39,0,Ph.D/Doctorate,Kolkata,Marketing,Project Manager ,Male,6,No,0
+103224,47,3,MBA/PGDM,Bangalore,Sales,Project Leader ,Male,1,No,0
+103283,58,10,MBA/PGDM,Kolkata,Legal,Senior Vice President ,Male,6,No,0
+103309,43,11,Ph.D/Doctorate,Bangalore,Sales,Project Manager ,Male,3,No,0
+103334,36,3,M.Tech/M.E.,Hyderabad,Human Resources,Project Leader ,Male,0,No,0
+103361,69,25,Ph.D/Doctorate,Hyderabad,Research and Development,Vice President ,Male,3,No,0
+103364,49,22,M.Tech/M.E.,Ahmedabad,Sales,Principal Engineer ,Male,4,No,0
+103366,57,21,B.Tech/B.E.,Hyderabad,Sales,Technical Lead ,Male,5,No,0
+103367,49,21,Other degrees,Chennai,Training,Program Manager ,Male,3,No,0
+103368,52,20,M.Tech/M.E.,Chennai,Sales,Chief Engineer ,Male,6,No,0
+103371,41,18,Ph.D/Doctorate,Bangalore,Product Management,Senior Manager ,Male,5,No,0
+103372,41,17,Ph.D/Doctorate,Chennai,Legal,Centre Manager ,Male,4,No,0
+103376,38,13,B.Tech/B.E.,Kolkata,Sales,Project Manager ,Male,4,No,0
+103377,36,13,Other degrees,Ahmedabad,Legal,Project Leader ,Male,6,No,0
+103394,44,3,M.Tech/M.E.,Hyderabad,Accounting,General Manager ,Male,1,No,0
+103419,41,3,Other degrees,Ahmedabad,Business Development,Account Manager ,Male,4,Yes,1
+103437,35,0,MBA/PGDM,Chennai,Services,Project Manager ,Female,6,No,0
+103682,62,9,Ph.D/Doctorate,Hyderabad,Marketing,Senior Vice President ,Male,4,No,0
+103753,32,7,MBA/PGDM,Delhi,Marketing,Project Leader ,Male,1,No,0
+103765,33,9,Other degrees,Chennai,Support,Project Manager ,Male,2,No,0
+103811,38,5,Ph.D/Doctorate,Chennai,Product Management,Technical Architect-,Male,5,No,0
+103884,30,9,MBA/PGDM,Bangalore,Sales,Lead Engineer ,Male,2,Yes,1
+103928,33,3,B.Tech/B.E.,Chennai,Product Management,Lead Engineer ,Male,2,No,0
+103941,31,9,M.Tech/M.E.,Bangalore,Sales,Project Leader ,Male,2,No,0
+104026,33,0,Ph.D/Doctorate,Bangalore,Training,Lead Engineer ,Male,4,No,0
+104107,35,3,B.Tech/B.E.,Bangalore,Product Management,Project Leader ,Male,4,No,0
+104562,41,4,Other degrees,Bangalore,Product Management,Technical Manager ,Male,4,Yes,1
+104619,32,8,Ph.D/Doctorate,Hyderabad,Legal,Lead Engineer ,Male,5,No,0
+104620,35,8,M.Tech/M.E.,Delhi,Sales,Principal Engineer ,Male,2,No,0
+104655,41,8,Other degrees,Hyderabad,Product Management,Lead Engineer ,Male,3,No,0
+104682,36,5,Ph.D/Doctorate,Hyderabad,Services,Senior Engineer ,Male,1,No,0
+104692,32,8,MBA/PGDM,Delhi,Sales,Lead Engineer ,Male,1,No,0
+104699,34,8,MBA/PGDM,Ahmedabad,Human Resources,Project Leader ,Female,3,No,0
+104701,41,8,B.Tech/B.E.,Kolkata,Research and Development,Senior Manager ,Female,2,No,0
+104704,33,0,MBA/PGDM,Hyderabad,Marketing,Lead Engineer ,Male,0,No,0
+104746,40,4,Other degrees,Hyderabad,Human Resources,Project Manager ,Male,5,No,0
+104747,35,8,Other degrees,Bangalore,Engineering,Project Leader ,Male,4,No,0
+104788,31,2,B.Tech/B.E.,Chennai,Product Management,Project Leader ,Male,3,No,0
+104832,34,0,Ph.D/Doctorate,Hyderabad,Research and Development,Project Leader ,Male,3,No,0
+104947,32,8,B.Tech/B.E.,Kolkata,Support,Senior Engineer ,Male,4,No,0
+104959,42,0,M.Tech/M.E.,Ahmedabad,Marketing,Project Leader ,Male,3,No,0
+104962,39,3,M.Tech/M.E.,Bangalore,Human Resources,Project Leader ,Male,4,Yes,1
+105022,30,0,Other degrees,Hyderabad,Marketing,Senior Engineer ,Male,3,No,0
+105057,39,1,Ph.D/Doctorate,Bangalore,Training,Project Leader ,Male,5,No,0
+105086,31,8,Ph.D/Doctorate,Chennai,Support,Senior Engineer ,Male,4,No,0
+105116,31,7,Other degrees,Hyderabad,Training,Senior Engineer ,Male,1,Yes,1
+105179,57,8,B.Tech/B.E.,Kolkata,Business Development,Senior Engineer  ,Female,4,No,0
+105239,30,2,MBA/PGDM,Bangalore,Services,Lead Engineer ,Male,5,No,0
+105281,32,7,MBA/PGDM,Mumbai,Sales,Senior Engineer  ,Male,1,Yes,1
+105283,30,8,M.Tech/M.E.,Kolkata,Support,Project Leader ,Male,3,No,0
+105284,31,7,Other degrees,Kolkata,Support,Senior Engineer ,Male,4,Yes,1
+105296,48,8,B.Tech/B.E.,Chennai,Training,Lead Engineer  ,Male,3,No,0
+105318,29,2,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Male,3,Yes,1
+105353,60,7,Ph.D/Doctorate,Bangalore,Business Development,Lead Engineer  ,Male,3,No,0
+105398,40,7,Other degrees,Kolkata,Services,Technical Manager ,Male,4,No,0
+105455,32,7,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Male,5,No,0
+105456,30,7,Other degrees,Mumbai,Services,Lead Engineer ,Male,5,Yes,1
+105457,39,7,Other degrees,Bangalore,Legal,Specialist  ,Male,4,No,0
+105459,63,7,M.Tech/M.E.,Delhi,Human Resources,Lead Engineer ,Male,4,No,0
+105478,36,7,M.Tech/M.E.,Hyderabad,Marketing,Program Manager ,Male,2,No,0
+105595,30,2,M.Tech/M.E.,Hyderabad,Sales,Project Leader ,Male,3,No,0
+105740,36,4,Other degrees,Bangalore,Sales,Program Manager ,Male,3,No,0
+105796,28,7,M.Tech/M.E.,Bangalore,Human Resources,Project Manager ,Male,2,No,0
+105953,51,7,B.Tech/B.E.,Ahmedabad,Sales,Senior Engineer  ,Male,4,No,0
+106009,31,7,Other degrees,Ahmedabad,Human Resources,Senior Engineer ,Male,4,No,0
+106014,39,7,B.Tech/B.E.,Ahmedabad,Sales,Engineer  ,Male,3,No,0
+106047,35,7,Ph.D/Doctorate,Chennai,Accounting,Project Manager ,Male,1,No,0
+106077,36,1,B.Tech/B.E.,Delhi,Accounting,Lead Engineer ,Male,3,No,0
+106126,56,7,Other degrees,Kolkata,Human Resources,Senior Engineer  ,Male,3,No,0
+106129,32,7,M.Tech/M.E.,Kolkata,Human Resources,Project Leader ,Male,2,No,0
+106132,30,7,Ph.D/Doctorate,Delhi,Sales,Technical Lead ,Female,5,No,0
+106159,34,0,Other degrees,Mumbai,Accounting,Lead Engineer ,Male,2,No,0
+106164,38,2,Other degrees,Chennai,Research and Development,Senior Lead Engineer ,Male,5,No,0
+106176,32,7,M.Tech/M.E.,Chennai,Support,Senior Engineer  ,Male,2,No,0
+106199,31,7,B.Tech/B.E.,Bangalore,Sales,Senior Engineer  ,Male,2,No,0
+106204,30,7,Ph.D/Doctorate,Bangalore,Research and Development,Project Manager ,Male,6,No,0
+106258,32,4,Ph.D/Doctorate,Chennai,Services,Lead Engineer ,Male,5,No,0
+106272,49,7,Other degrees,Bangalore,Training,Engineer  ,Male,5,Yes,1
+106273,34,7,B.Tech/B.E.,Ahmedabad,Legal,Senior Engineer  ,Female,3,No,0
+106275,51,7,M.Tech/M.E.,Chennai,Business Development,Lead Engineer  ,Female,4,Yes,1
+106283,31,7,B.Tech/B.E.,Chennai,Human Resources,Project Leader ,Male,3,No,0
+106319,35,7,B.Tech/B.E.,Kolkata,Legal,Engineer  ,Male,3,No,0
+106327,31,7,M.Tech/M.E.,Chennai,Sales,Technical Lead ,Male,8,No,0
+106328,30,7,M.Tech/M.E.,Delhi,Business Development,Senior Engineer  ,Male,8,No,0
+106371,32,7,Other degrees,Bangalore,Accounting,Manager ,Male,3,No,0
+106388,53,9,MBA/PGDM,Mumbai,Human Resources,Lead Engineer  ,Male,3,No,0
+106412,30,7,Other degrees,Hyderabad,Legal,Senior Engineer  ,Male,4,No,0
+106445,41,7,B.Tech/B.E.,Chennai,Business Development,Project Leader ,Female,1,No,0
+106449,29,7,MBA/PGDM,Delhi,Human Resources,Project Leader ,Male,3,No,0
+106478,29,7,M.Tech/M.E.,Chennai,Human Resources,Project Manager ,Male,3,No,0
+106494,37,1,Other degrees,Kolkata,Marketing,Senior Engineer ,Male,2,No,0
+106572,35,7,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer  ,Male,4,No,0
+106597,29,7,Ph.D/Doctorate,Hyderabad,Sales,Lead Engineer  ,Male,1,No,0
+106650,30,6,B.Tech/B.E.,Delhi,Legal,Senior Engineer  ,Male,2,Yes,1
+106651,55,7,M.Tech/M.E.,Ahmedabad,Human Resources,Senior Engineer  ,Female,3,No,0
+106672,33,6,Ph.D/Doctorate,Delhi,Human Resources,Senior Engineer  ,Male,2,Yes,1
+106704,31,7,B.Tech/B.E.,Delhi,Business Development,Lead Engineer  ,Male,4,No,0
+106706,62,7,Ph.D/Doctorate,Delhi,Sales,Senior Engineer  ,Male,0,No,0
+106751,46,2,Other degrees,Bangalore,Support,Assistant Vice-President ,Male,7,No,0
+106755,57,7,Other degrees,Chennai,Accounting,Vice President ,Male,5,No,0
+106772,34,4,Other degrees,Chennai,Engineering,Lead Engineer ,Male,2,No,0
+106809,33,7,Other degrees,Mumbai,Training,Senior Engineer ,Male,3,No,0
+106813,66,7,Other degrees,Chennai,Human Resources,Lead Engineer  ,Male,5,No,0
+106817,46,7,Other degrees,Bangalore,Human Resources,Technical Lead ,Male,2,No,0
+106839,53,7,B.Tech/B.E.,Delhi,Human Resources,Centre Manager ,Male,3,No,0
+106857,64,7,B.Tech/B.E.,Bangalore,Human Resources,Lead Engineer  ,Female,4,No,0
+106935,48,9,MBA/PGDM,Delhi,Research and Development,Lead Engineer  ,Male,4,No,0
+106956,31,7,Ph.D/Doctorate,Delhi,Support,Program Manager ,Female,5,No,0
+106967,30,2,B.Tech/B.E.,Hyderabad,Sales,Team Lead ,Male,4,No,0
+107021,38,7,Other degrees,Hyderabad,Sales,Lead Engineer  ,Male,4,No,0
+107052,29,7,Ph.D/Doctorate,Ahmedabad,Support,Senior Engineer ,Male,4,No,0
+107053,30,7,B.Tech/B.E.,Kolkata,Support,Senior Engineer ,Male,4,No,0
+107054,36,7,Other degrees,Hyderabad,Sales,Senior Engineer ,Male,1,No,0
+107055,32,7,MBA/PGDM,Chennai,Support,Technical Lead ,Male,4,No,0
+107058,36,6,B.Tech/B.E.,Delhi,Support,Senior Manager ,Male,4,Yes,1
+107116,41,6,M.Tech/M.E.,Ahmedabad,Accounting,Technical Lead ,Female,3,Yes,1
+107171,53,7,MBA/PGDM,Delhi,Legal,Project Leader ,Male,3,No,0
+107172,35,5,Ph.D/Doctorate,Chennai,Services,Project Leader ,Male,2,No,0
+107232,30,6,B.Tech/B.E.,Kolkata,Sales,Project Leader ,Male,5,Yes,1
+107280,60,7,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer  ,Male,4,No,0
+107328,28,3,Other degrees,Kolkata,Training,Lead Engineer ,Male,1,No,0
+107368,32,0,M.Tech/M.E.,Bangalore,Services,Lead Engineer ,Male,5,No,0
+107405,29,6,Other degrees,Ahmedabad,Sales,Project Leader ,Male,5,Yes,1
+107440,30,7,Other degrees,Delhi,Business Development,Senior Engineer  ,Male,5,No,0
+107472,33,6,Other degrees,Kolkata,Business Development,Lead Engineer  ,Male,4,No,0
+107568,31,6,M.Tech/M.E.,Ahmedabad,Business Development,Senior Engineer  ,Male,2,No,0
+107570,48,6,B.Tech/B.E.,Hyderabad,Human Resources,Senior Engineer  ,Male,5,No,0
+107579,28,6,MBA/PGDM,Chennai,Services,Project Leader ,Male,2,Yes,1
+107636,34,6,Other degrees,Hyderabad,Human Resources,Senior Engineer  ,Male,5,No,0
+107735,55,6,Ph.D/Doctorate,Hyderabad,Business Development,Technical Manager ,Male,0,No,0
+107757,47,6,Other degrees,Hyderabad,Sales,Lead Engineer ,Male,3,No,0
+107762,31,1,MBA/PGDM,Bangalore,Services,Senior Engineer ,Male,5,No,0
+107785,33,3,Ph.D/Doctorate,Mumbai,Product Management,Project Leader ,Male,4,Yes,1
+107809,31,3,MBA/PGDM,Chennai,Human Resources,Lead Engineer ,Male,2,No,0
+107861,35,0,Other degrees,Kolkata,Product Management,Project Leader ,Male,3,No,0
+107869,32,6,MBA/PGDM,Hyderabad,Business Development,Senior Engineer  ,Male,3,No,0
+107873,31,2,M.Tech/M.E.,Hyderabad,Training,Senior Engineer ,Male,4,No,0
+107877,73,6,Ph.D/Doctorate,Ahmedabad,Business Development,Senior Lead Engineer  ,Male,2,No,0
+107920,35,0,M.Tech/M.E.,Chennai,Human Resources,Program Manager ,Male,8,No,0
+107928,34,2,B.Tech/B.E.,Kolkata,Marketing,Lead Engineer ,Male,5,No,0
+108015,35,6,M.Tech/M.E.,Chennai,Support,Program Manager ,Female,3,No,0
+108120,39,6,Ph.D/Doctorate,Chennai,Legal,Lead Engineer ,Female,3,No,0
+108217,29,6,B.Tech/B.E.,Chennai,Support,Project Leader ,Male,4,No,0
+108218,41,6,Ph.D/Doctorate,Bangalore,Sales,Project Manager ,Male,4,No,0
+108238,30,6,B.Tech/B.E.,Delhi,Training,Senior Engineer ,Female,3,No,0
+108261,41,6,B.Tech/B.E.,Delhi,Business Development,Senior Engineer  ,Male,5,No,0
+108283,47,3,MBA/PGDM,Chennai,Training,Principal Engineer ,Male,4,No,0
+108289,35,5,Other degrees,Delhi,Training,Lead Engineer ,Male,2,Yes,1
+108301,45,6,B.Tech/B.E.,Hyderabad,Legal,Senior Specialist-,Male,3,No,0
+108316,32,3,B.Tech/B.E.,Mumbai,Marketing,Senior Engineer ,Male,1,Yes,1
+108332,61,6,Other degrees,Pune,Legal,Technical Manager ,Female,3,No,0
+108356,29,5,Other degrees,Kolkata,Accounting,Technical Lead ,Male,2,Yes,1
+108366,52,6,Ph.D/Doctorate,Bangalore,Training,Engineer  ,Male,2,No,0
+108464,32,6,Other degrees,Hyderabad,Engineering,Engineer ,Male,2,No,0
+108482,36,3,Ph.D/Doctorate,Kolkata,Training,Project Leader ,Male,2,No,0
+108483,38,0,Other degrees,Ahmedabad,Engineering,Project Manager ,Male,6,No,0
+108490,31,5,M.Tech/M.E.,Bangalore,Engineering,Lead Engineer ,Male,9,Yes,1
+108492,33,0,Other degrees,Kolkata,Services,Lead Engineer ,Male,3,No,0
+108493,32,5,Ph.D/Doctorate,Delhi,Services,Program Manager ,Male,5,No,0
+108494,32,5,B.Tech/B.E.,Delhi,Engineering,Lead Engineer ,Male,5,No,0
+108495,35,2,B.Tech/B.E.,Ahmedabad,Engineering,Lead Engineer ,Male,2,No,0
+108502,31,4,Ph.D/Doctorate,Bangalore,Engineering,Senior Engineer ,Male,6,No,0
+108503,34,5,MBA/PGDM,Ahmedabad,Sales,Lead Engineer ,Male,2,No,0
+108504,32,0,M.Tech/M.E.,Hyderabad,Services,Lead Engineer ,Male,2,No,0
+108509,32,5,Ph.D/Doctorate,Bangalore,Engineering,Project Leader ,Male,4,No,0
+108512,29,4,Ph.D/Doctorate,Chennai,Sales,Senior Engineer ,Male,1,Yes,1
+108514,30,5,B.Tech/B.E.,Bangalore,Services,Senior Engineer ,Male,9,No,0
+108515,30,5,Ph.D/Doctorate,Mumbai,Services,Senior Engineer ,Male,3,No,0
+108518,29,4,Other degrees,Kolkata,Engineering,Senior Engineer ,Male,5,Yes,1
+108523,34,6,Other degrees,Chennai,Services,Program Manager ,Male,6,No,0
+108565,55,6,B.Tech/B.E.,Chennai,Marketing,Senior Engineer ,Female,4,No,0
+108576,29,6,B.Tech/B.E.,Bangalore,Sales,Program Manager ,Female,5,No,0
+108605,30,2,Other degrees,Ahmedabad,Sales,Lead Engineer ,Male,5,No,0
+108621,28,6,B.Tech/B.E.,Mumbai,Sales,Senior Engineer  ,Male,5,No,0
+108654,28,6,B.Tech/B.E.,Delhi,Sales,Senior Engineer  ,Male,3,No,0
+108665,64,6,Other degrees,Hyderabad,Human Resources,Senior Engineer  ,Female,5,No,0
+108679,38,6,Ph.D/Doctorate,Ahmedabad,Support,Deputy Manager ,Male,6,No,0
+108681,64,5,M.Tech/M.E.,Chennai,Business Development,Senior Engineer  ,Female,3,Yes,1
+108689,32,6,MBA/PGDM,Chennai,Engineering,Project Leader ,Male,3,No,0
+108690,38,6,M.Tech/M.E.,Bangalore,Sales,Project Leader ,Male,4,No,0
+108703,32,5,MBA/PGDM,Hyderabad,Training,Senior Engineer  ,Male,3,No,0
+108705,32,5,Other degrees,Delhi,Sales,Senior Engineer  ,Female,2,No,0
+108725,34,0,Other degrees,Delhi,Marketing,Lead Engineer ,Male,3,No,0
+108741,61,5,M.Tech/M.E.,Kolkata,Accounting,Senior Lead Engineer  ,Male,2,No,0
+108756,35,5,MBA/PGDM,Chennai,Training,Senior Engineer ,Male,4,Yes,1
+108763,63,5,M.Tech/M.E.,Kolkata,Legal,Project Manager ,Male,4,No,0
+108765,39,5,MBA/PGDM,Delhi,Training,Project Leader ,Male,6,No,0
+108776,33,5,Ph.D/Doctorate,Bangalore,Support,Project Leader ,Male,2,No,0
+108779,33,5,Other degrees,Delhi,Human Resources,Technical Lead ,Male,5,No,0
+108826,28,5,M.Tech/M.E.,Hyderabad,Support,Assistant Manager ,Female,6,No,0
+108827,30,5,Ph.D/Doctorate,Kolkata,Training,Associate Engineer ,Male,3,No,0
+108893,28,5,MBA/PGDM,Delhi,Human Resources,Technical Manager ,Male,3,No,0
+108897,32,5,M.Tech/M.E.,Delhi,Training,Lead Engineer ,Male,3,No,0
+108925,48,5,M.Tech/M.E.,Mumbai,Research and Development,Technical Manager ,Male,3,Yes,1
+108972,57,5,Ph.D/Doctorate,Chennai,Sales,Project Manager ,Female,7,Yes,1
+108998,31,5,M.Tech/M.E.,Bangalore,Legal,Senior Engineer  ,Male,5,Yes,1
+109070,36,5,M.Tech/M.E.,Pune,Support,Senior Engineer  ,Male,2,No,0
+109087,34,5,Other degrees,Kolkata,Sales,Senior Engineer  ,Male,3,No,0
+109175,39,5,M.Tech/M.E.,Bangalore,Human Resources,Project Leader ,Female,6,No,0
+109178,46,5,Other degrees,Delhi,Human Resources,Project Leader ,Male,5,No,0
+109234,31,5,Ph.D/Doctorate,Bangalore,Marketing,Project Manager ,Male,5,No,0
+109247,29,5,Other degrees,Hyderabad,Human Resources,Senior Engineer ,Male,3,No,0
+109263,55,5,Ph.D/Doctorate,Bangalore,Sales,General Manager ,Male,2,No,0
+109314,36,2,MBA/PGDM,Hyderabad,Product Management,Technical Architect-,Female,3,No,0
+109345,30,5,Other degrees,Chennai,Training,Senior Engineer  ,Male,2,Yes,1
+109347,42,5,M.Tech/M.E.,Chennai,Sales,Project Leader ,Female,4,No,0
+109377,52,5,Other degrees,Chennai,Human Resources,Project Manager ,Female,3,No,0
+109427,32,5,Other degrees,Kolkata,Research and Development,Senior Engineer ,Male,5,No,0
+109428,31,5,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer  ,Male,6,No,0
+109433,30,5,MBA/PGDM,Hyderabad,Business Development,Associate Engineer  ,Male,3,No,0
+109447,40,5,B.Tech/B.E.,Chennai,Sales,Project Leader ,Male,5,No,0
+109452,41,0,Other degrees,Chennai,Human Resources,Project Manager ,Male,2,No,0
+109462,52,5,M.Tech/M.E.,Delhi,Legal,Engineer  ,Male,2,No,0
+109473,28,4,MBA/PGDM,Bangalore,Training,Project Leader ,Male,2,Yes,1
+109506,27,5,MBA/PGDM,Ahmedabad,Engineering,Senior Engineer  ,Male,3,No,0
+109559,57,5,M.Tech/M.E.,Ahmedabad,Sales,Lead Engineer  ,Male,5,No,0
+109605,34,5,B.Tech/B.E.,Chennai,Human Resources,Lead Engineer ,Female,3,No,0
+109640,52,5,Ph.D/Doctorate,Ahmedabad,Training,Engineer  ,Female,4,No,0
+109642,69,5,Ph.D/Doctorate,Bangalore,Business Development,Senior Lead Engineer  ,Male,1,No,0
+109657,37,5,Other degrees,Delhi,Human Resources,Technical Lead ,Female,6,No,0
+109658,57,5,M.Tech/M.E.,Kolkata,Human Resources,Lead Engineer ,Male,3,No,0
+109702,30,5,Ph.D/Doctorate,Delhi,Support,Program Manager ,Male,5,No,0
+109709,33,2,B.Tech/B.E.,Chennai,Services,Lead Engineer ,Male,6,No,0
+109722,37,11,Other degrees,Ahmedabad,Support,Manager ,Male,2,No,0
+109723,37,11,Ph.D/Doctorate,Hyderabad,Sales,Centre Manager ,Male,2,No,0
+109728,33,11,B.Tech/B.E.,Kolkata,Support,Manager ,Male,4,No,0
+109730,33,13,M.Tech/M.E.,Bangalore,Marketing,Centre Manager ,Male,3,No,0
+109732,40,11,MBA/PGDM,Chennai,Marketing,General Manager ,Male,4,No,0
+109733,36,11,Ph.D/Doctorate,Ahmedabad,Human Resources,Lead Engineer ,Female,2,Yes,1
+109734,47,10,Ph.D/Doctorate,Chennai,Human Resources,Program Manager ,Female,1,Yes,1
+109738,34,10,Other degrees,Ahmedabad,Human Resources,Technical Manager ,Female,1,No,0
+109739,52,10,B.Tech/B.E.,Chennai,Human Resources,Project Leader ,Female,5,No,0
+109740,31,10,Ph.D/Doctorate,Kolkata,Human Resources,Program Manager ,Male,1,No,0
+109741,39,10,B.Tech/B.E.,Bangalore,Human Resources,Project Leader ,Male,2,No,0
+109743,32,10,B.Tech/B.E.,Hyderabad,Legal,Senior Engineer ,Male,3,No,0
+109754,34,10,Other degrees,Hyderabad,Product Management,Project Manager ,Male,2,No,0
+109756,36,10,B.Tech/B.E.,Chennai,Business Development,Centre Manager ,Male,5,No,0
+109757,33,10,MBA/PGDM,Chennai,Sales,Project Manager ,Male,5,No,0
+109759,41,10,MBA/PGDM,Kolkata,Legal,Project Manager ,Male,5,No,0
+109760,63,9,MBA/PGDM,Mumbai,Sales,Senior Engineer  ,Male,1,No,0
+109762,33,9,MBA/PGDM,Bangalore,Research and Development,Technical Manager ,Male,3,No,0
+109763,36,9,M.Tech/M.E.,Delhi,Services,Senior Officer ,Female,3,No,0
+109764,62,9,MBA/PGDM,Ahmedabad,Business Development,Lead Engineer  ,Male,1,No,0
+109766,55,9,Other degrees,Bangalore,Support,Lead Engineer ,Male,3,No,0
+109767,41,9,M.Tech/M.E.,Kolkata,Training,Project Manager ,Male,3,No,0
+109769,34,9,Other degrees,Bangalore,Services,Program Manager ,Female,4,No,0
+109772,62,9,MBA/PGDM,Ahmedabad,Business Development,Senior Lead Engineer  ,Male,4,No,0
+109780,63,9,MBA/PGDM,Ahmedabad,Sales,Senior Engineer  ,Male,4,No,0
+109781,61,9,Ph.D/Doctorate,Chennai,Business Development,Lead Engineer  ,Female,3,No,0
+109785,36,9,Ph.D/Doctorate,Hyderabad,Human Resources,Technical Manager ,Male,4,Yes,1
+109786,35,9,Ph.D/Doctorate,Chennai,Training,Technical Lead ,Male,5,No,0
+109787,31,8,MBA/PGDM,Mumbai,Services,Lead Engineer  ,Male,4,Yes,1
+109791,44,9,Ph.D/Doctorate,Bangalore,Support,Lead Engineer  ,Female,3,No,0
+109795,33,9,B.Tech/B.E.,Bangalore,Training,Technical Manager ,Male,5,No,0
+109796,75,9,B.Tech/B.E.,Chennai,Business Development,Senior Engineer  ,Male,4,Yes,1
+109797,62,9,B.Tech/B.E.,Hyderabad,Sales,Lead Engineer  ,Female,2,Yes,1
+109807,32,9,Ph.D/Doctorate,Chennai,Sales,Program Manager ,Male,4,No,0
+109808,35,9,Ph.D/Doctorate,Kolkata,Human Resources,Technical Manager ,Male,5,No,0
+109809,32,9,M.Tech/M.E.,Bangalore,Human Resources,Senior Engineer  ,Male,5,No,0
+109817,34,9,M.Tech/M.E.,Ahmedabad,Training,Technical Lead ,Male,4,No,0
+109822,31,8,M.Tech/M.E.,Ahmedabad,Support,Project Manager ,Female,4,Yes,1
+109824,58,8,B.Tech/B.E.,Ahmedabad,Business Development,Lead Engineer  ,Female,2,Yes,1
+109825,35,8,Other degrees,Chennai,Business Development,Program Manager ,Female,3,No,0
+109828,33,8,Other degrees,Mumbai,Legal,Project Manager ,Male,7,No,0
+109831,53,8,Other degrees,Delhi,Sales,Senior Engineer  ,Male,4,No,0
+109836,33,8,B.Tech/B.E.,Bangalore,Sales,Project Manager ,Female,4,No,0
+109838,37,8,Ph.D/Doctorate,Bangalore,Sales,Senior Associate - ,Male,2,No,0
+109846,33,8,MBA/PGDM,Hyderabad,Services,Lead Engineer ,Male,0,No,0
+109852,72,9,B.Tech/B.E.,Kolkata,Business Development,Senior Lead Engineer  ,Male,3,No,0
+109855,40,8,Ph.D/Doctorate,Hyderabad,Support,Lead Engineer ,Male,1,No,0
+109858,31,8,M.Tech/M.E.,Chennai,Training,Project Manager ,Male,0,No,0
+109860,37,8,Ph.D/Doctorate,Bangalore,Marketing,Specialist ,Female,2,No,0
+109872,50,8,Other degrees,Ahmedabad,Research and Development,Technical Lead ,Female,4,No,0
+109874,31,7,M.Tech/M.E.,Delhi,Training,Lead Engineer ,Male,2,Yes,1
+109876,64,8,B.Tech/B.E.,Ahmedabad,Business Development,Lead Associate -,Female,6,No,0
+109877,32,8,MBA/PGDM,Hyderabad,Business Development,Senior Engineer  ,Male,4,No,0
+109884,47,8,M.Tech/M.E.,Bangalore,Human Resources,Technical Manager ,Male,1,Yes,1
+109888,39,7,MBA/PGDM,Ahmedabad,Sales,Lead Engineer ,Female,3,Yes,1
+109891,35,8,Ph.D/Doctorate,Kolkata,Accounting,Project Leader ,Male,1,No,0
+109894,63,8,Other degrees,Hyderabad,Business Development,Senior Engineer  ,Female,3,No,0
+109897,41,8,MBA/PGDM,Bangalore,Sales,Senior Engineer  ,Male,5,No,0
+109899,48,8,MBA/PGDM,Bangalore,Human Resources,Senior Lead Engineer ,Male,2,No,0
+109904,44,8,B.Tech/B.E.,Chennai,Sales,Lead Engineer ,Male,6,No,0
+109908,67,8,M.Tech/M.E.,Bangalore,Business Development,Lead Engineer  ,Male,3,No,0
+109959,27,5,M.Tech/M.E.,Delhi,Legal,Senior Engineer  ,Male,2,No,0
+109971,36,5,Ph.D/Doctorate,Bangalore,Training,Project Leader ,Female,5,No,0
+110001,51,9,Other degrees,Ahmedabad,Training,Senior Engineer  ,Male,3,No,0
+110006,35,8,B.Tech/B.E.,Chennai,Human Resources,Project Manager ,Male,5,No,0
+110028,31,5,M.Tech/M.E.,Mumbai,Research and Development,Project Leader ,Male,5,No,0
+110033,31,0,M.Tech/M.E.,Chennai,Human Resources,Assistant Manager ,Female,4,Yes,1
+110049,29,1,Other degrees,Kolkata,Support,Senior Engineer ,Male,3,No,0
+110084,66,5,B.Tech/B.E.,Delhi,Research and Development,Technical Manager ,Male,4,No,0
+110099,64,11,Other degrees,Hyderabad,Accounting,Lead Engineer  ,Male,9,No,0
+110101,37,11,MBA/PGDM,Delhi,Sales,Lead Engineer  ,Male,3,No,0
+110102,55,11,Ph.D/Doctorate,Mumbai,Sales,Senior Lead Engineer ,Female,5,No,0
+110132,28,5,Ph.D/Doctorate,Hyderabad,Research and Development,Senior Engineer ,Male,5,No,0
+110154,36,5,Other degrees,Bangalore,Business Development,Project Leader ,Male,2,No,0
+110156,30,5,M.Tech/M.E.,Hyderabad,Business Development,Associate Engineer  ,Male,2,No,0
+110163,56,5,MBA/PGDM,Chennai,Services,Assistant Manager ,Female,7,No,0
+110191,25,5,Ph.D/Doctorate,Hyderabad,Human Resources,Senior Engineer  ,Male,0,No,0
+110193,28,5,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer  ,Female,2,No,0
+110314,70,5,Ph.D/Doctorate,Ahmedabad,Business Development,Lead Engineer  ,Male,1,No,0
+110339,29,5,Ph.D/Doctorate,Chennai,Services,Senior Engineer ,Male,6,No,0
+110341,29,5,M.Tech/M.E.,Hyderabad,Training,Technical Lead ,Male,4,No,0
+110348,28,5,B.Tech/B.E.,Hyderabad,Accounting,Deputy Manager ,Male,4,No,0
+110376,37,5,Other degrees,Hyderabad,Accounting,Senior Engineer ,Male,3,No,0
+110404,30,2,Other degrees,Mumbai,Product Management,Senior Engineer ,Male,2,No,0
+110406,28,5,MBA/PGDM,Chennai,Services,Associate Engineer ,Female,4,Yes,1
+110433,73,5,B.Tech/B.E.,Hyderabad,Legal,Chief Engineer ,Male,6,No,0
+110434,28,5,Ph.D/Doctorate,Ahmedabad,Legal,Senior Engineer ,Male,1,No,0
+110440,66,5,Other degrees,Chennai,Services,Technical Manager ,Male,3,No,0
+110445,54,5,B.Tech/B.E.,Chennai,Product Management,Assistant Vice-President ,Male,3,No,0
+110479,60,5,MBA/PGDM,Bangalore,Support,Senior Engineer  ,Male,7,No,0
+110482,31,5,MBA/PGDM,Hyderabad,Sales,Senior Engineer  ,Male,3,No,0
+110485,40,5,Ph.D/Doctorate,Chennai,Support,Project Leader ,Female,3,No,0
+110535,34,4,Other degrees,Ahmedabad,Human Resources,Project Leader ,Male,4,No,0
+110537,38,2,M.Tech/M.E.,Bangalore,Marketing,Project Leader ,Male,3,Yes,1
+110549,55,4,B.Tech/B.E.,Delhi,Services,Senior Lead Engineer ,Male,5,Yes,1
+110551,28,5,Ph.D/Doctorate,Ahmedabad,Training,Project Leader ,Male,4,No,0
+110579,32,5,Other degrees,Chennai,Services,Technical Lead ,Male,3,No,0
+110580,33,4,Ph.D/Doctorate,Mumbai,Services,Associate Engineer  ,Female,5,Yes,1
+110615,27,4,Ph.D/Doctorate,Hyderabad,Engineering,Senior Engineer  ,Male,2,Yes,1
+110676,36,6,M.Tech/M.E.,Kolkata,Services,Technical Lead ,Male,2,No,0
+110727,62,5,Other degrees,Kolkata,Sales,Engineer  ,Female,5,No,0
+110728,30,4,MBA/PGDM,Mumbai,Engineering,Senior Engineer  ,Male,3,Yes,1
+110732,47,5,MBA/PGDM,Kolkata,Legal,Engineer  ,Male,6,No,0
+110737,57,5,B.Tech/B.E.,Bangalore,Human Resources,Senior Engineer  ,Female,5,No,0
+110764,56,5,Other degrees,Bangalore,Human Resources,Manager ,Male,6,No,0
+110765,34,5,M.Tech/M.E.,Delhi,Sales,Senior Engineer ,Male,3,No,0
+110774,32,4,M.Tech/M.E.,Ahmedabad,Sales,Senior Engineer ,Male,5,Yes,1
+110778,44,3,MBA/PGDM,Kolkata,Support,Technical Lead ,Male,6,Yes,1
+110808,55,8,B.Tech/B.E.,Bangalore,Research and Development,Technical Lead ,Male,4,No,0
+110811,30,5,B.Tech/B.E.,Bangalore,Services,Senior Engineer ,Female,5,No,0
+110814,50,4,MBA/PGDM,Chennai,Marketing,Vice President ,Male,8,Yes,1
+110832,32,0,Ph.D/Doctorate,Hyderabad,Product Management,Project Leader ,Male,2,No,0
+110878,30,4,Other degrees,Hyderabad,Business Development,Lead Engineer  ,Female,3,No,0
+110917,59,4,MBA/PGDM,Hyderabad,Sales,Senior Engineer  ,Female,4,No,0
+110923,35,1,M.Tech/M.E.,Ahmedabad,Sales,Project Leader ,Male,4,Yes,1
+110957,34,4,B.Tech/B.E.,Bangalore,Training,Senior Engineer  ,Male,1,No,0
+110963,35,2,B.Tech/B.E.,Kolkata,Legal,Project Manager ,Male,5,No,0
+110973,54,4,M.Tech/M.E.,Chennai,Human Resources,Engineer  ,Female,2,No,0
+110993,37,4,Ph.D/Doctorate,Bangalore,Sales,Senior Engineer  ,Male,4,Yes,1
+110995,32,6,Other degrees,Kolkata,Business Development,Lead Engineer ,Male,2,No,0
+111022,57,4,MBA/PGDM,Kolkata,Sales,Engineer  ,Male,2,No,0
+111025,57,4,Other degrees,Bangalore,Legal,Senior Lead Engineer ,Female,3,No,0
+111035,31,4,Ph.D/Doctorate,Bangalore,Services,Senior Engineer ,Male,3,No,0
+111039,32,4,B.Tech/B.E.,Mumbai,Research and Development,Assistant Manager ,Female,3,No,0
+111126,29,4,Ph.D/Doctorate,Kolkata,Engineering,Senior Engineer ,Male,5,Yes,1
+111132,31,4,Other degrees,Bangalore,Sales,Senior Engineer ,Male,2,No,0
+111197,63,4,M.Tech/M.E.,Delhi,Services,Senior Lead Engineer  ,Male,2,Yes,1
+111199,32,4,Ph.D/Doctorate,Bangalore,Engineering,Senior Engineer ,Male,4,Yes,1
+111200,31,4,MBA/PGDM,Chennai,Human Resources,Project Leader ,Male,9,No,0
+111300,57,4,B.Tech/B.E.,Hyderabad,Services,Senior Lead Engineer  ,Male,2,No,0
+111306,38,4,B.Tech/B.E.,Hyderabad,Human Resources,Senior Associate - -,Female,5,No,0
+111307,28,4,Other degrees,Kolkata,Sales,Senior Engineer ,Male,4,No,0
+111309,32,1,Other degrees,Kolkata,Engineering,Senior Engineer ,Male,4,No,0
+111329,33,4,M.Tech/M.E.,Kolkata,Services,Senior Engineer  ,Male,5,No,0
+111333,64,4,Other degrees,Chennai,Legal,Lead Engineer  ,Female,3,No,0
+111340,42,4,M.Tech/M.E.,Delhi,Engineering,Lead Engineer ,Male,3,No,0
+111374,46,4,M.Tech/M.E.,Delhi,Engineering,Senior Director-Sales-,Male,5,No,0
+111443,41,4,Ph.D/Doctorate,Ahmedabad,Human Resources,Project Leader ,Male,5,No,0
+111447,66,4,M.Tech/M.E.,Bangalore,Human Resources,Senior Lead Engineer ,Male,3,No,0
+111483,46,4,M.Tech/M.E.,Chennai,Sales,Technical Lead ,Male,3,No,0
+111503,65,4,MBA/PGDM,Hyderabad,Research and Development,Project Manager ,Male,2,No,0
+111504,49,4,MBA/PGDM,Chennai,Engineering,Principal Engineer ,Male,2,Yes,1
+111520,31,4,Other degrees,Chennai,Engineering,Engineer  ,Male,3,No,0
+111523,34,4,B.Tech/B.E.,Kolkata,Legal,Senior Engineer  ,Female,3,No,0
+111570,39,4,MBA/PGDM,Chennai,Research and Development,Program Manager ,Male,4,Yes,1
+111571,36,4,Other degrees,Kolkata,Research and Development,Project Leader ,Male,4,Yes,1
+111597,43,4,M.Tech/M.E.,Chennai,Sales,Project Leader ,Male,2,No,0
+111605,50,4,M.Tech/M.E.,Mumbai,Research and Development,Project Leader ,Female,1,No,0
+111606,57,3,MBA/PGDM,Hyderabad,Human Resources,Program Manager ,Male,3,Yes,1
+111621,59,4,Other degrees,Hyderabad,Training,Senior Engineer  ,Female,3,No,0
+111624,37,4,MBA/PGDM,Chennai,Human Resources,Project Manager ,Female,5,No,0
+111661,29,4,Ph.D/Doctorate,Bangalore,Human Resources,Project Leader ,Male,3,No,0
+111668,27,4,B.Tech/B.E.,Chennai,Sales,Engineer  ,Male,0,Yes,1
+111675,35,0,Ph.D/Doctorate,Ahmedabad,Business Development,Lead Engineer ,Male,2,No,0
+111680,35,4,M.Tech/M.E.,Chennai,Legal,Senior Engineer ,Male,5,No,0
+111683,31,4,MBA/PGDM,Kolkata,Research and Development,Project Leader ,Male,2,No,0
+111686,62,4,Ph.D/Doctorate,Ahmedabad,Legal,Lead Engineer ,Male,4,No,0
+111694,31,4,Ph.D/Doctorate,Mumbai,Human Resources,Senior Engineer  ,Male,2,No,0
+111695,50,4,MBA/PGDM,Hyderabad,Sales,Senior Engineer ,Male,0,No,0
+111699,31,4,Ph.D/Doctorate,Hyderabad,Sales,Senior Engineer  ,Female,3,Yes,1
+111708,29,4,MBA/PGDM,Bangalore,Support,Engineer  ,Male,5,No,0
+111712,38,4,Ph.D/Doctorate,Kolkata,Training,Senior Engineer  ,Male,5,No,0
+111717,32,4,Ph.D/Doctorate,Kolkata,Sales,Senior Engineer ,Male,4,No,0
+111745,43,4,Ph.D/Doctorate,Hyderabad,Product Management,Project Leader ,Female,2,No,0
+111759,28,4,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer  ,Male,3,No,0
+111761,64,4,M.Tech/M.E.,Ahmedabad,Training,Senior Engineer ,Female,2,Yes,1
+111763,50,4,B.Tech/B.E.,Delhi,Training,Principal Engineer ,Male,7,No,0
+111771,64,4,B.Tech/B.E.,Chennai,Human Resources,Lead Engineer ,Male,4,No,0
+111778,42,4,Other degrees,Bangalore,Training,Project Manager ,Male,2,No,0
+111802,32,2,Other degrees,Bangalore,Business Development,Deputy Manager ,Male,5,No,0
+111865,55,4,B.Tech/B.E.,Chennai,Sales,Senior Associate - -,Male,4,No,0
+111874,28,1,MBA/PGDM,Delhi,Sales,Assistant Manager ,Female,4,No,0
+111893,33,4,M.Tech/M.E.,Delhi,Support,Project Manager ,Male,0,No,0
+111897,36,4,Other degrees,Chennai,Research and Development,Senior Engineer ,Male,4,No,0
+111899,27,4,Other degrees,Chennai,Training,Senior Engineer  ,Male,3,No,0
+111923,27,3,Other degrees,Hyderabad,Training,Engineer ,Male,4,Yes,1
+111931,52,4,B.Tech/B.E.,Hyderabad,Support,Technical Manager ,Male,5,No,0
+111933,32,4,M.Tech/M.E.,Ahmedabad,Engineering,Senior Engineer ,Male,5,No,0
+111949,37,4,Other degrees,Hyderabad,Human Resources,Senior Engineer  ,Male,5,No,0
+111964,72,4,M.Tech/M.E.,Bangalore,Legal,Technical Lead ,Male,5,No,0
+111965,68,4,M.Tech/M.E.,Hyderabad,Research and Development,Lead Engineer  ,Male,3,No,0
+111971,49,4,MBA/PGDM,Bangalore,Research and Development,Senior Engineer ,Female,3,No,0
+111978,29,4,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Male,2,No,0
+111979,51,4,MBA/PGDM,Kolkata,Human Resources,Senior Lead Engineer ,Male,4,No,0
+111980,28,3,B.Tech/B.E.,Delhi,Human Resources,Project Leader ,Male,3,Yes,1
+111982,54,4,B.Tech/B.E.,Hyderabad,Human Resources,Technical Lead ,Male,3,No,0
+112007,27,3,M.Tech/M.E.,Chennai,Human Resources,Technical Lead ,Male,3,Yes,1
+112009,33,4,B.Tech/B.E.,Bangalore,Accounting,Senior Engineer ,Female,2,No,0
+112011,26,4,Other degrees,Ahmedabad,Training,Senior Engineer ,Male,2,No,0
+112013,33,4,Other degrees,Chennai,Engineering,Project Leader ,Male,2,Yes,1
+112018,61,4,MBA/PGDM,Bangalore,Accounting,Senior Lead Engineer ,Male,3,No,0
+112049,54,4,MBA/PGDM,Delhi,Services,Lead Engineer ,Male,3,No,0
+112051,50,4,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer ,Male,1,No,0
+112080,29,4,M.Tech/M.E.,Hyderabad,Training,Engineer  ,Male,2,No,0
+112087,46,3,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Female,2,Yes,1
+112089,63,4,MBA/PGDM,Ahmedabad,Human Resources,Lead Engineer ,Male,2,Yes,1
+112121,27,4,M.Tech/M.E.,Bangalore,Support,Senior Engineer ,Female,2,No,0
+112155,38,0,B.Tech/B.E.,Chennai,Product Management,Project Manager ,Male,3,No,0
+112157,29,0,Other degrees,Hyderabad,Services,Lead Engineer ,Male,2,No,0
+112162,55,4,M.Tech/M.E.,Delhi,Human Resources,Senior Engineer ,Female,4,No,0
+112166,46,4,MBA/PGDM,Kolkata,Human Resources,Lead Engineer ,Male,4,No,0
+112168,75,3,MBA/PGDM,Bangalore,Services,Senior Lead Engineer  ,Male,6,Yes,1
+112171,39,3,Ph.D/Doctorate,Hyderabad,Services,Technical Lead ,Male,4,Yes,1
+112180,35,4,B.Tech/B.E.,Mumbai,Human Resources,Project Leader ,Male,4,No,0
+112188,30,0,Other degrees,Mumbai,Legal,Project Leader ,Male,5,No,0
+112196,37,4,M.Tech/M.E.,Bangalore,Human Resources,Engineer ,Female,4,No,0
+112198,26,4,Other degrees,Chennai,Sales,Associate Engineer  ,Male,5,No,0
+112199,41,4,B.Tech/B.E.,Chennai,Engineering,Project Leader ,Male,4,No,0
+112206,32,4,M.Tech/M.E.,Ahmedabad,Sales,Lead Engineer ,Male,3,No,0
+112207,31,4,Ph.D/Doctorate,Hyderabad,Sales,Engineer  ,Female,6,No,0
+112218,33,4,B.Tech/B.E.,Hyderabad,Sales,Engineer  ,Male,6,No,0
+112226,26,4,Ph.D/Doctorate,Chennai,Support,Senior Engineer ,Male,5,No,0
+112253,31,4,Other degrees,Hyderabad,Human Resources,Associate Engineer ,Female,4,No,0
+112257,48,4,Other degrees,Bangalore,Human Resources,Engineer  ,Female,5,No,0
+112259,61,4,Other degrees,Bangalore,Human Resources,Lead Engineer ,Male,1,No,0
+112261,25,3,Ph.D/Doctorate,Kolkata,Research and Development,Senior Engineer ,Male,5,Yes,1
+112276,55,4,Other degrees,Delhi,Human Resources,Centre Manager ,Male,5,No,0
+112297,29,4,B.Tech/B.E.,Chennai,Sales,Engineer  ,Male,2,No,0
+112298,31,4,Other degrees,Delhi,Legal,Senior Engineer ,Male,3,No,0
+112303,31,3,Ph.D/Doctorate,Bangalore,Human Resources,Senior Engineer  ,Male,4,Yes,1
+112343,28,4,Ph.D/Doctorate,Ahmedabad,Sales,Senior Engineer ,Male,4,No,0
+112350,31,3,B.Tech/B.E.,Bangalore,Support,Project Leader ,Female,5,Yes,1
+112351,35,4,Other degrees,Chennai,Legal,Senior Engineer  ,Female,4,No,0
+112353,46,4,M.Tech/M.E.,Delhi,Human Resources,Senior Engineer ,Male,6,No,0
+112379,54,4,Other degrees,Kolkata,Human Resources,Senior Engineer ,Female,4,No,0
+112385,57,4,MBA/PGDM,Ahmedabad,Engineering,Senior Engineer  ,Male,3,No,0
+112387,28,4,M.Tech/M.E.,Hyderabad,Support,Senior Specialist-,Female,2,No,0
+112411,32,4,MBA/PGDM,Bangalore,Sales,Senior Engineer  ,Male,3,No,0
+112415,55,4,M.Tech/M.E.,Bangalore,Research and Development,Lead Engineer  ,Male,5,No,0
+112427,63,4,B.Tech/B.E.,Ahmedabad,Sales,Senior Engineer ,Female,5,No,0
+112444,29,4,MBA/PGDM,Ahmedabad,Legal,Senior Engineer  ,Male,4,No,0
+112445,31,4,M.Tech/M.E.,Delhi,Marketing,Project Leader ,Male,4,No,0
+112449,32,3,Other degrees,Delhi,Sales,Project Leader ,Male,4,Yes,1
+112452,30,4,M.Tech/M.E.,Kolkata,Sales,Engineer  ,Male,0,No,0
+112499,27,4,Other degrees,Chennai,Sales,Engineer ,Male,3,No,0
+112500,28,3,M.Tech/M.E.,Hyderabad,Training,Senior Engineer ,Male,5,Yes,1
+112502,57,4,B.Tech/B.E.,Delhi,Sales,Senior Engineer  ,Male,1,No,0
+112505,42,4,Ph.D/Doctorate,Ahmedabad,Human Resources,Program Manager ,Male,7,No,0
+112507,35,4,M.Tech/M.E.,Chennai,Sales,Senior Lead Engineer ,Male,1,No,0
+112508,38,4,M.Tech/M.E.,Hyderabad,Sales,Senior Lead Engineer ,Male,2,Yes,1
+112513,28,4,M.Tech/M.E.,Ahmedabad,Marketing,Senior Associate - -,Male,4,No,0
+112514,26,3,MBA/PGDM,Bangalore,Support,Engineer  ,Male,3,Yes,1
+112516,55,4,M.Tech/M.E.,Hyderabad,Support,Sr. Director of Strategic Account management,Male,1,No,0
+112601,26,4,M.Tech/M.E.,Delhi,Support,Senior Engineer ,Male,5,No,0
+112603,62,4,Ph.D/Doctorate,Delhi,Sales,Lead Engineer  ,Male,4,No,0
+112612,34,2,M.Tech/M.E.,Mumbai,Marketing,Technical Lead ,Male,5,Yes,1
+112638,35,4,Ph.D/Doctorate,Bangalore,Sales,Project Leader ,Male,5,No,0
+112690,30,3,MBA/PGDM,Mumbai,Sales,Senior Engineer ,Male,0,Yes,1
+112691,32,4,Other degrees,Bangalore,Sales,Senior Engineer ,Male,6,No,0
+112803,27,4,Other degrees,Chennai,Product Management,Senior Engineer ,Male,3,No,0
+112804,28,4,Ph.D/Doctorate,Hyderabad,Sales,Engineer  ,Male,1,No,0
+112813,38,4,MBA/PGDM,Delhi,Sales,Project Leader ,Female,2,No,0
+112814,44,4,Other degrees,Hyderabad,Training,Centre Manager ,Male,4,No,0
+112829,35,4,Other degrees,Hyderabad,Business Development,Project Leader ,Male,0,No,0
+112833,34,4,M.Tech/M.E.,Delhi,Sales,Associate Engineer  ,Male,1,No,0
+112834,30,4,Ph.D/Doctorate,Hyderabad,Training,Engineer  ,Male,3,No,0
+112838,34,4,M.Tech/M.E.,Kolkata,Services,Lead Engineer ,Male,1,No,0
+112840,35,4,Other degrees,Chennai,Legal,Project Leader ,Female,4,No,0
+112841,27,4,M.Tech/M.E.,Mumbai,Training,Senior Engineer ,Male,1,No,0
+112858,26,4,Ph.D/Doctorate,Delhi,Legal,Project Leader ,Female,4,No,0
+112859,40,4,Ph.D/Doctorate,Bangalore,Legal,Engineer  ,Male,5,No,0
+112863,60,3,B.Tech/B.E.,Hyderabad,Services,Senior Engineer ,Female,1,Yes,1
+112885,27,3,B.Tech/B.E.,Ahmedabad,Support,Engineer ,Male,4,No,0
+112897,64,3,Ph.D/Doctorate,Bangalore,Business Development,Senior Lead Engineer  ,Male,4,Yes,1
+112898,30,3,Ph.D/Doctorate,Kolkata,Sales,Senior Engineer ,Male,4,No,0
+112994,26,3,Other degrees,Hyderabad,Training,Senior Engineer ,Male,1,Yes,1
+112996,28,3,Ph.D/Doctorate,Delhi,Human Resources,Program Manager ,Female,2,No,0
+113020,77,3,Ph.D/Doctorate,Hyderabad,Accounting,Senior Engineer ,Male,2,No,0
+113029,45,3,MBA/PGDM,Hyderabad,Services,Senior Lead Engineer ,Male,5,Yes,1
+113030,35,3,B.Tech/B.E.,Kolkata,Sales,Project Leader ,Male,3,No,0
+113031,51,3,Other degrees,Chennai,Engineering,Senior Lead Engineer ,Male,3,No,0
+113034,26,3,Other degrees,Kolkata,Legal,Senior Engineer  ,Male,8,No,0
+113036,31,3,M.Tech/M.E.,Delhi,Human Resources,Engineer  ,Female,1,Yes,1
+113070,42,3,MBA/PGDM,Bangalore,Engineering,Senior Engineer  ,Female,1,No,0
+113073,26,3,M.Tech/M.E.,Chennai,Human Resources,Senior Engineer  ,Male,3,No,0
+113095,45,3,Other degrees,Bangalore,Human Resources,Senior Engineer ,Male,7,No,0
+113099,30,3,Other degrees,Chennai,Research and Development,Senior Engineer ,Male,2,Yes,1
+113119,32,0,Ph.D/Doctorate,Ahmedabad,Services,Senior Engineer ,Male,2,No,0
+113125,38,0,MBA/PGDM,Chennai,Research and Development,Project Leader ,Female,2,Yes,1
+113129,55,3,MBA/PGDM,Bangalore,Sales,Senior Lead Engineer ,Male,5,No,0
+113130,33,3,B.Tech/B.E.,Delhi,Human Resources,Senior Engineer  ,Male,2,No,0
+113133,44,3,M.Tech/M.E.,Delhi,Training,Associate Engineer  ,Female,3,No,0
+113136,30,3,M.Tech/M.E.,Bangalore,Human Resources,Engineer  ,Male,5,No,0
+113168,34,3,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer  ,Male,5,No,0
+113178,37,3,MBA/PGDM,Delhi,Legal,Engineer  ,Female,5,Yes,1
+113184,35,3,M.Tech/M.E.,Hyderabad,Sales,Engineer  ,Female,5,Yes,1
+113228,32,3,B.Tech/B.E.,Chennai,Human Resources,Technical Lead ,Male,3,No,0
+113230,27,3,Ph.D/Doctorate,Bangalore,Human Resources,Engineer ,Male,7,Yes,1
+113232,27,3,M.Tech/M.E.,Mumbai,Sales,Engineer  ,Male,2,Yes,1
+113234,29,3,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer  ,Male,5,No,0
+113235,67,3,B.Tech/B.E.,Kolkata,Marketing,Senior Lead Engineer ,Male,5,Yes,1
+113255,30,3,Ph.D/Doctorate,Ahmedabad,Human Resources,Senior Engineer ,Male,3,No,0
+113260,28,3,B.Tech/B.E.,Delhi,Business Development,Senior Engineer  ,Female,2,Yes,1
+113285,28,3,Ph.D/Doctorate,Delhi,Business Development,Engineer  ,Male,3,No,0
+113287,45,3,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer ,Female,5,No,0
+113292,42,3,Other degrees,Ahmedabad,Business Development,Technical Manager ,Male,5,Yes,1
+113295,43,3,B.Tech/B.E.,Delhi,Human Resources,Engineer ,Female,5,No,0
+113296,34,3,Other degrees,Hyderabad,Research and Development,Senior Engineer ,Male,4,No,0
+113297,27,3,Ph.D/Doctorate,Ahmedabad,Accounting,Senior Engineer ,Female,1,No,0
+113298,30,3,Ph.D/Doctorate,Bangalore,Training,Senior Engineer ,Male,0,Yes,1
+113350,43,0,Other degrees,Bangalore,Research and Development,Centre Manager ,Male,1,No,0
+113395,46,4,B.Tech/B.E.,Hyderabad,Sales,Senior Manager ,Male,3,Yes,1
+113416,38,0,Ph.D/Doctorate,Hyderabad,Product Management,Program Manager ,Male,1,No,0
+113444,37,4,M.Tech/M.E.,Hyderabad,Product Management,Sr. Technical Architect - ,Male,3,No,0
+113446,37,2,Other degrees,Kolkata,Product Management,Technical Architect-,Male,3,No,0
+113472,37,4,MBA/PGDM,Bangalore,Support,Program Manager ,Male,5,No,0
+113480,40,0,Other degrees,Bangalore,Product Management,Program Manager ,Male,3,No,0
+113487,41,3,Other degrees,Hyderabad,Legal,Principal Engineer ,Male,3,No,0
+113509,38,4,Ph.D/Doctorate,Ahmedabad,Product Management,Technical Architect-,Male,4,No,0
+113542,41,3,Ph.D/Doctorate,Bangalore,Product Management,Project Manager ,Male,4,Yes,1
+113545,40,3,B.Tech/B.E.,Chennai,Accounting,Program Manager ,Male,3,No,0
+113581,37,4,Other degrees,Hyderabad,Support,Project Manager ,Male,4,No,0
+113584,35,3,M.Tech/M.E.,Mumbai,Support,Sr. Technical Architect - ,Male,4,No,0
+113587,39,3,M.Tech/M.E.,Bangalore,Product Management,Lead Engineer ,Male,4,Yes,1
+113589,35,1,Other degrees,Chennai,Product Management,Technical Architect-,Male,3,No,0
+113592,44,4,B.Tech/B.E.,Bangalore,Legal,Sr. Technical Architect - ,Male,4,No,0
+113593,43,4,MBA/PGDM,Ahmedabad,Product Management,Project Manager ,Male,4,Yes,1
+113603,42,2,M.Tech/M.E.,Hyderabad,Product Management,Program Manager ,Male,5,No,0
+113608,33,3,MBA/PGDM,Delhi,Legal,Technical Lead ,Male,2,No,0
+113628,37,4,Ph.D/Doctorate,Chennai,Business Development,Project Manager ,Male,2,No,0
+113641,40,1,Other degrees,Chennai,Product Management,Project Manager ,Male,2,No,0
+113645,34,1,Ph.D/Doctorate,Kolkata,Product Management,Project Leader ,Female,5,No,0
+113664,36,4,M.Tech/M.E.,Delhi,Product Management,Project Manager ,Male,5,No,0
+113682,36,3,Ph.D/Doctorate,Kolkata,Human Resources,Project Leader ,Male,4,No,0
+113691,36,3,MBA/PGDM,Hyderabad,Product Management,Senior Lead Engineer ,Male,2,No,0
+113698,33,4,M.Tech/M.E.,Hyderabad,Product Management,Lead Engineer ,Female,5,No,0
+113715,34,4,Other degrees,Chennai,Product Management,Senior Lead Engineer ,Male,7,No,0
+113731,45,3,M.Tech/M.E.,Ahmedabad,Legal,Sr. Technical Architect - ,Male,2,No,0
+113736,34,0,M.Tech/M.E.,Delhi,Research and Development,Project Leader ,Female,5,No,0
+113750,40,3,B.Tech/B.E.,Delhi,Sales,Manager ,Male,3,No,0
+113794,36,4,M.Tech/M.E.,Hyderabad,Product Management,Senior Lead Engineer ,Male,3,No,0
+113843,36,3,M.Tech/M.E.,Ahmedabad,Product Management,Senior Lead Engineer ,Male,4,No,0
+113848,32,0,M.Tech/M.E.,Ahmedabad,Support,Project Manager ,Male,4,No,0
+113872,33,4,Ph.D/Doctorate,Hyderabad,Product Management,Lead Engineer ,Male,2,No,0
+113897,32,4,MBA/PGDM,Hyderabad,Product Management,Lead Engineer ,Male,4,Yes,1
+113913,30,2,B.Tech/B.E.,Delhi,Support,Technical Lead ,Male,1,Yes,1
+113962,32,1,B.Tech/B.E.,Hyderabad,Business Development,Technical Lead ,Male,2,Yes,1
+113983,31,4,Ph.D/Doctorate,Ahmedabad,Accounting,Lead Engineer ,Male,5,No,0
+113990,32,4,Ph.D/Doctorate,Delhi,Human Resources,Lead Engineer ,Male,5,No,0
+114004,35,0,Other degrees,Mumbai,Support,Project Leader ,Male,4,No,0
+114005,32,0,M.Tech/M.E.,Chennai,Support,Project Leader ,Male,5,No,0
+114016,32,3,Other degrees,Mumbai,Product Management,Lead Engineer ,Male,3,No,0
+114052,30,2,Other degrees,Bangalore,Product Management,Lead Engineer ,Male,6,No,0
+114074,38,0,B.Tech/B.E.,Chennai,Accounting,Project Leader ,Male,3,No,0
+114097,31,3,M.Tech/M.E.,Chennai,Product Management,Lead Engineer ,Male,5,Yes,1
+114117,29,1,M.Tech/M.E.,Ahmedabad,Support,Technical Lead ,Female,1,No,0
+114130,29,0,Ph.D/Doctorate,Chennai,Product Management,Project Leader ,Male,3,No,0
+114193,33,4,M.Tech/M.E.,Mumbai,Product Management,Technical Lead ,Male,2,No,0
+114282,35,2,M.Tech/M.E.,Ahmedabad,Accounting,Lead Engineer ,Male,4,No,0
+114284,33,2,B.Tech/B.E.,Bangalore,Accounting,Lead Engineer ,Male,3,No,0
+114362,30,0,Ph.D/Doctorate,Hyderabad,Support,Project Leader ,Male,5,No,0
+114437,31,0,Ph.D/Doctorate,Delhi,Product Management,Lead Engineer ,Male,2,No,0
+114450,32,1,Other degrees,Kolkata,Accounting,Senior Engineer ,Male,3,No,0
+114458,33,4,M.Tech/M.E.,Chennai,Accounting,Technical Lead ,Male,5,Yes,1
+114479,30,0,Ph.D/Doctorate,Bangalore,Product Management,Senior Engineer ,Male,3,No,0
+114482,31,2,M.Tech/M.E.,Bangalore,Support,Lead Engineer ,Male,2,No,0
+114486,31,3,Ph.D/Doctorate,Kolkata,Product Management,Lead Engineer ,Male,5,Yes,1
+114492,34,3,B.Tech/B.E.,Delhi,Product Management,Project Leader ,Male,3,No,0
+114498,36,0,B.Tech/B.E.,Ahmedabad,Accounting,Project Manager ,Male,4,No,0
+114572,27,0,M.Tech/M.E.,Chennai,Product Management,Senior Engineer ,Female,2,No,0
+114610,32,0,MBA/PGDM,Hyderabad,Training,Project Leader ,Male,4,No,0
+114619,31,1,B.Tech/B.E.,Hyderabad,Support,Technical Lead ,Male,4,No,0
+114666,35,0,Other degrees,Chennai,Product Management,Project Manager ,Male,4,No,0
+114670,30,1,MBA/PGDM,Kolkata,Human Resources,Project Leader ,Male,5,No,0
+114671,29,1,MBA/PGDM,Bangalore,Support,Technical Lead ,Male,4,No,0
+114682,35,0,Other degrees,Ahmedabad,Accounting,Project Leader ,Male,3,No,0
+114778,32,0,Other degrees,Ahmedabad,Training,Project Leader ,Male,2,No,0
+114896,54,3,Other degrees,Bangalore,Sales,Project Manager ,Male,2,No,0
+114908,27,3,B.Tech/B.E.,Kolkata,Human Resources,Project Leader ,Female,5,No,0
+114914,36,3,MBA/PGDM,Delhi,Sales,Senior Engineer  ,Male,5,No,0
+114921,27,3,M.Tech/M.E.,Ahmedabad,Support,Engineer ,Male,2,No,0
+114923,41,3,Ph.D/Doctorate,Chennai,Support,Project Leader ,Male,3,No,0
+114931,32,3,Ph.D/Doctorate,Ahmedabad,Sales,Associate Engineer  ,Male,3,No,0
+114950,64,3,M.Tech/M.E.,Delhi,Accounting,General Manager ,Male,5,No,0
+114956,25,3,MBA/PGDM,Delhi,Support,Associate Engineer  ,Male,4,Yes,1
+114961,27,3,Ph.D/Doctorate,Chennai,Human Resources,Associate Engineer  ,Male,4,Yes,1
+114990,49,3,B.Tech/B.E.,Chennai,Human Resources,Lead Engineer ,Female,3,No,0
+114992,28,3,Other degrees,Ahmedabad,Legal,Team Lead ,Male,2,No,0
+114995,26,3,B.Tech/B.E.,Delhi,Human Resources,Senior Engineer ,Male,3,No,0
+114999,62,3,MBA/PGDM,Kolkata,Human Resources,Project Leader ,Male,4,Yes,1
+115001,31,3,M.Tech/M.E.,Hyderabad,Legal,Senior Associate - -,Female,4,No,0
+115002,28,3,MBA/PGDM,Bangalore,Training,Senior Engineer  ,Male,4,No,0
+115007,25,3,Other degrees,Hyderabad,Training,Senior Engineer ,Male,2,Yes,1
+115075,27,3,Ph.D/Doctorate,Hyderabad,Engineering,Senior Engineer ,Female,3,Yes,1
+115077,32,3,Other degrees,Delhi,Training,Associate Engineer ,Male,4,Yes,1
+115078,61,3,Ph.D/Doctorate,Ahmedabad,Sales,Senior Engineer  ,Female,5,No,0
+115080,28,3,MBA/PGDM,Kolkata,Human Resources,Senior Engineer  ,Male,4,No,0
+115122,27,3,M.Tech/M.E.,Delhi,Support,Project Leader ,Male,4,No,0
+115126,26,3,M.Tech/M.E.,Ahmedabad,Accounting,Project Leader ,Male,4,No,0
+115129,34,3,M.Tech/M.E.,Ahmedabad,Sales,Technical Lead ,Male,5,No,0
+115169,41,3,M.Tech/M.E.,Bangalore,Legal,Lead Engineer  ,Male,3,No,0
+115170,52,3,Ph.D/Doctorate,Kolkata,Human Resources,Project Leader ,Male,2,No,0
+115188,39,6,Ph.D/Doctorate,Bangalore,Sales,Lead Engineer  ,Male,2,No,0
+115205,67,3,M.Tech/M.E.,Hyderabad,Sales,Senior Lead Engineer ,Male,4,No,0
+115212,27,3,MBA/PGDM,Hyderabad,Training,Senior Engineer ,Male,2,No,0
+115245,60,3,MBA/PGDM,Delhi,Sales,Senior Lead Engineer ,Male,3,No,0
+115246,72,3,B.Tech/B.E.,Chennai,Sales,Lead Engineer ,Male,3,No,0
+115265,27,3,Ph.D/Doctorate,Ahmedabad,Services,Senior Engineer ,Male,4,No,0
+115331,26,3,B.Tech/B.E.,Kolkata,Legal,Engineer  ,Male,4,No,0
+115334,29,4,Ph.D/Doctorate,Hyderabad,Engineering,Senior Engineer  ,Male,2,No,0
+115338,34,1,MBA/PGDM,Chennai,Research and Development,Deputy Manager ,Male,3,No,0
+115352,63,3,Ph.D/Doctorate,Mumbai,Marketing,Lead Engineer ,Male,2,Yes,1
+115370,42,3,B.Tech/B.E.,Hyderabad,Sales,Senior Engineer  ,Male,2,No,0
+115371,49,3,M.Tech/M.E.,Chennai,Human Resources,Project Manager ,Female,2,No,0
+115402,65,3,B.Tech/B.E.,Delhi,Human Resources,Lead Engineer ,Male,4,Yes,1
+115403,29,3,B.Tech/B.E.,Mumbai,Human Resources,Engineer ,Male,3,Yes,1
+115432,36,3,Ph.D/Doctorate,Hyderabad,Sales,Technical Lead ,Male,2,No,0
+115438,42,3,MBA/PGDM,Delhi,Human Resources,Senior Lead Engineer ,Male,5,No,0
+115461,30,3,Ph.D/Doctorate,Chennai,Training,Senior Engineer ,Male,3,No,0
+115462,28,3,MBA/PGDM,Ahmedabad,Support,Deputy Manager ,Male,5,No,0
+115466,35,3,B.Tech/B.E.,Chennai,Sales,Senior Lead Engineer ,Male,2,No,0
+115467,65,2,Ph.D/Doctorate,Chennai,Sales,Senior Engineer  ,Female,3,Yes,1
+115470,26,3,Ph.D/Doctorate,Bangalore,Support,Senior Engineer  ,Male,3,Yes,1
+115490,64,3,B.Tech/B.E.,Hyderabad,Accounting,Lead Engineer ,Male,5,No,0
+115504,61,3,Other degrees,Mumbai,Sales,Senior Lead Engineer ,Male,2,No,0
+115505,35,3,MBA/PGDM,Kolkata,Research and Development,Senior Engineer  ,Male,2,No,0
+115524,51,3,MBA/PGDM,Hyderabad,Support,Senior Engineer  ,Female,3,No,0
+115556,29,3,M.Tech/M.E.,Bangalore,Sales,Senior Engineer ,Male,2,Yes,1
+115559,38,3,MBA/PGDM,Ahmedabad,Accounting,Senior Engineer  ,Male,1,No,0
+115564,26,3,MBA/PGDM,Kolkata,Sales,Associate Engineer  ,Male,2,No,0
+115566,36,3,Other degrees,Mumbai,Support,Specialist ,Male,3,No,0
+115574,50,3,Other degrees,Hyderabad,Sales,Project Leader ,Male,2,No,0
+115617,46,2,Ph.D/Doctorate,Ahmedabad,Services,Senior Lead Engineer ,Male,3,Yes,1
+115620,30,3,M.Tech/M.E.,Bangalore,Human Resources,Senior Associate - -,Male,3,No,0
+115624,29,3,Other degrees,Chennai,Human Resources,Engineer  ,Female,3,No,0
+115628,41,2,M.Tech/M.E.,Hyderabad,Sales,Engineer ,Male,5,Yes,1
+115670,67,3,Ph.D/Doctorate,Mumbai,Human Resources,Technical Lead ,Male,3,No,0
+115681,31,4,Ph.D/Doctorate,Chennai,Accounting,Senior Engineer ,Male,1,No,0
+115687,26,3,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer ,Male,3,No,0
+115690,27,2,M.Tech/M.E.,Chennai,Support,Senior Engineer ,Male,6,Yes,1
+115694,27,3,Ph.D/Doctorate,Mumbai,Human Resources,Senior Engineer ,Male,3,No,0
+115696,30,3,M.Tech/M.E.,Hyderabad,Training,Senior Engineer  ,Male,5,No,0
+115697,66,3,MBA/PGDM,Chennai,Human Resources,Senior Lead Engineer ,Male,4,No,0
+115700,34,9,Other degrees,Hyderabad,Sales,Project Leader ,Male,1,Yes,1
+115702,51,2,M.Tech/M.E.,Chennai,Business Development,Engineer  ,Female,3,Yes,1
+115724,55,3,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer  ,Female,3,No,0
+115727,67,2,Other degrees,Kolkata,Support,Lead Engineer ,Male,2,Yes,1
+115736,30,3,M.Tech/M.E.,Kolkata,Sales,Program Manager ,Male,3,No,0
+115737,35,3,Other degrees,Mumbai,Support,Senior Engineer  ,Female,2,No,0
+115738,50,3,Other degrees,Kolkata,Legal,Senior Engineer  ,Female,6,No,0
+115739,43,3,MBA/PGDM,Ahmedabad,Legal,Senior Engineer  ,Female,3,No,0
+115742,38,3,MBA/PGDM,Ahmedabad,Sales,Engineer  ,Male,5,No,0
+115743,25,2,Other degrees,Chennai,Training,Engineer ,Male,1,Yes,1
+115744,26,3,Ph.D/Doctorate,Hyderabad,Training,Senior Engineer ,Male,3,No,0
+115745,65,2,B.Tech/B.E.,Ahmedabad,Human Resources,Senior Engineer ,Male,2,Yes,1
+115746,26,3,B.Tech/B.E.,Ahmedabad,Human Resources,Senior Engineer ,Male,2,No,0
+115747,26,3,MBA/PGDM,Mumbai,Human Resources,Senior Engineer  ,Male,6,No,0
+115753,58,3,M.Tech/M.E.,Kolkata,Human Resources,Senior Lead Engineer ,Male,3,No,0
+115771,31,3,MBA/PGDM,Delhi,Legal,Senior Engineer ,Male,3,No,0
+115772,36,3,MBA/PGDM,Kolkata,Support,Senior Engineer ,Male,5,No,0
+115773,30,3,B.Tech/B.E.,Kolkata,Sales,Senior Engineer  ,Male,3,No,0
+115776,26,3,M.Tech/M.E.,Kolkata,Support,Senior Engineer ,Male,2,No,0
+115777,31,3,MBA/PGDM,Kolkata,Support,Senior Engineer  ,Male,3,No,0
+115778,32,3,M.Tech/M.E.,Delhi,Support,Senior Engineer ,Male,3,No,0
+115783,70,3,Other degrees,Chennai,Business Development,Senior Engineer ,Male,3,No,0
+115786,25,3,Ph.D/Doctorate,Hyderabad,Human Resources,Engineer  ,Male,5,No,0
+115800,59,3,MBA/PGDM,Chennai,Support,Assistant Vice-President ,Male,3,No,0
+115801,25,2,Ph.D/Doctorate,Delhi,Human Resources,Senior Engineer  ,Male,3,Yes,1
+115822,29,3,B.Tech/B.E.,Ahmedabad,Support,Associate Engineer  ,Male,3,No,0
+115826,36,3,B.Tech/B.E.,Hyderabad,Human Resources,Lead Engineer  ,Male,2,No,0
+115827,26,3,MBA/PGDM,Kolkata,Human Resources,Senior Engineer  ,Male,2,No,0
+115828,25,3,M.Tech/M.E.,Hyderabad,Human Resources,Program Manager ,Male,3,No,0
+115832,24,2,Other degrees,Kolkata,Support,Engineer ,Male,5,Yes,1
+115838,39,3,Ph.D/Doctorate,Hyderabad,Legal,Associate Engineer  ,Female,3,No,0
+115846,27,3,B.Tech/B.E.,Bangalore,Research and Development,Associate Engineer ,Male,5,No,0
+115847,28,3,Other degrees,Kolkata,Research and Development,Associate Engineer ,Male,4,Yes,1
+115848,25,3,M.Tech/M.E.,Chennai,Training,Engineer ,Male,4,Yes,1
+115849,25,3,Ph.D/Doctorate,Ahmedabad,Training,Associate Engineer ,Male,4,Yes,1
+115853,26,3,Other degrees,Hyderabad,Training,Associate Engineer ,Male,4,No,0
+115854,25,2,Other degrees,Ahmedabad,Training,Associate Engineer ,Male,2,Yes,1
+115855,25,3,M.Tech/M.E.,Chennai,Training,Senior Engineer ,Male,5,No,0
+115856,39,3,B.Tech/B.E.,Hyderabad,Training,Technical Lead ,Male,3,No,0
+115858,26,3,Other degrees,Chennai,Accounting,Associate Engineer ,Male,6,No,0
+115861,56,2,M.Tech/M.E.,Mumbai,Human Resources,Project Leader ,Female,3,Yes,1
+115863,54,3,Ph.D/Doctorate,Kolkata,Human Resources,Senior Engineer ,Female,4,No,0
+115872,27,3,B.Tech/B.E.,Kolkata,Business Development,Engineer  ,Male,2,No,0
+115873,30,2,Other degrees,Chennai,Support,Engineer  ,Female,4,Yes,1
+115889,33,3,MBA/PGDM,Hyderabad,Training,Engineer  ,Female,3,No,0
+115890,34,2,Other degrees,Bangalore,Marketing,Senior Engineer ,Male,2,Yes,1
+115894,27,3,MBA/PGDM,Bangalore,Support,Senior Engineer ,Male,4,No,0
+115896,42,3,Other degrees,Kolkata,Engineering,Senior Engineer ,Male,3,No,0
+115898,35,3,Ph.D/Doctorate,Bangalore,Human Resources,Project Manager ,Female,2,No,0
+115901,25,3,B.Tech/B.E.,Bangalore,Training,Senior Engineer ,Male,3,No,0
+115905,47,3,Ph.D/Doctorate,Chennai,Marketing,Associate Engineer  ,Male,2,No,0
+115916,29,3,Other degrees,Kolkata,Support,Project Leader ,Male,3,No,0
+115954,25,3,Other degrees,Delhi,Training,Senior Engineer ,Male,3,Yes,1
+115955,54,3,Other degrees,Chennai,Human Resources,Technical Lead ,Male,4,No,0
+115962,30,3,Ph.D/Doctorate,Delhi,Sales,Engineer  ,Female,5,No,0
+116056,33,3,Other degrees,Chennai,Support,Senior Engineer ,Male,4,No,0
+116057,24,3,MBA/PGDM,Chennai,Training,Senior Engineer ,Male,4,No,0
+116058,54,3,MBA/PGDM,Ahmedabad,Sales,Senior Engineer ,Male,3,No,0
+116111,32,3,B.Tech/B.E.,Chennai,Sales,Engineer ,Male,5,No,0
+116113,24,3,Other degrees,Bangalore,Human Resources,Senior Engineer ,Female,3,No,0
+116114,25,3,Other degrees,Hyderabad,Human Resources,Senior Engineer ,Male,4,No,0
+116119,28,3,MBA/PGDM,Ahmedabad,Support,Associate Engineer ,Male,4,No,0
+116131,25,3,M.Tech/M.E.,Hyderabad,Human Resources,Senior Engineer  ,Female,4,No,0
+116133,56,3,Other degrees,Kolkata,Business Development,Project Manager ,Male,2,No,0
+116140,65,3,B.Tech/B.E.,Delhi,Business Development,Lead Engineer  ,Male,4,No,0
+116152,27,3,Other degrees,Kolkata,Product Management,Engineer ,Male,3,No,0
+116154,25,3,M.Tech/M.E.,Delhi,Training,Associate Engineer ,Male,4,No,0
+116155,28,3,MBA/PGDM,Chennai,Support,Associate Engineer ,Male,3,No,0
+116156,28,2,Ph.D/Doctorate,Bangalore,Sales,Senior Engineer ,Male,2,Yes,1
+116157,27,3,M.Tech/M.E.,Chennai,Support,Associate Engineer ,Male,4,No,0
+116161,55,3,MBA/PGDM,Chennai,Research and Development,Senior Engineer ,Male,5,No,0
+116163,24,2,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,2,Yes,1
+116166,26,3,Other degrees,Delhi,Training,Program Manager ,Female,3,No,0
+116167,43,3,Other degrees,Kolkata,Engineering,Senior Engineer  ,Male,3,No,0
+116180,63,2,Other degrees,Mumbai,Sales,Engineer  ,Male,5,Yes,1
+116210,25,3,B.Tech/B.E.,Bangalore,Human Resources,Associate Engineer ,Male,0,No,0
+116214,28,2,B.Tech/B.E.,Delhi,Marketing,Engineer  ,Female,2,Yes,1
+116215,31,3,Other degrees,Delhi,Accounting,Associate Engineer  ,Male,4,No,0
+116227,26,3,B.Tech/B.E.,Chennai,Support,Associate Engineer  ,Male,5,No,0
+116228,25,2,M.Tech/M.E.,Hyderabad,Human Resources,Associate Engineer  ,Male,3,Yes,1
+116229,25,2,Ph.D/Doctorate,Hyderabad,Sales,Senior Engineer  ,Male,3,Yes,1
+116277,32,3,M.Tech/M.E.,Ahmedabad,Services,Associate Engineer  ,Male,5,No,0
+116281,27,3,Other degrees,Bangalore,Services,Program Manager ,Female,4,No,0
+116290,27,3,MBA/PGDM,Chennai,Training,Associate Engineer  ,Male,2,No,0
+116299,61,3,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer ,Male,2,No,0
+116323,66,3,M.Tech/M.E.,Kolkata,Sales,Associate Engineer  ,Female,2,No,0
+116329,35,3,MBA/PGDM,Hyderabad,Training,Program Manager ,Male,5,No,0
+116330,38,2,Ph.D/Doctorate,Bangalore,Support,Lead Engineer ,Male,4,Yes,1
+116331,25,3,M.Tech/M.E.,Hyderabad,Training,Senior Engineer  ,Male,5,No,0
+116332,32,2,MBA/PGDM,Hyderabad,Sales,Associate Engineer  ,Male,2,Yes,1
+116368,26,2,MBA/PGDM,Delhi,Accounting,Engineer  ,Male,3,Yes,1
+116387,24,3,Ph.D/Doctorate,Bangalore,Engineering,Engineer  ,Male,4,No,0
+116389,40,3,B.Tech/B.E.,Bangalore,Sales,Engineer  ,Female,3,No,0
+116418,27,3,Other degrees,Delhi,Human Resources,Senior Engineer ,Male,0,No,0
+116419,33,3,MBA/PGDM,Hyderabad,Legal,Associate Engineer  ,Male,4,No,0
+116420,25,3,M.Tech/M.E.,Bangalore,Sales,Senior Engineer  ,Male,5,No,0
+116422,31,3,M.Tech/M.E.,Chennai,Support,Associate Engineer  ,Male,4,No,0
+116426,32,3,Ph.D/Doctorate,Bangalore,Human Resources,Engineer  ,Female,2,No,0
+116430,28,3,Ph.D/Doctorate,Bangalore,Business Development,Engineer  ,Male,5,No,0
+116526,34,3,Ph.D/Doctorate,Bangalore,Training,Associate Engineer  ,Male,1,No,0
+116527,30,3,MBA/PGDM,Chennai,Services,Associate Engineer  ,Male,4,No,0
+116529,25,3,Ph.D/Doctorate,Chennai,Legal,Associate Engineer ,Female,3,No,0
+116531,29,3,Ph.D/Doctorate,Bangalore,Sales,Engineer  ,Female,2,No,0
+116533,26,3,B.Tech/B.E.,Hyderabad,Training,Senior Engineer ,Male,5,No,0
+116534,27,3,M.Tech/M.E.,Delhi,Training,Senior Engineer ,Male,3,No,0
+116567,26,3,B.Tech/B.E.,Delhi,Support,Senior Engineer ,Male,3,No,0
+116578,31,3,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,4,No,0
+116580,34,2,Other degrees,Hyderabad,Services,Senior Engineer ,Male,3,Yes,1
+116581,25,2,M.Tech/M.E.,Bangalore,Training,Associate Engineer ,Female,3,Yes,1
+116583,26,2,MBA/PGDM,Hyderabad,Training,Associate Engineer ,Male,5,Yes,1
+116584,28,3,MBA/PGDM,Hyderabad,Business Development,Senior Officer ,Male,5,No,0
+116594,28,1,MBA/PGDM,Delhi,Product Management,Senior Engineer ,Male,4,No,0
+116596,27,2,B.Tech/B.E.,Kolkata,Support,Associate Engineer ,Male,2,Yes,1
+116602,38,2,MBA/PGDM,Bangalore,Training,Associate Engineer ,Male,2,Yes,1
+116605,25,3,Ph.D/Doctorate,Bangalore,Engineering,Senior Engineer  ,Female,3,No,0
+116607,27,3,B.Tech/B.E.,Bangalore,Sales,Senior Engineer ,Male,3,No,0
+116608,31,3,MBA/PGDM,Ahmedabad,Training,Associate Engineer ,Male,3,No,0
+116609,30,2,Other degrees,Hyderabad,Sales,Associate Engineer ,Male,3,Yes,1
+116614,28,3,M.Tech/M.E.,Ahmedabad,Sales,Senior Engineer ,Female,3,No,0
+116615,29,2,Other degrees,Delhi,Human Resources,Senior Associate - -,Male,5,Yes,1
+116617,29,3,Ph.D/Doctorate,Bangalore,Sales,Senior Engineer ,Male,5,No,0
+116621,26,3,Other degrees,Delhi,Marketing,Senior Engineer ,Male,0,No,0
+116622,27,3,B.Tech/B.E.,Bangalore,Engineering,Associate Engineer ,Male,4,No,0
+116623,35,3,B.Tech/B.E.,Chennai,Engineering,Lead Engineer ,Male,5,No,0
+116638,29,2,Ph.D/Doctorate,Hyderabad,Services,Senior Engineer ,Male,5,No,0
+116643,25,2,M.Tech/M.E.,Chennai,Engineering,Engineer ,Male,3,Yes,1
+116655,39,2,B.Tech/B.E.,Delhi,Human Resources,Engineer  ,Male,4,No,0
+116656,34,2,Other degrees,Hyderabad,Sales,Lead Engineer ,Male,2,No,0
+116657,29,2,B.Tech/B.E.,Hyderabad,Human Resources,Associate Engineer  ,Male,2,No,0
+116660,29,2,B.Tech/B.E.,Chennai,Sales,Associate Engineer ,Male,2,No,0
+116664,43,2,B.Tech/B.E.,Kolkata,Marketing,Associate Engineer ,Female,1,No,0
+116666,37,2,B.Tech/B.E.,Hyderabad,Legal,Senior Engineer ,Male,2,No,0
+116669,35,2,MBA/PGDM,Delhi,Marketing,Lead Engineer ,Male,5,No,0
+116670,26,2,Other degrees,Bangalore,Sales,Senior Engineer ,Male,5,No,0
+116671,45,2,MBA/PGDM,Mumbai,Sales,Senior Engineer  ,Female,3,No,0
+116699,27,2,MBA/PGDM,Bangalore,Human Resources,Senior Engineer ,Male,5,No,0
+116701,27,2,Other degrees,Hyderabad,Legal,Associate Engineer  ,Male,4,No,0
+116706,28,2,MBA/PGDM,Chennai,Sales,Senior Engineer ,Male,4,Yes,1
+116709,31,2,Ph.D/Doctorate,Bangalore,Human Resources,Program Manager ,Male,1,No,0
+116711,26,2,MBA/PGDM,Hyderabad,Human Resources,Associate Engineer ,Male,5,No,0
+116713,33,2,Ph.D/Doctorate,Hyderabad,Support,Associate Engineer  ,Male,3,Yes,1
+116718,27,2,Other degrees,Hyderabad,Training,Engineer ,Male,4,No,0
+116745,28,2,M.Tech/M.E.,Kolkata,Sales,Engineer ,Male,2,Yes,1
+116747,28,2,M.Tech/M.E.,Ahmedabad,Training,Engineer  ,Female,8,Yes,1
+116748,58,2,Other degrees,Hyderabad,Sales,Engineer  ,Male,4,No,0
+116750,29,2,MBA/PGDM,Chennai,Engineering,Senior Engineer  ,Male,5,No,0
+116751,39,7,Other degrees,Bangalore,Support,Project Leader ,Male,1,No,0
+116752,26,2,M.Tech/M.E.,Ahmedabad,Engineering,Senior Engineer  ,Male,4,Yes,1
+116757,28,2,B.Tech/B.E.,Bangalore,Sales,Senior Engineer ,Female,5,No,0
+116758,36,2,M.Tech/M.E.,Chennai,Marketing,Engineer  ,Male,4,No,0
+116759,27,2,Other degrees,Hyderabad,Sales,Associate Engineer ,Male,3,Yes,1
+116764,29,2,Ph.D/Doctorate,Chennai,Training,Associate Engineer  ,Male,3,No,0
+116781,25,2,M.Tech/M.E.,Hyderabad,Engineering,Senior Engineer  ,Male,3,Yes,1
+116793,28,2,B.Tech/B.E.,Ahmedabad,Support,Associate Engineer ,Male,5,No,0
+116794,33,2,Other degrees,Delhi,Engineering,Senior Engineer  ,Male,2,No,0
+116795,33,2,B.Tech/B.E.,Bangalore,Sales,Senior Engineer ,Male,1,No,0
+116800,66,2,Other degrees,Delhi,Services,Lead Engineer ,Male,6,Yes,1
+116805,31,2,Ph.D/Doctorate,Bangalore,Engineering,Senior Engineer  ,Male,1,No,0
+116806,32,2,M.Tech/M.E.,Bangalore,Human Resources,Engineer ,Male,2,No,0
+116807,36,2,M.Tech/M.E.,Hyderabad,Human Resources,Senior Associate - ,Female,3,No,0
+116809,62,2,B.Tech/B.E.,Bangalore,Business Development,Senior Lead Engineer  ,Male,4,No,0
+116810,61,2,B.Tech/B.E.,Kolkata,Training,Senior Engineer ,Female,6,Yes,1
+116811,28,2,M.Tech/M.E.,Ahmedabad,Legal,Associate Engineer  ,Male,3,Yes,1
+116819,41,0,Ph.D/Doctorate,Delhi,Support,Program Manager ,Male,3,No,0
+116826,43,2,Other degrees,Bangalore,Engineering,Senior Lead Engineer  ,Male,2,No,0
+116830,29,2,MBA/PGDM,Bangalore,Training,Program Manager ,Male,4,No,0
+116840,26,2,MBA/PGDM,Bangalore,Training,Engineer  ,Male,2,No,0
+116843,29,2,B.Tech/B.E.,Ahmedabad,Human Resources,Associate Engineer  ,Male,6,Yes,1
+116847,26,2,B.Tech/B.E.,Chennai,Engineering,Project Leader ,Male,2,No,0
+116868,44,2,M.Tech/M.E.,Kolkata,Business Development,Senior Engineer  ,Female,3,Yes,1
+116869,64,2,Ph.D/Doctorate,Delhi,Business Development,Senior Engineer  ,Male,2,No,0
+116870,25,2,M.Tech/M.E.,Kolkata,Support,Associate Engineer  ,Male,4,No,0
+116872,26,2,MBA/PGDM,Chennai,Legal,Senior Engineer  ,Male,2,No,0
+116903,34,2,M.Tech/M.E.,Ahmedabad,Sales,Project Manager ,Male,5,Yes,1
+116904,35,2,M.Tech/M.E.,Delhi,Sales,Senior Engineer ,Male,4,No,0
+116908,28,2,Other degrees,Delhi,Human Resources,Engineer  ,Male,5,No,0
+116909,55,2,M.Tech/M.E.,Bangalore,Support,Project Leader ,Male,4,No,0
+116914,31,2,M.Tech/M.E.,Kolkata,Human Resources,Senior Engineer ,Male,4,No,0
+116918,31,2,Other degrees,Delhi,Human Resources,Senior Engineer ,Male,1,No,0
+116920,65,2,M.Tech/M.E.,Ahmedabad,Human Resources,Technical Lead ,Male,3,No,0
+116933,49,2,Other degrees,Bangalore,Research and Development,Officer  ,Male,4,Yes,1
+116942,66,3,Other degrees,Bangalore,Business Development,Senior Lead Engineer ,Male,3,Yes,1
+116956,47,2,M.Tech/M.E.,Bangalore,Support,Senior Engineer ,Male,4,No,0
+116957,26,2,Ph.D/Doctorate,Hyderabad,Engineering,Associate Engineer ,Male,4,No,0
+117015,27,2,Other degrees,Kolkata,Training,Senior Engineer ,Male,5,No,0
+117018,27,2,B.Tech/B.E.,Hyderabad,Human Resources,Associate Engineer  ,Male,3,Yes,1
+117022,32,2,MBA/PGDM,Chennai,Sales,Senior Engineer ,Female,5,Yes,1
+117026,47,2,M.Tech/M.E.,Ahmedabad,Human Resources,Technical Lead ,Male,8,No,0
+117032,26,2,Ph.D/Doctorate,Delhi,Marketing,Associate Engineer  ,Male,6,No,0
+117051,26,2,Ph.D/Doctorate,Delhi,Support,Associate Engineer ,Male,4,Yes,1
+117055,62,2,MBA/PGDM,Kolkata,Human Resources,Engineer  ,Female,5,No,0
+117060,25,2,M.Tech/M.E.,Hyderabad,Accounting,Engineer  ,Male,5,No,0
+117061,25,2,Other degrees,Delhi,Business Development,Associate Engineer  ,Male,2,Yes,1
+117071,39,2,Other degrees,Hyderabad,Research and Development,Senior Engineer  ,Female,2,No,0
+117075,65,2,Other degrees,Chennai,Training,Engineer ,Male,3,Yes,1
+117079,31,2,MBA/PGDM,Ahmedabad,Training,Engineer  ,Male,5,Yes,1
+117085,26,2,Ph.D/Doctorate,Ahmedabad,Training,Associate Engineer ,Male,2,No,0
+117086,27,2,Ph.D/Doctorate,Bangalore,Accounting,Engineer  ,Male,4,No,0
+117101,68,2,B.Tech/B.E.,Kolkata,Human Resources,Lead Engineer ,Male,2,No,0
+117112,31,2,M.Tech/M.E.,Hyderabad,Sales,Senior Engineer  ,Male,4,Yes,1
+117113,25,2,MBA/PGDM,Kolkata,Marketing,Engineer  ,Male,3,No,0
+117116,28,2,MBA/PGDM,Bangalore,Services,Engineer ,Male,2,Yes,1
+117117,41,2,MBA/PGDM,Chennai,Sales,Senior Engineer ,Male,5,No,0
+117210,35,2,Ph.D/Doctorate,Mumbai,Business Development,Senior Lead Engineer ,Male,4,No,0
+117211,32,8,Ph.D/Doctorate,Chennai,Human Resources,Technical Lead ,Male,3,Yes,1
+117270,26,2,M.Tech/M.E.,Bangalore,Marketing,Engineer  ,Male,4,Yes,1
+117271,30,2,MBA/PGDM,Hyderabad,Business Development,Engineer  ,Female,6,Yes,1
+117273,29,2,M.Tech/M.E.,Hyderabad,Legal,Engineer  ,Female,2,No,0
+117275,25,2,MBA/PGDM,Chennai,Support,Engineer ,Male,2,No,0
+117278,25,2,B.Tech/B.E.,Delhi,Product Management,Engineer ,Male,4,No,0
+117279,25,2,Ph.D/Doctorate,Ahmedabad,Research and Development,Associate Engineer  ,Male,3,Yes,1
+117291,57,2,M.Tech/M.E.,Chennai,Sales,Lead Engineer ,Female,3,Yes,1
+117332,60,2,M.Tech/M.E.,Ahmedabad,Human Resources,Senior Lead Engineer  ,Male,2,No,0
+117392,25,2,Other degrees,Hyderabad,Training,Engineer  ,Male,6,Yes,1
+117398,33,2,B.Tech/B.E.,Chennai,Sales,Engineer  ,Male,4,Yes,1
+117456,24,2,B.Tech/B.E.,Hyderabad,Training,Engineer ,Female,3,Yes,1
+117463,27,2,Ph.D/Doctorate,Bangalore,Support,Senior Engineer ,Male,3,No,0
+117468,54,2,M.Tech/M.E.,Hyderabad,Sales,Senior Lead Engineer ,Male,3,Yes,1
+117470,25,2,Other degrees,Chennai,Training,Engineer  ,Male,3,No,0
+117473,25,2,M.Tech/M.E.,Kolkata,Accounting,Engineer  ,Male,6,Yes,1
+117474,27,2,M.Tech/M.E.,Chennai,Sales,Engineer  ,Male,5,No,0
+117475,29,2,Other degrees,Hyderabad,Business Development,Engineer  ,Male,5,No,0
+117477,28,2,MBA/PGDM,Hyderabad,Training,Associate Engineer ,Female,4,No,0
+117478,27,2,Ph.D/Doctorate,Bangalore,Training,Engineer  ,Female,6,No,0
+117480,60,2,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Male,3,No,0
+117483,27,2,MBA/PGDM,Ahmedabad,Business Development,Engineer  ,Male,4,No,0
+117485,26,2,M.Tech/M.E.,Hyderabad,Accounting,Engineer  ,Male,6,Yes,1
+117492,25,2,Ph.D/Doctorate,Bangalore,Training,Engineer ,Male,6,Yes,1
+117534,42,2,Other degrees,Bangalore,Sales,Technical Manager ,Male,3,Yes,1
+117568,27,2,Other degrees,Kolkata,Sales,Engineer  ,Male,9,No,0
+117570,28,2,M.Tech/M.E.,Mumbai,Accounting,Engineer ,Male,6,No,0
+117573,52,2,MBA/PGDM,Kolkata,Sales,Engineer  ,Female,1,No,0
+117614,51,2,MBA/PGDM,Bangalore,Business Development,Project Leader ,Female,4,No,0
+117615,32,2,M.Tech/M.E.,Ahmedabad,Legal,Engineer  ,Male,7,Yes,1
+117621,63,2,Ph.D/Doctorate,Hyderabad,Human Resources,Engineer ,Male,3,No,0
+117656,26,1,Other degrees,Ahmedabad,Training,Engineer ,Male,2,Yes,1
+117659,27,2,M.Tech/M.E.,Ahmedabad,Training,Engineer  ,Male,1,No,0
+117661,37,2,Other degrees,Bangalore,Accounting,Senior Engineer ,Male,1,No,0
+117662,29,2,B.Tech/B.E.,Kolkata,Sales,Engineer ,Male,3,Yes,1
+117664,30,1,Ph.D/Doctorate,Ahmedabad,Support,Engineer ,Male,6,Yes,1
+117693,28,2,Ph.D/Doctorate,Bangalore,Services,Engineer ,Male,1,Yes,1
+117698,31,2,B.Tech/B.E.,Delhi,Sales,Engineer ,Male,1,No,0
+117725,24,2,B.Tech/B.E.,Chennai,Training,Engineer ,Female,5,No,0
+117726,25,2,M.Tech/M.E.,Bangalore,Sales,Engineer  ,Male,4,Yes,1
+117728,28,2,M.Tech/M.E.,Kolkata,Accounting,Lead Engineer ,Male,2,No,0
+117733,29,2,B.Tech/B.E.,Chennai,Support,Senior Engineer ,Male,6,No,0
+117735,32,2,MBA/PGDM,Bangalore,Research and Development,Engineer  ,Male,2,Yes,1
+117738,37,2,B.Tech/B.E.,Mumbai,Research and Development,Senior Associate - -,Female,4,No,0
+117739,25,2,Ph.D/Doctorate,Chennai,Human Resources,Engineer  ,Male,4,No,0
+117740,60,2,Other degrees,Hyderabad,Legal,Senior Lead Engineer  ,Male,5,No,0
+117743,44,2,B.Tech/B.E.,Chennai,Human Resources,Principal Engineer ,Male,1,No,0
+117765,58,2,Ph.D/Doctorate,Bangalore,Support,Lead Engineer ,Male,0,No,0
+117773,25,2,Ph.D/Doctorate,Mumbai,Human Resources,Engineer ,Male,1,Yes,1
+117774,31,1,M.Tech/M.E.,Kolkata,Human Resources,Engineer ,Male,4,Yes,1
+117776,29,2,Other degrees,Mumbai,Sales,Senior Associate - -,Male,3,No,0
+117778,46,2,M.Tech/M.E.,Bangalore,Business Development,Senior Engineer  ,Female,4,No,0
+117780,31,2,MBA/PGDM,Kolkata,Business Development,Engineer  ,Female,3,No,0
+117795,48,2,B.Tech/B.E.,Ahmedabad,Research and Development,Project Manager ,Female,5,No,0
+117804,52,2,Other degrees,Hyderabad,Human Resources,Engineer ,Male,6,No,0
+117805,24,2,Ph.D/Doctorate,Hyderabad,Human Resources,Senior Engineer  ,Female,4,No,0
+117807,41,1,Ph.D/Doctorate,Hyderabad,Sales,Lead Engineer  ,Female,2,Yes,1
+117808,53,2,Ph.D/Doctorate,Ahmedabad,Human Resources,Senior Lead Engineer ,Male,3,No,0
+117809,61,2,MBA/PGDM,Mumbai,Business Development,Senior Lead Engineer  ,Male,4,No,0
+117812,26,2,B.Tech/B.E.,Mumbai,Human Resources,Engineer ,Male,1,No,0
+117830,26,2,MBA/PGDM,Kolkata,Human Resources,Engineer  ,Male,4,No,0
+117831,29,2,M.Tech/M.E.,Chennai,Engineering,Engineer  ,Male,3,No,0
+117833,30,2,MBA/PGDM,Delhi,Research and Development,Senior Lead Engineer  ,Male,1,No,0
+117837,25,2,Other degrees,Ahmedabad,Human Resources,Engineer ,Male,5,No,0
+117840,33,2,Ph.D/Doctorate,Delhi,Support,Lead Engineer ,Male,3,No,0
+117841,33,2,B.Tech/B.E.,Bangalore,Engineering,Engineer  ,Male,3,No,0
+117844,46,2,Ph.D/Doctorate,Bangalore,Business Development,Senior Associate - -,Female,3,No,0
+117877,28,1,Other degrees,Hyderabad,Human Resources,Senior Engineer ,Male,4,Yes,1
+117880,30,2,Ph.D/Doctorate,Bangalore,Sales,Engineer ,Male,2,No,0
+117885,25,2,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,2,No,0
+117892,51,2,M.Tech/M.E.,Ahmedabad,Human Resources,Project Leader ,Female,5,Yes,1
+117935,35,2,MBA/PGDM,Hyderabad,Sales,Senior Engineer ,Male,2,No,0
+117936,52,2,B.Tech/B.E.,Delhi,Sales,Senior Lead Engineer ,Male,3,No,0
+117937,63,2,Other degrees,Chennai,Business Development,Lead Engineer  ,Male,6,No,0
+117940,24,2,MBA/PGDM,Ahmedabad,Human Resources,Engineer ,Male,4,No,0
+117945,60,2,MBA/PGDM,Kolkata,Research and Development,Chief Marketing Officer,Male,1,Yes,1
+117994,51,2,Ph.D/Doctorate,Hyderabad,Marketing,Senior Lead Engineer ,Male,3,No,0
+118021,29,2,MBA/PGDM,Kolkata,Training,Senior Associate - ,Male,6,No,0
+118023,55,2,B.Tech/B.E.,Chennai,Human Resources,Lead Engineer ,Male,7,No,0
+118024,25,2,MBA/PGDM,Kolkata,Human Resources,Senior Engineer ,Female,4,No,0
+118028,25,2,Other degrees,Bangalore,Engineering,Engineer  ,Male,5,Yes,1
+118049,25,0,B.Tech/B.E.,Bangalore,Engineering,Engineer ,Male,6,No,0
+118068,66,2,Ph.D/Doctorate,Delhi,Business Development,Technical Manager ,Male,4,No,0
+118072,51,2,Ph.D/Doctorate,Chennai,Services,Program Manager ,Female,1,No,0
+118073,51,2,B.Tech/B.E.,Bangalore,Human Resources,Senior Lead Engineer ,Male,2,No,0
+118113,40,2,Other degrees,Hyderabad,Engineering,Senior Engineer  ,Male,2,No,0
+118126,30,2,Ph.D/Doctorate,Chennai,Legal,Engineer  ,Male,4,No,0
+118150,42,1,B.Tech/B.E.,Delhi,Product Management,Project Manager ,Male,7,Yes,1
+118185,25,2,Other degrees,Bangalore,Legal,Engineer  ,Male,5,No,0
+118196,24,2,MBA/PGDM,Kolkata,Training,Engineer  ,Male,4,Yes,1
+118197,64,2,Other degrees,Bangalore,Human Resources,Senior Lead Engineer  ,Male,3,No,0
+118198,25,2,B.Tech/B.E.,Hyderabad,Legal,Engineer  ,Male,2,Yes,1
+118199,28,2,B.Tech/B.E.,Bangalore,Marketing,Engineer  ,Male,2,No,0
+118201,25,2,B.Tech/B.E.,Hyderabad,Sales,Engineer ,Male,1,No,0
+118210,27,2,MBA/PGDM,Bangalore,Sales,Engineer ,Male,5,No,0
+118213,33,2,MBA/PGDM,Delhi,Sales,Engineer  ,Male,3,No,0
+118214,35,2,Ph.D/Doctorate,Bangalore,Support,Deputy Manager ,Male,0,No,0
+118231,26,2,MBA/PGDM,Bangalore,Training,Engineer ,Male,5,No,0
+118233,46,2,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer ,Female,9,No,0
+118236,52,2,MBA/PGDM,Hyderabad,Sales,Project Leader ,Male,4,No,0
+118293,29,2,M.Tech/M.E.,Hyderabad,Human Resources,Senior Engineer  ,Male,2,No,0
+118333,61,1,Other degrees,Ahmedabad,Sales,Senior Engineer ,Male,3,Yes,1
+118336,28,2,Other degrees,Hyderabad,Human Resources,Engineer ,Male,3,No,0
+118337,26,2,MBA/PGDM,Kolkata,Research and Development,Senior Engineer  ,Male,1,No,0
+118345,31,2,Other degrees,Delhi,Sales,Senior Associate - ,Male,4,No,0
+118346,63,2,Ph.D/Doctorate,Ahmedabad,Human Resources,Senior Lead Engineer ,Male,0,No,0
+118347,27,2,B.Tech/B.E.,Kolkata,Sales,Senior Associate - -,Male,6,No,0
+118351,38,2,MBA/PGDM,Kolkata,Accounting,Senior Director-Sales-,Male,4,No,0
+118369,58,2,Ph.D/Doctorate,Hyderabad,Product Management,General Manager ,Female,2,Yes,1
+118371,53,2,Other degrees,Bangalore,Human Resources,Lead Engineer ,Male,3,No,0
+118372,24,2,M.Tech/M.E.,Ahmedabad,Research and Development,Engineer ,Male,1,No,0
+118374,26,2,Ph.D/Doctorate,Chennai,Legal,Engineer  ,Male,7,No,0
+118375,25,2,MBA/PGDM,Mumbai,Support,Engineer ,Male,3,No,0
+118376,37,2,M.Tech/M.E.,Chennai,Human Resources,Senior Lead Engineer ,Male,2,No,0
+118377,27,2,B.Tech/B.E.,Hyderabad,Human Resources,Engineer ,Male,1,No,0
+118392,61,1,Ph.D/Doctorate,Mumbai,Human Resources,Project Leader ,Male,0,Yes,1
+118393,28,2,Other degrees,Bangalore,Training,Engineer  ,Male,1,No,0
+118405,33,2,Ph.D/Doctorate,Hyderabad,Human Resources,Engineer  ,Female,2,No,0
+118421,52,2,M.Tech/M.E.,Ahmedabad,Sales,Engineer ,Male,7,No,0
+118422,30,1,M.Tech/M.E.,Chennai,Human Resources,Project Leader ,Male,3,Yes,1
+118433,28,2,B.Tech/B.E.,Ahmedabad,Services,Senior Engineer ,Male,0,No,0
+118434,28,2,MBA/PGDM,Ahmedabad,Support,Engineer ,Male,5,No,0
+118435,24,2,MBA/PGDM,Hyderabad,Services,Engineer  ,Male,3,No,0
+118457,52,2,Other degrees,Chennai,Human Resources,Senior Lead Engineer ,Male,5,No,0
+118460,24,2,Other degrees,Delhi,Support,Engineer  ,Female,4,No,0
+118461,37,2,B.Tech/B.E.,Delhi,Services,Project Manager ,Female,5,No,0
+118462,25,2,Other degrees,Bangalore,Services,Senior Engineer ,Male,5,Yes,1
+118476,66,1,Other degrees,Ahmedabad,Legal,Senior Engineer  ,Male,2,Yes,1
+118484,58,1,M.Tech/M.E.,Bangalore,Accounting,Lead Engineer  ,Male,3,Yes,1
+118494,32,4,Ph.D/Doctorate,Kolkata,Sales,Senior Engineer ,Male,4,No,0
+118499,27,2,Ph.D/Doctorate,Hyderabad,Services,Engineer  ,Male,2,No,0
+118507,72,2,M.Tech/M.E.,Chennai,Human Resources,Senior Lead Engineer ,Male,5,No,0
+118581,61,1,M.Tech/M.E.,Chennai,Accounting,Lead Engineer  ,Male,2,Yes,1
+118583,39,2,MBA/PGDM,Hyderabad,Engineering,Associate Engineer  ,Male,5,No,0
+118586,27,2,Ph.D/Doctorate,Hyderabad,Legal,Engineer  ,Male,3,No,0
+118599,54,1,Other degrees,Kolkata,Human Resources,Senior Engineer  ,Female,5,Yes,1
+118604,51,2,Ph.D/Doctorate,Delhi,Research and Development,Senior Director,Male,5,No,0
+118621,42,2,MBA/PGDM,Bangalore,Training,Project Manager ,Male,2,No,0
+118641,25,2,M.Tech/M.E.,Bangalore,Human Resources,Engineer  ,Female,5,No,0
+118663,31,2,MBA/PGDM,Ahmedabad,Human Resources,Engineer  ,Female,2,No,0
+118664,26,2,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer  ,Male,2,No,0
+118717,24,2,MBA/PGDM,Hyderabad,Human Resources,Program Manager ,Female,5,No,0
+118739,25,2,B.Tech/B.E.,Bangalore,Human Resources,Engineer  ,Male,2,No,0
+118740,32,2,Other degrees,Hyderabad,Human Resources,Senior Engineer  ,Male,5,No,0
+118743,35,1,Ph.D/Doctorate,Chennai,Services,Engineer  ,Female,4,Yes,1
+118744,61,2,MBA/PGDM,Delhi,Human Resources,Senior Lead Engineer ,Male,5,No,0
+118746,28,2,M.Tech/M.E.,Kolkata,Sales,Senior Associate - -,Male,2,No,0
+118758,35,1,MBA/PGDM,Hyderabad,Research and Development,Associate Engineer  ,Female,4,Yes,1
+118760,24,2,Other degrees,Kolkata,Legal,Senior Engineer  ,Male,1,No,0
+118802,24,2,M.Tech/M.E.,Kolkata,Legal,Engineer  ,Male,4,No,0
+118816,46,2,MBA/PGDM,Ahmedabad,Human Resources,Lead Engineer ,Male,3,No,0
+118823,58,2,B.Tech/B.E.,Chennai,Human Resources,Senior Lead Engineer ,Male,5,No,0
+118826,31,2,M.Tech/M.E.,Chennai,Training,Engineer ,Male,5,No,0
+118829,48,2,Other degrees,Ahmedabad,Services,Lead Engineer ,Male,3,No,0
+118830,25,1,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,2,Yes,1
+118831,26,2,M.Tech/M.E.,Hyderabad,Sales,Engineer ,Male,2,No,0
+118835,47,2,Other degrees,Hyderabad,Support,Lead Associate ,Female,3,No,0
+118840,50,2,B.Tech/B.E.,Chennai,Training,Senior Engineer ,Female,2,No,0
+118844,25,1,M.Tech/M.E.,Ahmedabad,Training,Engineer ,Female,6,Yes,1
+118851,28,2,Ph.D/Doctorate,Bangalore,Engineering,Engineer  ,Male,3,No,0
+118861,32,2,Ph.D/Doctorate,Bangalore,Training,Senior Engineer ,Female,5,No,0
+118929,70,2,Other degrees,Ahmedabad,Human Resources,Lead Engineer ,Male,2,No,0
+118930,34,2,Ph.D/Doctorate,Delhi,Training,Project Leader ,Male,2,No,0
+118937,31,1,Other degrees,Hyderabad,Human Resources,Engineer ,Male,5,Yes,1
+118943,39,1,B.Tech/B.E.,Bangalore,Accounting,Project Manager ,Male,5,No,0
+118952,49,2,M.Tech/M.E.,Hyderabad,Marketing,Project Manager ,Male,4,No,0
+118967,37,2,B.Tech/B.E.,Kolkata,Business Development,Technical Lead ,Male,4,No,0
+118978,25,1,MBA/PGDM,Bangalore,Marketing,Engineer  ,Male,1,Yes,1
+118990,29,2,Other degrees,Delhi,Engineering,Senior Engineer  ,Female,3,No,0
+118991,31,2,B.Tech/B.E.,Hyderabad,Sales,Associate Engineer  ,Female,3,No,0
+119000,27,1,Ph.D/Doctorate,Bangalore,Human Resources,Associate Engineer  ,Female,5,Yes,1
+119003,32,1,B.Tech/B.E.,Chennai,Services,Lead Engineer ,Male,5,Yes,1
+119004,75,2,B.Tech/B.E.,Bangalore,Human Resources,Lead Engineer ,Male,4,No,0
+119006,34,1,M.Tech/M.E.,Bangalore,Training,Senior Engineer ,Female,5,Yes,1
+119008,25,1,Ph.D/Doctorate,Hyderabad,Engineering,Engineer  ,Male,4,Yes,1
+119025,24,2,Ph.D/Doctorate,Kolkata,Engineering,Senior Engineer  ,Male,6,No,0
+119026,57,2,M.Tech/M.E.,Chennai,Support,Technical Manager ,Male,3,No,0
+119027,31,2,B.Tech/B.E.,Bangalore,Business Development,Senior Engineer  ,Male,2,No,0
+119044,25,1,B.Tech/B.E.,Hyderabad,Services,Engineer  ,Male,2,Yes,1
+119045,27,1,MBA/PGDM,Hyderabad,Marketing,Engineer ,Male,1,Yes,1
+119047,24,2,B.Tech/B.E.,Chennai,Services,Engineer  ,Male,2,No,0
+119049,26,2,MBA/PGDM,Hyderabad,Engineering,Engineer  ,Male,5,No,0
+119056,36,0,Ph.D/Doctorate,Delhi,Services,Project Leader ,Male,2,No,0
+119059,46,2,B.Tech/B.E.,Kolkata,Accounting,Senior Manager ,Male,1,No,0
+119069,31,4,Other degrees,Delhi,Engineering,Project Leader ,Female,2,No,0
+119070,34,2,Ph.D/Doctorate,Chennai,Human Resources,Associate Engineer ,Male,2,No,0
+119077,36,2,M.Tech/M.E.,Chennai,Services,Senior Lead Engineer ,Male,4,No,0
+119083,62,1,Other degrees,Kolkata,Human Resources,Lead Engineer ,Male,4,Yes,1
+119084,49,1,B.Tech/B.E.,Kolkata,Legal,Lead Engineer ,Male,4,Yes,1
+119085,47,2,M.Tech/M.E.,Hyderabad,Research and Development,Senior Lead Engineer ,Female,1,No,0
+119146,31,2,Ph.D/Doctorate,Hyderabad,Research and Development,Deputy Manager ,Female,4,No,0
+119152,24,1,Ph.D/Doctorate,Hyderabad,Training,Engineer ,Male,5,Yes,1
+119153,44,1,Ph.D/Doctorate,Delhi,Training,Senior Engineer ,Male,3,Yes,1
+119154,31,1,M.Tech/M.E.,Hyderabad,Support,Senior Engineer ,Male,2,Yes,1
+119190,43,1,Ph.D/Doctorate,Hyderabad,Training,Lead Engineer ,Female,4,No,0
+119210,35,1,Other degrees,Bangalore,Sales,Engineer  ,Female,2,Yes,1
+119211,58,1,Ph.D/Doctorate,Bangalore,Sales,Engineer  ,Male,5,No,0
+119212,26,1,B.Tech/B.E.,Hyderabad,Sales,Engineer  ,Male,5,No,0
+119224,38,1,Ph.D/Doctorate,Bangalore,Research and Development,Engineer ,Male,3,No,0
+119272,32,1,Ph.D/Doctorate,Delhi,Services,Lead Engineer  ,Male,4,No,0
+119288,31,1,Ph.D/Doctorate,Chennai,Support,Engineer ,Male,2,Yes,1
+119289,29,1,M.Tech/M.E.,Hyderabad,Marketing,Engineer ,Female,5,Yes,1
+119293,24,1,B.Tech/B.E.,Ahmedabad,Sales,Engineer  ,Male,3,Yes,1
+119307,58,1,Other degrees,Mumbai,Human Resources,Project Manager ,Female,4,No,0
+119320,26,1,Ph.D/Doctorate,Bangalore,Marketing,Engineer ,Female,2,No,0
+119328,64,1,Ph.D/Doctorate,Ahmedabad,Legal,Senior Lead Engineer  ,Male,2,No,0
+119332,36,1,Ph.D/Doctorate,Hyderabad,Human Resources,Senior Engineer ,Male,3,No,0
+119335,26,1,MBA/PGDM,Delhi,Marketing,Engineer ,Male,3,No,0
+119336,63,1,Ph.D/Doctorate,Ahmedabad,Sales,Engineer  ,Female,4,Yes,1
+119337,48,1,MBA/PGDM,Hyderabad,Sales,Engineer  ,Female,2,No,0
+119340,53,1,Other degrees,Kolkata,Accounting,Vice President ,Male,3,No,0
+119373,65,1,B.Tech/B.E.,Kolkata,Services,Senior Engineer ,Male,3,Yes,1
+119377,35,1,Other degrees,Hyderabad,Human Resources,Senior Engineer ,Female,3,Yes,1
+119380,30,1,Other degrees,Ahmedabad,Marketing,Senior Engineer ,Male,5,Yes,1
+119381,27,1,Other degrees,Delhi,Sales,Senior Engineer ,Male,4,Yes,1
+119383,47,1,Ph.D/Doctorate,Ahmedabad,Sales,Engineer ,Female,3,No,0
+119385,50,1,MBA/PGDM,Delhi,Human Resources,Senior Engineer ,Male,2,No,0
+119386,57,1,Other degrees,Chennai,Human Resources,Lead Engineer ,Female,5,Yes,1
+119409,52,1,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Male,2,No,0
+119413,25,1,Ph.D/Doctorate,Kolkata,Support,Engineer ,Male,3,No,0
+119414,55,1,Other degrees,Kolkata,Support,Technical Lead ,Male,2,No,0
+119416,43,1,MBA/PGDM,Chennai,Services,Lead Engineer ,Male,2,Yes,1
+119452,56,1,Ph.D/Doctorate,Bangalore,Human Resources,Senior Engineer ,Male,3,No,0
+119454,25,1,Other degrees,Kolkata,Engineering,Senior Engineer  ,Female,3,Yes,1
+119456,51,1,Other degrees,Hyderabad,Services,Senior Engineer ,Male,4,No,0
+119457,56,1,MBA/PGDM,Ahmedabad,Human Resources,Project Manager ,Male,2,Yes,1
+119460,53,1,MBA/PGDM,Hyderabad,Human Resources,Project Leader ,Male,4,Yes,1
+119463,47,1,Ph.D/Doctorate,Kolkata,Training,Lead Engineer ,Male,2,No,0
+119564,56,1,B.Tech/B.E.,Delhi,Research and Development,Senior Lead Engineer ,Male,5,Yes,1
+119566,27,1,Ph.D/Doctorate,Chennai,Services,Senior Engineer ,Male,3,Yes,1
+119576,44,1,B.Tech/B.E.,Delhi,Business Development,Senior Engineer  ,Male,5,No,0
+119630,48,1,MBA/PGDM,Chennai,Research and Development,General Manager ,Male,4,No,0
+119656,58,1,M.Tech/M.E.,Kolkata,Legal,Senior Lead Engineer ,Male,2,Yes,1
+119679,63,1,Ph.D/Doctorate,Chennai,Support,Technical Manager ,Male,4,No,0
+119712,33,1,Other degrees,Kolkata,Human Resources,Engineer ,Male,5,No,0
+119713,38,1,Other degrees,Bangalore,Services,Lead Engineer ,Male,2,No,0
+119736,50,1,MBA/PGDM,Delhi,Human Resources,Vice President ,Male,5,No,0
+119762,49,1,Ph.D/Doctorate,Ahmedabad,Accounting,Program Manager ,Male,4,No,0
+119772,50,1,B.Tech/B.E.,Hyderabad,Human Resources,Senior Engineer ,Female,2,No,0
+119774,67,1,B.Tech/B.E.,Mumbai,Human Resources,Senior Lead Engineer  ,Female,3,No,0
+119796,59,1,Ph.D/Doctorate,Ahmedabad,Business Development,Lead Engineer ,Female,6,No,0
+119797,24,1,B.Tech/B.E.,Hyderabad,Sales,Engineer ,Male,4,No,0
+119801,23,1,MBA/PGDM,Delhi,Sales,Engineer ,Male,5,Yes,1
+119802,37,1,B.Tech/B.E.,Kolkata,Marketing,Senior Lead Engineer ,Female,9,No,0
+119842,42,1,Other degrees,Delhi,Marketing,Program Manager ,Female,5,No,0
+119844,53,1,MBA/PGDM,Hyderabad,Sales,Senior Engineer ,Male,2,No,0
+119852,23,1,Ph.D/Doctorate,Delhi,Support,Engineer ,Male,4,No,0
+119864,25,1,Other degrees,Bangalore,Human Resources,Engineer ,Male,3,No,0
+119868,25,1,Other degrees,Bangalore,Sales,Associate Engineer ,Male,3,Yes,1
+119871,24,1,MBA/PGDM,Delhi,Support,Associate Engineer  ,Male,5,Yes,1
+119874,35,1,MBA/PGDM,Bangalore,Human Resources,Engineer ,Female,3,Yes,1
+119881,27,1,M.Tech/M.E.,Bangalore,Sales,Engineer ,Female,4,No,0
+119882,60,1,MBA/PGDM,Hyderabad,Services,Senior Engineer ,Male,2,No,0
+120278,58,1,M.Tech/M.E.,Hyderabad,Accounting,Senior Engineer ,Male,4,No,0
+120300,59,1,B.Tech/B.E.,Chennai,Human Resources,Lead Associate ,Male,5,No,0
+120332,57,1,B.Tech/B.E.,Ahmedabad,Business Development,Engineer  ,Female,2,No,0
+120361,28,1,M.Tech/M.E.,Chennai,Research and Development,Engineer ,Male,5,No,0
+120376,26,1,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer ,Male,3,No,0
+120406,55,1,B.Tech/B.E.,Kolkata,Training,Senior Lead Engineer ,Male,2,No,0
+120416,57,1,M.Tech/M.E.,Delhi,Training,Project Leader ,Female,5,No,0
+120417,24,1,M.Tech/M.E.,Bangalore,Training,Engineer ,Female,4,No,0
+120420,32,1,Ph.D/Doctorate,Kolkata,Human Resources,Engineer  ,Male,2,Yes,1
+120421,69,1,M.Tech/M.E.,Bangalore,Legal,Senior Lead Engineer  ,Male,2,Yes,1
+120428,33,1,Ph.D/Doctorate,Ahmedabad,Support,Specialist ,Female,3,No,0
+120448,36,0,M.Tech/M.E.,Hyderabad,Marketing,Project Manager ,Male,3,No,0
+120465,40,0,B.Tech/B.E.,Delhi,Sales,Technical Manager ,Male,3,No,0
+120470,35,0,Ph.D/Doctorate,Ahmedabad,Product Management,Technical Manager ,Female,2,No,0
+120476,36,0,MBA/PGDM,Bangalore,Legal,Principal Engineer ,Male,5,No,0
+120490,40,0,Ph.D/Doctorate,Ahmedabad,Training,Program Manager ,Male,3,No,0
+120491,39,0,Other degrees,Hyderabad,Support,Technical Manager ,Male,3,No,0
+120496,35,0,Other degrees,Mumbai,Accounting,Project Manager ,Male,5,No,0
+120497,36,0,B.Tech/B.E.,Hyderabad,Engineering,Project Manager ,Male,3,No,0
+120500,42,0,Ph.D/Doctorate,Chennai,Accounting,Sr. Technical Architect - ,Female,5,No,0
+120526,34,0,MBA/PGDM,Kolkata,Services,Project Manager ,Male,3,No,0
+120528,32,0,Other degrees,Ahmedabad,Accounting,Technical Manager ,Male,3,No,0
+120530,34,0,Ph.D/Doctorate,Hyderabad,Business Development,Project Manager ,Male,4,No,0
+120539,36,0,M.Tech/M.E.,Mumbai,Human Resources,Sr. Technical Architect - ,Male,4,No,0
+120555,33,0,Ph.D/Doctorate,Delhi,Research and Development,Project Leader ,Male,5,No,0
+120560,38,0,Other degrees,Chennai,Marketing,Technical Manager ,Female,2,No,0
+120561,38,0,M.Tech/M.E.,Hyderabad,Sales,Senior Manager ,Male,5,No,0
+120564,33,0,M.Tech/M.E.,Kolkata,Product Management,Technical Manager ,Female,4,No,0
+120569,35,0,Other degrees,Chennai,Legal,Project Manager ,Male,8,No,0
+120571,36,0,Ph.D/Doctorate,Bangalore,Engineering,Technical Lead ,Male,5,No,0
+120572,36,0,M.Tech/M.E.,Hyderabad,Accounting,Project Leader  ,Male,2,No,0
+120576,31,0,B.Tech/B.E.,Bangalore,Training,Project Leader ,Male,5,No,0
+120579,32,0,B.Tech/B.E.,Ahmedabad,Support,Technical Manager ,Female,4,No,0
+120580,31,0,MBA/PGDM,Hyderabad,Research and Development,Technical Lead -,Female,3,No,0
+120582,36,0,MBA/PGDM,Kolkata,Sales,Project Manager ,Male,3,No,0
+120583,31,0,Ph.D/Doctorate,Hyderabad,Accounting,Project Leader ,Male,4,No,0
+120592,33,0,M.Tech/M.E.,Bangalore,Engineering,Technical Lead ,Female,5,No,0
+120594,36,0,B.Tech/B.E.,Kolkata,Sales,Project Leader ,Male,2,No,0
+120599,35,0,Ph.D/Doctorate,Delhi,Services,Project Manager ,Male,5,Yes,1
+120601,32,0,M.Tech/M.E.,Hyderabad,Business Development,Technical Lead ,Male,2,No,0
+120602,30,0,B.Tech/B.E.,Ahmedabad,Support,Project Leader ,Male,4,No,0
+120604,40,0,Ph.D/Doctorate,Bangalore,Human Resources,Chief Engineer ,Male,4,No,0
+120608,32,0,Ph.D/Doctorate,Hyderabad,Accounting,Technical Lead ,Male,3,No,0
+120611,30,0,B.Tech/B.E.,Kolkata,Product Management,Project Leader ,Male,2,No,0
+120616,31,0,MBA/PGDM,Bangalore,Research and Development,Project Leader ,Male,3,No,0
+120620,33,0,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Male,3,Yes,1
+120635,47,0,M.Tech/M.E.,Delhi,Sales,Senior Manager ,Female,4,No,0
+120638,41,0,M.Tech/M.E.,Delhi,Research and Development,Manager ,Male,5,No,0
+120646,31,0,B.Tech/B.E.,Chennai,Support,Lead Engineer ,Male,2,No,0
+120652,30,0,Other degrees,Bangalore,Accounting,Project Leader  ,Male,2,No,0
+120653,31,0,Other degrees,Delhi,Accounting,Lead Engineer ,Male,4,No,0
+120658,37,0,Other degrees,Bangalore,Accounting,Project Leader ,Male,4,No,0
+120665,43,0,B.Tech/B.E.,Chennai,Marketing,Centre Manager ,Male,3,No,0
+120670,30,0,Other degrees,Chennai,Accounting,Lead Engineer  ,Male,3,No,0
+120672,30,0,M.Tech/M.E.,Hyderabad,Business Development,Technical Lead ,Male,2,No,0
+120675,30,0,M.Tech/M.E.,Hyderabad,Sales,Project Leader ,Male,4,Yes,1
+120679,31,0,M.Tech/M.E.,Kolkata,Product Management,Project Leader ,Male,3,No,0
+120688,34,0,MBA/PGDM,Ahmedabad,Legal,Technical Lead ,Male,3,No,0
+120702,44,0,Other degrees,Hyderabad,Sales,Senior Manager ,Male,4,No,0
+120704,30,0,M.Tech/M.E.,Ahmedabad,Support,Lead Engineer  ,Male,3,No,0
+120705,38,0,Other degrees,Bangalore,Human Resources,Technical Manager ,Male,2,No,0
+120707,29,0,M.Tech/M.E.,Ahmedabad,Product Management,Lead Engineer  ,Male,2,No,0
+120709,32,0,Other degrees,Bangalore,Product Management,Lead Engineer  ,Male,4,No,0
+120712,29,0,Ph.D/Doctorate,Bangalore,Accounting,Technical Lead Exempt,Male,2,No,0
+120718,30,0,B.Tech/B.E.,Kolkata,Accounting,Lead Engineer  ,Male,4,No,0
+120719,29,0,B.Tech/B.E.,Bangalore,Legal,Lead Engineer  ,Male,2,No,0
+120728,31,0,M.Tech/M.E.,Kolkata,Accounting,Lead Engineer ,Male,4,No,0
+120729,30,0,B.Tech/B.E.,Ahmedabad,Accounting,Lead Engineer ,Male,2,No,0
+120732,37,0,Ph.D/Doctorate,Delhi,Accounting,Project Leader ,Male,5,No,0
+120733,33,0,Other degrees,Kolkata,Training,Lead Engineer ,Male,3,No,0
+120735,30,0,MBA/PGDM,Mumbai,Support,Lead Engineer ,Male,5,Yes,1
+120736,35,0,B.Tech/B.E.,Delhi,Engineering,Technical Lead ,Male,5,No,0
+120739,32,0,Ph.D/Doctorate,Bangalore,Engineering,Technical Lead ,Male,4,No,0
+120741,31,0,Other degrees,Hyderabad,Engineering,Lead Engineer  ,Male,4,No,0
+120744,30,0,M.Tech/M.E.,Delhi,Training,Lead Engineer  ,Male,2,No,0
+120753,28,0,Ph.D/Doctorate,Chennai,Engineering,Lead Engineer  ,Male,2,No,0
+120754,31,0,B.Tech/B.E.,Hyderabad,Legal,Lead Engineer ,Male,3,No,0
+120758,28,0,B.Tech/B.E.,Delhi,Services,Lead Engineer ,Male,3,No,0
+120762,29,0,Ph.D/Doctorate,Bangalore,Accounting,Lead Engineer ,Male,1,No,0
+120770,29,0,MBA/PGDM,Bangalore,Business Development,Lead Engineer  ,Male,2,No,0
+120776,29,0,MBA/PGDM,Hyderabad,Legal,Lead Engineer  ,Male,5,No,0
+120778,29,0,MBA/PGDM,Ahmedabad,Engineering,Lead Engineer  ,Male,5,No,0
+120779,28,0,Other degrees,Chennai,Product Management,Lead Engineer ,Female,3,No,0
+120783,39,0,B.Tech/B.E.,Chennai,Support,Technical Manager ,Male,5,No,0
+120794,30,0,M.Tech/M.E.,Hyderabad,Accounting,Lead Engineer  ,Male,2,No,0
+120809,31,0,Ph.D/Doctorate,Delhi,Engineering,Project Leader ,Male,3,No,0
+120815,47,0,Other degrees,Kolkata,Engineering,Program Manager ,Male,3,No,0
+120816,39,0,Other degrees,Hyderabad,Training,Project Manager ,Male,4,No,0
+120818,40,0,M.Tech/M.E.,Delhi,Services,Technical Lead ,Male,3,No,0
+120824,33,0,B.Tech/B.E.,Hyderabad,Business Development,Lead Engineer ,Male,2,No,0
+120835,46,0,B.Tech/B.E.,Mumbai,Business Development,Program Manager ,Male,5,No,0
+120840,35,0,B.Tech/B.E.,Ahmedabad,Accounting,Project Manager ,Male,3,No,0
+120851,33,0,M.Tech/M.E.,Mumbai,Legal,Lead Engineer  ,Female,5,No,0
+120852,32,0,MBA/PGDM,Ahmedabad,Engineering,Project Leader  ,Male,5,No,0
+120853,30,0,Other degrees,Bangalore,Sales,Lead Engineer ,Male,3,No,0
+120856,27,0,M.Tech/M.E.,Delhi,Business Development,Lead Engineer ,Male,4,No,0
+120864,28,0,MBA/PGDM,Mumbai,Training,Lead Engineer ,Female,2,No,0
+120869,35,0,B.Tech/B.E.,Bangalore,Training,Project Leader  ,Male,5,No,0
+120882,39,0,Ph.D/Doctorate,Bangalore,Engineering,Lead Engineer ,Male,4,No,0
+120883,31,0,M.Tech/M.E.,Hyderabad,Accounting,Lead Engineer ,Male,6,No,0
+120887,32,0,M.Tech/M.E.,Bangalore,Human Resources,Technical Lead ,Male,2,No,0
+120889,35,0,Other degrees,Delhi,Human Resources,Project Leader ,Male,4,No,0
+120907,32,0,MBA/PGDM,Hyderabad,Legal,Project Leader ,Male,4,No,0
+120908,31,0,Ph.D/Doctorate,Ahmedabad,Support,Technical Lead ,Male,2,No,0
+120909,37,0,Ph.D/Doctorate,Mumbai,Engineering,Technical Manager ,Male,3,No,0
+120918,30,0,MBA/PGDM,Delhi,Training,Lead Engineer  ,Male,3,No,0
+120926,34,0,Other degrees,Ahmedabad,Engineering,Project Leader ,Male,5,No,0
+120930,29,0,B.Tech/B.E.,Ahmedabad,Human Resources,Lead Engineer ,Male,3,No,0
+120935,34,0,B.Tech/B.E.,Bangalore,Training,Technical Lead Exempt,Male,3,No,0
+120939,37,0,Ph.D/Doctorate,Ahmedabad,Engineering,Project Leader ,Male,3,No,0
+120940,32,0,B.Tech/B.E.,Kolkata,Product Management,Technical Lead ,Female,2,No,0
+120943,31,0,M.Tech/M.E.,Mumbai,Training,Lead Engineer  ,Male,2,No,0
+120948,38,0,Ph.D/Doctorate,Bangalore,Accounting,Project Manager ,Male,2,No,0
+120949,34,0,MBA/PGDM,Bangalore,Accounting,Project Leader ,Male,4,No,0
+120951,29,0,B.Tech/B.E.,Chennai,Sales,Lead Engineer ,Male,2,No,0
+120954,36,0,MBA/PGDM,Hyderabad,Support,Project Leader ,Male,5,No,0
+120957,36,0,Other degrees,Bangalore,Engineering,Project Leader ,Female,3,No,0
+120959,30,0,M.Tech/M.E.,Bangalore,Accounting,Lead Engineer  ,Male,4,No,0
+120964,32,0,MBA/PGDM,Delhi,Business Development,Technical Lead ,Male,5,No,0
+120975,34,0,M.Tech/M.E.,Delhi,Business Development,Project Leader ,Male,2,No,0
+121007,30,0,M.Tech/M.E.,Kolkata,Research and Development,Lead Engineer  ,Female,3,Yes,1
+121012,39,0,Other degrees,Delhi,Accounting,Project Leader ,Male,2,No,0
+121021,30,0,Other degrees,Kolkata,Engineering,Project Leader  ,Male,5,No,0
+121052,30,0,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Female,3,No,0
+121055,29,0,MBA/PGDM,Bangalore,Business Development,Lead Engineer ,Female,3,No,0
+121071,34,0,MBA/PGDM,Ahmedabad,Accounting,Project Leader ,Male,5,No,0
+121076,36,0,MBA/PGDM,Hyderabad,Training,Technical Lead ,Male,5,No,0
+121086,34,0,B.Tech/B.E.,Bangalore,Product Management,Technical Lead ,Female,3,No,0
+121103,33,0,Other degrees,Hyderabad,Support,Lead Engineer ,Female,2,No,0
+121104,34,0,M.Tech/M.E.,Hyderabad,Marketing,Project Leader ,Male,4,No,0
+121110,38,0,MBA/PGDM,Chennai,Product Management,Project Leader ,Female,2,No,0
+121137,30,0,B.Tech/B.E.,Kolkata,Accounting,Project Leader ,Female,5,No,0
+121142,29,0,Other degrees,Bangalore,Accounting,Sr. Software Engineer - ,Male,3,No,0
+121147,40,0,MBA/PGDM,Ahmedabad,Marketing,Technical Lead ,Male,4,No,0
+121159,33,0,Other degrees,Hyderabad,Accounting,Lead Engineer ,Female,2,No,0
+121198,35,0,MBA/PGDM,Chennai,Legal,Technical Manager ,Male,2,No,0
+121233,36,0,M.Tech/M.E.,Ahmedabad,Accounting,Lead Engineer ,Female,3,No,0
+121235,38,0,Other degrees,Mumbai,Accounting,Technical Manager ,Male,3,No,0
+121262,30,0,M.Tech/M.E.,Delhi,Sales,Lead Engineer ,Male,2,No,0
+121279,36,0,Ph.D/Doctorate,Hyderabad,Accounting,Lead Engineer ,Male,3,No,0
+121424,27,0,Ph.D/Doctorate,Kolkata,Legal,Technical Lead ,Male,4,No,0
+121425,34,0,MBA/PGDM,Delhi,Accounting,Project Leader ,Female,6,No,0
+121444,27,1,M.Tech/M.E.,Hyderabad,Training,Senior Engineer ,Female,4,Yes,1
+121445,26,1,B.Tech/B.E.,Chennai,Accounting,Engineer ,Female,2,No,0
+121452,46,1,B.Tech/B.E.,Hyderabad,Human Resources,Senior Lead Engineer ,Male,4,No,0
+121461,60,1,Other degrees,Ahmedabad,Human Resources,Senior Engineer ,Male,2,No,0
+121494,55,1,MBA/PGDM,Ahmedabad,Support,Lead Engineer ,Male,2,No,0
+121496,62,1,M.Tech/M.E.,Bangalore,Marketing,Senior Engineer ,Male,2,No,0
+121497,23,1,Other degrees,Delhi,Sales,Associate Engineer  ,Male,2,No,0
+121499,48,1,Other degrees,Kolkata,Sales,Senior Engineer  ,Male,2,No,0
+121500,25,0,MBA/PGDM,Delhi,Sales,Engineer  ,Male,4,Yes,1
+121502,24,1,Ph.D/Doctorate,Ahmedabad,Research and Development,TRAINEE  ,Female,3,Yes,1
+121503,31,1,M.Tech/M.E.,Chennai,Marketing,Lead Engineer ,Female,5,No,0
+121523,25,1,Other degrees,Ahmedabad,Accounting,Engineer ,Male,5,No,0
+121527,33,1,MBA/PGDM,Ahmedabad,Human Resources,Lead Engineer ,Male,5,No,0
+121528,73,1,Ph.D/Doctorate,Delhi,Human Resources,Senior Lead Engineer ,Male,3,No,0
+121594,28,1,B.Tech/B.E.,Chennai,Human Resources,Engineer ,Male,2,No,0
+121596,24,1,MBA/PGDM,Ahmedabad,Training,Engineer ,Male,4,No,0
+121597,30,1,Other degrees,Bangalore,Sales,Engineer  ,Male,5,No,0
+121598,28,1,MBA/PGDM,Bangalore,Marketing,Engineer ,Male,5,Yes,1
+121607,64,1,M.Tech/M.E.,Kolkata,Human Resources,Senior Engineer ,Male,2,No,0
+121608,51,1,Ph.D/Doctorate,Chennai,Human Resources,Senior Lead Engineer ,Male,4,Yes,1
+121629,28,1,MBA/PGDM,Hyderabad,Business Development,Senior Engineer  ,Female,3,Yes,1
+121630,24,1,MBA/PGDM,Ahmedabad,Support,Engineer ,Male,5,No,0
+121631,40,0,MBA/PGDM,Chennai,Sales,Associate Engineer  ,Female,5,Yes,1
+121632,60,1,B.Tech/B.E.,Ahmedabad,Accounting,Lead Engineer  ,Male,5,No,0
+121641,49,1,MBA/PGDM,Ahmedabad,Human Resources,Technical Lead ,Male,2,No,0
+121644,27,1,B.Tech/B.E.,Pune,Services,Engineer ,Male,4,No,0
+121645,41,1,B.Tech/B.E.,Bangalore,Support,Senior Engineer  ,Male,3,No,0
+121646,51,1,M.Tech/M.E.,Bangalore,Business Development,Lead Engineer ,Male,2,No,0
+121647,29,1,Ph.D/Doctorate,Delhi,Services,Associate Engineer ,Male,2,Yes,1
+121648,57,1,M.Tech/M.E.,Chennai,Business Development,Lead Engineer ,Male,7,No,0
+121651,63,1,MBA/PGDM,Chennai,Support,Senior Lead Engineer ,Male,5,No,0
+121654,59,1,Ph.D/Doctorate,Delhi,Business Development,Lead Engineer  ,Female,4,No,0
+121661,37,1,B.Tech/B.E.,Kolkata,Research and Development,Engineer ,Male,2,Yes,1
+121662,36,1,M.Tech/M.E.,Mumbai,Support,Senior Officer ,Male,7,No,0
+121669,47,1,MBA/PGDM,Ahmedabad,Engineering,Senior Engineer  ,Male,4,No,0
+121682,27,1,M.Tech/M.E.,Mumbai,Support,Engineer  ,Male,2,Yes,1
+121684,26,1,MBA/PGDM,Ahmedabad,Support,Engineer ,Female,2,No,0
+121785,56,1,Ph.D/Doctorate,Ahmedabad,Human Resources,Technical Manager ,Male,4,No,0
+121786,29,1,M.Tech/M.E.,Hyderabad,Engineering,Engineer ,Male,5,No,0
+121790,25,0,Ph.D/Doctorate,Hyderabad,Sales,Engineer ,Male,2,Yes,1
+121792,33,1,Other degrees,Kolkata,Sales,Lead Engineer ,Male,4,Yes,1
+121793,68,1,B.Tech/B.E.,Chennai,Research and Development,Lead Engineer ,Male,5,No,0
+121795,68,1,Other degrees,Chennai,Research and Development,Lead Engineer ,Male,2,No,0
+121796,54,0,MBA/PGDM,Ahmedabad,Engineering,Engineer  ,Female,5,Yes,1
+121797,40,1,B.Tech/B.E.,Chennai,Sales,Senior Engineer ,Female,5,No,0
+121798,63,1,M.Tech/M.E.,Bangalore,Research and Development,Lead Engineer ,Male,5,Yes,1
+121812,28,1,Other degrees,Hyderabad,Human Resources,Engineer  ,Male,4,No,0
+121813,22,1,MBA/PGDM,Kolkata,Research and Development,Engineer  ,Male,5,Yes,1
+121903,62,1,Other degrees,Ahmedabad,Support,Lead Engineer ,Male,2,No,0
+121923,26,1,B.Tech/B.E.,Chennai,Business Development,Engineer ,Male,3,No,0
+121924,46,1,Other degrees,Bangalore,Sales,Senior Engineer ,Female,5,No,0
+121925,23,1,Other degrees,Bangalore,Support,Engineer ,Male,2,Yes,1
+121927,24,1,Ph.D/Doctorate,Chennai,Support,Associate Engineer ,Male,4,Yes,1
+121933,24,1,M.Tech/M.E.,Ahmedabad,Accounting,Senior Officer ,Female,3,No,0
+121934,25,1,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer ,Male,2,No,0
+121936,67,1,Ph.D/Doctorate,Ahmedabad,Sales,Senior Engineer ,Male,3,No,0
+121937,54,1,Other degrees,Hyderabad,Accounting,Senior Engineer ,Male,1,No,0
+121939,54,0,M.Tech/M.E.,Ahmedabad,Business Development,Lead Engineer ,Male,3,Yes,1
+121991,43,1,Ph.D/Doctorate,Kolkata,Training,Project Leader ,Female,4,Yes,1
+121993,33,7,Ph.D/Doctorate,Hyderabad,Business Development,Senior Engineer ,Male,3,Yes,1
+121995,21,0,M.Tech/M.E.,Hyderabad,Accounting,Associate Engineer  ,Male,9,Yes,1
+121996,59,1,M.Tech/M.E.,Hyderabad,Business Development,Lead Engineer  ,Male,2,No,0
+121998,56,1,Ph.D/Doctorate,Bangalore,Business Development,Lead Engineer  ,Female,4,No,0
+122041,56,1,Other degrees,Kolkata,Business Development,Lead Engineer ,Male,5,No,0
+122042,51,1,Ph.D/Doctorate,Hyderabad,Sales,Engineer  ,Male,0,No,0
+122045,60,1,Ph.D/Doctorate,Bangalore,Services,Project Leader ,Male,4,No,0
+122097,45,1,M.Tech/M.E.,Bangalore,Research and Development,Engineer  ,Female,1,No,0
+122098,29,1,M.Tech/M.E.,Ahmedabad,Human Resources,Senior Engineer  ,Male,2,Yes,1
+122100,24,0,B.Tech/B.E.,Hyderabad,Human Resources,Engineer  ,Female,5,Yes,1
+122103,21,1,MBA/PGDM,Hyderabad,Human Resources,Associate Engineer  ,Female,3,No,0
+122104,59,1,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer  ,Female,3,No,0
+122105,34,1,B.Tech/B.E.,Ahmedabad,Business Development,Senior Associate - -,Female,2,No,0
+122109,60,0,Ph.D/Doctorate,Ahmedabad,Training,Senior Lead Engineer ,Male,2,Yes,1
+122110,60,0,Ph.D/Doctorate,Mumbai,Training,Senior Lead Engineer ,Male,2,Yes,1
+122112,32,1,B.Tech/B.E.,Kolkata,Sales,Senior Engineer ,Female,4,No,0
+122113,62,1,MBA/PGDM,Chennai,Business Development,Senior Engineer  ,Female,2,No,0
+122129,49,1,Other degrees,Delhi,Engineering,Senior Engineer  ,Male,4,No,0
+122130,42,4,Other degrees,Bangalore,Sales,Senior Director-Sales-,Male,2,No,0
+122144,28,1,B.Tech/B.E.,Hyderabad,Business Development,Engineer  ,Male,5,No,0
+122145,26,1,MBA/PGDM,Bangalore,Marketing,Engineer ,Male,3,No,0
+122146,54,7,B.Tech/B.E.,Ahmedabad,Services,Technical Lead ,Female,4,No,0
+122147,27,1,MBA/PGDM,Kolkata,Training,Engineer ,Male,5,Yes,1
+122148,36,9,Other degrees,Bangalore,Human Resources,Senior Engineer  ,Male,2,No,0
+122150,25,1,M.Tech/M.E.,Mumbai,Sales,Engineer ,Male,5,No,0
+122151,39,0,M.Tech/M.E.,Hyderabad,Sales,Senior Lead Engineer ,Male,4,Yes,1
+122152,27,1,Ph.D/Doctorate,Bangalore,Sales,Project Leader ,Female,2,No,0
+122153,32,1,M.Tech/M.E.,Bangalore,Business Development,Senior Engineer ,Female,3,No,0
+122154,24,1,Other degrees,Kolkata,Business Development,Engineer ,Male,4,Yes,1
+122155,51,1,Ph.D/Doctorate,Kolkata,Business Development,Senior Engineer ,Male,2,No,0
+122156,60,1,Ph.D/Doctorate,Delhi,Legal,Senior Engineer  ,Male,3,Yes,1
+122158,34,0,MBA/PGDM,Hyderabad,Human Resources,Engineer  ,Male,6,Yes,1
+122212,26,1,Other degrees,Bangalore,Support,Engineer ,Male,2,No,0
+122213,43,1,M.Tech/M.E.,Delhi,Human Resources,Senior Engineer ,Male,3,No,0
+122214,50,1,MBA/PGDM,Chennai,Human Resources,Senior Lead Engineer ,Female,2,No,0
+122215,24,1,Ph.D/Doctorate,Chennai,Support,Associate Engineer ,Female,5,Yes,1
+122216,61,1,B.Tech/B.E.,Bangalore,Engineering,Senior Engineer  ,Male,3,Yes,1
+122217,70,1,M.Tech/M.E.,Chennai,Marketing,Senior Lead Engineer ,Male,2,No,0
+122218,55,1,MBA/PGDM,Kolkata,Human Resources,Technical Manager ,Male,6,No,0
+122219,62,0,Other degrees,Hyderabad,Sales,Senior Lead Engineer ,Male,4,Yes,1
+122220,55,0,Other degrees,Bangalore,Training,Project Leader ,Male,2,Yes,1
+122221,23,1,Other degrees,Chennai,Legal,Engineer  ,Male,5,Yes,1
+122222,65,1,Other degrees,Hyderabad,Research and Development,Senior Engineer ,Male,4,No,0
+122259,23,1,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer  ,Male,5,Yes,1
+122261,28,1,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Female,2,No,0
+122262,23,1,MBA/PGDM,Chennai,Human Resources,Engineer  ,Male,5,No,0
+122264,47,0,MBA/PGDM,Delhi,Legal,Lead Engineer ,Female,4,Yes,1
+122266,30,1,Other degrees,Bangalore,Services,Senior Engineer ,Male,3,No,0
+122268,26,1,MBA/PGDM,Kolkata,Human Resources,Senior Engineer ,Male,4,No,0
+122269,24,1,Other degrees,Bangalore,Training,Engineer ,Male,5,No,0
+122270,26,1,M.Tech/M.E.,Delhi,Business Development,Project Leader ,Female,6,Yes,1
+122273,26,1,Ph.D/Doctorate,Bangalore,Marketing,Associate Engineer  ,Male,5,No,0
+122274,32,1,Ph.D/Doctorate,Ahmedabad,Training,Associate Engineer  ,Male,2,No,0
+122275,31,1,Ph.D/Doctorate,Delhi,Accounting,Lead Engineer ,Male,2,No,0
+122277,31,0,MBA/PGDM,Chennai,Sales,Engineer ,Male,4,Yes,1
+122278,37,1,Other degrees,Bangalore,Sales,Engineer ,Female,2,No,0
+122279,34,1,MBA/PGDM,Mumbai,Legal,Project Leader ,Male,2,No,0
+122280,49,1,MBA/PGDM,Ahmedabad,Human Resources,Lead Engineer ,Male,4,No,0
+122281,40,1,MBA/PGDM,Bangalore,Engineering,Associate Engineer  ,Female,4,Yes,1
+122282,27,1,B.Tech/B.E.,Hyderabad,Engineering,Engineer  ,Male,2,No,0
+122305,25,1,B.Tech/B.E.,Hyderabad,Human Resources,Engineer ,Male,2,Yes,1
+122308,29,0,MBA/PGDM,Delhi,Support,Lead Engineer ,Male,6,Yes,1
+122333,29,1,M.Tech/M.E.,Mumbai,Legal,Engineer  ,Female,3,No,0
+122334,28,1,M.Tech/M.E.,Ahmedabad,Marketing,Engineer ,Male,2,Yes,1
+122335,28,1,B.Tech/B.E.,Delhi,Services,Engineer  ,Male,2,No,0
+122336,32,1,Other degrees,Ahmedabad,Services,Senior Engineer ,Male,8,No,0
+122337,25,1,M.Tech/M.E.,Chennai,Marketing,Associate Engineer  ,Male,4,Yes,1
+122339,25,1,Other degrees,Delhi,Training,Engineer  ,Female,2,No,0
+122340,35,1,MBA/PGDM,Kolkata,Human Resources,Engineer  ,Female,4,No,0
+122341,26,1,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer  ,Male,5,No,0
+122342,24,1,B.Tech/B.E.,Delhi,Training,Engineer ,Male,2,No,0
+122343,61,1,Ph.D/Doctorate,Hyderabad,Human Resources,Senior Lead Engineer ,Male,2,No,0
+122345,46,0,M.Tech/M.E.,Kolkata,Sales,Project Manager ,Male,4,Yes,1
+122346,32,1,Ph.D/Doctorate,Delhi,Sales,Senior Engineer ,Male,5,No,0
+122372,25,2,B.Tech/B.E.,Chennai,Sales,Engineer ,Male,3,No,0
+122373,60,1,Other degrees,Ahmedabad,Research and Development,Senior Associate - -,Male,5,Yes,1
+122374,23,1,M.Tech/M.E.,Bangalore,Support,Associate Engineer ,Female,5,No,0
+122375,24,1,MBA/PGDM,Delhi,Support,Engineer ,Male,0,No,0
+122376,23,0,Ph.D/Doctorate,Delhi,Research and Development,Associate Engineer ,Male,2,Yes,1
+122378,27,1,Other degrees,Kolkata,Legal,Engineer  ,Male,2,Yes,1
+122379,23,1,Other degrees,Delhi,Legal,Engineer  ,Male,2,Yes,1
+122380,30,5,B.Tech/B.E.,Hyderabad,Business Development,Senior Engineer ,Male,5,Yes,1
+122381,26,1,Ph.D/Doctorate,Ahmedabad,Accounting,Associate Engineer  ,Male,4,No,0
+122383,61,1,B.Tech/B.E.,Hyderabad,Research and Development,Lead Engineer ,Male,3,No,0
+122386,22,0,Ph.D/Doctorate,Delhi,Human Resources,Engineer  ,Male,2,Yes,1
+122387,42,1,Ph.D/Doctorate,Bangalore,Engineering,Senior Engineer ,Male,3,No,0
+122389,57,1,M.Tech/M.E.,Bangalore,Business Development,Senior Lead Engineer ,Male,3,No,0
+122390,31,0,M.Tech/M.E.,Bangalore,Research and Development,Associate Engineer  ,Male,5,Yes,1
+122437,23,1,Other degrees,Kolkata,Human Resources,Engineer  ,Male,3,No,0
+122439,22,0,B.Tech/B.E.,Hyderabad,Human Resources,Engineer  ,Female,4,Yes,1
+122440,64,0,M.Tech/M.E.,Delhi,Human Resources,Technical Lead ,Male,4,Yes,1
+122441,22,1,Other degrees,Hyderabad,Training,Associate Engineer  ,Male,5,No,0
+122446,59,1,Other degrees,Chennai,Sales,Engineer ,Male,2,No,0
+122447,30,0,Ph.D/Doctorate,Kolkata,Services,Associate Engineer  ,Male,1,Yes,1
+122448,22,1,MBA/PGDM,Delhi,Accounting,Engineer ,Male,2,No,0
+122450,27,1,Ph.D/Doctorate,Ahmedabad,Accounting,Senior Engineer ,Male,2,No,0
+122451,34,0,MBA/PGDM,Delhi,Human Resources,Senior Lead Engineer  ,Male,5,Yes,1
+122452,25,2,B.Tech/B.E.,Ahmedabad,Training,Engineer ,Male,4,No,0
+122454,24,1,Other degrees,Chennai,Human Resources,Engineer  ,Male,2,Yes,1
+122456,25,0,B.Tech/B.E.,Delhi,Services,Engineer ,Male,4,Yes,1
+122457,50,1,Ph.D/Doctorate,Ahmedabad,Human Resources,Engineer  ,Female,3,No,0
+122459,28,1,Ph.D/Doctorate,Bangalore,Marketing,Engineer  ,Female,5,No,0
+122490,23,1,M.Tech/M.E.,Kolkata,Engineering,Engineer  ,Male,3,No,0
+122503,34,1,B.Tech/B.E.,Mumbai,Training,Project Leader ,Male,3,Yes,1
+122506,62,1,B.Tech/B.E.,Bangalore,Human Resources,Senior Lead Engineer ,Male,5,No,0
+122507,22,1,MBA/PGDM,Mumbai,Training,Engineer ,Male,2,No,0
+122508,23,1,Other degrees,Delhi,Training,Engineer ,Male,5,No,0
+122509,56,1,B.Tech/B.E.,Hyderabad,Human Resources,Senior Lead Engineer ,Male,5,No,0
+122510,57,1,Ph.D/Doctorate,Hyderabad,Sales,Senior Lead Engineer ,Female,2,Yes,1
+122553,23,1,M.Tech/M.E.,Hyderabad,Support,Associate Engineer ,Male,4,No,0
+122554,38,1,Other degrees,Kolkata,Marketing,Project Manager ,Male,5,No,0
+122634,26,1,MBA/PGDM,Mumbai,Training,Engineer ,Male,1,No,0
+122636,75,1,B.Tech/B.E.,Bangalore,Legal,Senior Lead Engineer  ,Male,3,No,0
+122637,25,1,MBA/PGDM,Hyderabad,Services,Engineer ,Male,2,Yes,1
+122638,50,1,Ph.D/Doctorate,Delhi,Training,Technical Lead ,Male,7,No,0
+122639,63,0,MBA/PGDM,Mumbai,Business Development,Lead Engineer ,Male,3,Yes,1
+122640,55,1,MBA/PGDM,Hyderabad,Sales,Lead Engineer ,Male,1,Yes,1
+122641,35,1,M.Tech/M.E.,Kolkata,Human Resources,Senior Lead Engineer  ,Male,7,No,0
+122642,24,1,Other degrees,Mumbai,Human Resources,Associate Engineer ,Male,1,No,0
+122643,63,1,MBA/PGDM,Chennai,Sales,Senior Lead Engineer ,Male,3,Yes,1
+122644,34,1,B.Tech/B.E.,Chennai,Human Resources,Engineer  ,Male,3,No,0
+122645,35,1,B.Tech/B.E.,Chennai,Services,Senior Engineer ,Male,6,No,0
+122647,58,1,B.Tech/B.E.,Bangalore,Research and Development,Senior Engineer ,Male,6,No,0
+122648,23,1,Other degrees,Ahmedabad,Training,Engineer ,Male,2,No,0
+122649,25,1,Other degrees,Ahmedabad,Human Resources,Engineer ,Male,3,No,0
+122650,56,1,Other degrees,Hyderabad,Accounting,Senior Engineer  ,Male,5,No,0
+122651,54,0,Ph.D/Doctorate,Ahmedabad,Sales,Lead Engineer ,Male,1,Yes,1
+122652,36,0,Other degrees,Ahmedabad,Sales,Lead Engineer ,Male,1,Yes,1
+122653,35,0,Other degrees,Ahmedabad,Business Development,Engineer  ,Female,1,Yes,1
+122655,27,1,Other degrees,Chennai,Engineering,Engineer  ,Male,1,No,0
+122656,23,0,MBA/PGDM,Hyderabad,Human Resources,Associate Engineer ,Male,2,Yes,1
+122679,64,1,MBA/PGDM,Delhi,Training,Senior Lead Engineer ,Male,1,No,0
+122684,30,1,M.Tech/M.E.,Bangalore,Training,Senior Engineer ,Male,2,No,0
+122685,35,1,Ph.D/Doctorate,Kolkata,Human Resources,Engineer  ,Female,2,No,0
+122686,60,1,Ph.D/Doctorate,Bangalore,Accounting,Lead Engineer ,Female,5,No,0
+122688,24,1,B.Tech/B.E.,Delhi,Human Resources,Associate Engineer  ,Male,2,No,0
+122725,48,0,MBA/PGDM,Kolkata,Marketing,Senior Director-Sales-,Male,3,Yes,1
+122761,26,1,Ph.D/Doctorate,Bangalore,Business Development,Engineer  ,Female,7,No,0
+122762,28,1,MBA/PGDM,Kolkata,Sales,Engineer  ,Female,5,No,0
+122764,23,1,M.Tech/M.E.,Chennai,Marketing,Associate Engineer  ,Female,3,No,0
+122766,23,1,M.Tech/M.E.,Ahmedabad,Marketing,Associate Engineer  ,Male,4,Yes,1
+122767,20,0,MBA/PGDM,Kolkata,Product Management,Associate Engineer  ,Male,3,Yes,1
+122768,20,0,MBA/PGDM,Kolkata,Support,Associate Engineer  ,Female,1,Yes,1
+122773,22,1,M.Tech/M.E.,Hyderabad,Human Resources,Associate Engineer  ,Female,4,No,0
+122775,21,1,B.Tech/B.E.,Hyderabad,Human Resources,Associate Engineer  ,Male,2,No,0
+122779,20,0,Other degrees,Delhi,Support,Associate Engineer  ,Male,1,Yes,1
+122782,20,0,Other degrees,Kolkata,Support,Associate Engineer  ,Male,6,Yes,1
+122784,22,1,B.Tech/B.E.,Bangalore,Sales,Associate Engineer  ,Male,5,No,0
+122787,21,0,Ph.D/Doctorate,Hyderabad,Support,Associate Engineer  ,Female,7,Yes,1
+122801,61,1,M.Tech/M.E.,Kolkata,Sales,Lead Engineer ,Male,1,No,0
+122802,24,1,M.Tech/M.E.,Bangalore,Human Resources,Engineer  ,Male,4,No,0
+122804,23,1,M.Tech/M.E.,Bangalore,Engineering,Engineer  ,Male,2,No,0
+122806,53,1,B.Tech/B.E.,Kolkata,Sales,Engineer ,Female,3,No,0
+122807,22,0,B.Tech/B.E.,Hyderabad,Human Resources,Engineer ,Male,4,Yes,1
+122808,23,0,Ph.D/Doctorate,Mumbai,Services,Associate Engineer  ,Male,6,Yes,1
+122812,23,1,MBA/PGDM,Delhi,Human Resources,Engineer  ,Female,3,No,0
+122814,25,1,B.Tech/B.E.,Bangalore,Training,Engineer  ,Male,4,No,0
+122815,37,1,B.Tech/B.E.,Bangalore,Business Development,Engineer ,Male,1,No,0
+122816,51,0,B.Tech/B.E.,Ahmedabad,Support,Engineer ,Male,7,Yes,1
+122947,31,0,Other degrees,Hyderabad,Support,Engineer ,Male,5,Yes,1
+122948,48,1,Other degrees,Bangalore,Support,Deputy Manager ,Male,3,No,0
+122949,28,0,Other degrees,Hyderabad,Support,Engineer ,Male,3,Yes,1
+122950,30,1,B.Tech/B.E.,Chennai,Marketing,Engineer  ,Male,4,No,0
+122951,30,1,MBA/PGDM,Bangalore,Human Resources,Senior Engineer ,Male,2,No,0
+122952,31,1,B.Tech/B.E.,Mumbai,Business Development,Project Leader ,Male,7,No,0
+122953,60,0,B.Tech/B.E.,Bangalore,Business Development,Senior Engineer  ,Male,1,Yes,1
+122955,28,1,M.Tech/M.E.,Ahmedabad,Business Development,Associate Engineer  ,Male,2,No,0
+122956,38,1,Ph.D/Doctorate,Kolkata,Human Resources,Senior Engineer  ,Male,4,No,0
+122957,25,1,MBA/PGDM,Kolkata,Services,Engineer  ,Female,4,No,0
+122958,23,1,B.Tech/B.E.,Mumbai,Training,Associate Engineer ,Female,2,No,0
+122960,40,1,Other degrees,Kolkata,Business Development,Lead Associate ,Male,6,Yes,1
+122962,30,1,B.Tech/B.E.,Kolkata,Business Development,Engineer  ,Female,4,No,0
+123030,59,1,Ph.D/Doctorate,Hyderabad,Support,Manager ,Female,1,No,0
+123031,53,1,B.Tech/B.E.,Kolkata,Sales,Assistant Vice-President ,Male,6,No,0
+123033,56,0,M.Tech/M.E.,Chennai,Sales,Lead Engineer ,Male,4,Yes,1
+123034,38,0,MBA/PGDM,Hyderabad,Business Development,Lead Engineer ,Male,7,Yes,1
+123035,25,1,Other degrees,Bangalore,Human Resources,Associate Engineer ,Male,4,No,0
+123036,52,0,B.Tech/B.E.,Ahmedabad,Training,Senior Engineer ,Female,2,Yes,1
+123038,34,1,Ph.D/Doctorate,Bangalore,Accounting,Engineer  ,Male,4,No,0
+123039,24,1,Other degrees,Hyderabad,Marketing,Associate Engineer ,Male,1,No,0
+123040,24,1,B.Tech/B.E.,Chennai,Business Development,Associate Engineer  ,Male,3,No,0
+123041,25,0,M.Tech/M.E.,Hyderabad,Training,Associate Engineer ,Female,2,Yes,1
+123042,64,1,M.Tech/M.E.,Ahmedabad,Support,Senior Lead Engineer ,Male,1,No,0
+123043,30,7,Other degrees,Bangalore,Sales,Senior Engineer ,Male,1,No,0
+123079,23,1,Other degrees,Ahmedabad,Training,Engineer ,Male,1,No,0
+123081,65,0,Other degrees,Kolkata,Legal,Lead Engineer ,Male,3,Yes,1
+123082,22,0,MBA/PGDM,Delhi,Support,Associate Engineer ,Male,5,Yes,1
+123083,25,1,B.Tech/B.E.,Bangalore,Support,Engineer ,Female,4,No,0
+123085,23,0,MBA/PGDM,Kolkata,Training,Associate Engineer  ,Male,4,Yes,1
+123086,29,1,Ph.D/Doctorate,Chennai,Training,Engineer  ,Male,5,No,0
+123087,23,0,B.Tech/B.E.,Chennai,Training,Engineer  ,Male,1,Yes,1
+123088,25,1,MBA/PGDM,Chennai,Human Resources,Engineer  ,Male,7,No,0
+123089,33,1,Ph.D/Doctorate,Delhi,Human Resources,Lead Engineer ,Female,2,No,0
+123091,24,1,M.Tech/M.E.,Chennai,Training,Associate Engineer ,Male,2,No,0
+123092,48,0,Other degrees,Chennai,Sales,Lead Engineer ,Female,3,Yes,1
+123094,25,1,Ph.D/Doctorate,Hyderabad,Human Resources,Associate Engineer ,Male,6,No,0
+123095,33,1,Other degrees,Mumbai,Legal,Engineer  ,Male,3,No,0
+123096,24,1,MBA/PGDM,Chennai,Training,Associate Engineer  ,Male,2,No,0
+123097,57,0,Other degrees,Bangalore,Sales,Senior Engineer  ,Female,6,Yes,1
+123136,24,1,Ph.D/Doctorate,Delhi,Accounting,Senior Engineer ,Male,4,No,0
+123148,33,1,B.Tech/B.E.,Chennai,Sales,Senior Engineer ,Female,5,No,0
+123149,48,1,MBA/PGDM,Ahmedabad,Business Development,Lead Engineer ,Male,1,No,0
+123150,30,1,M.Tech/M.E.,Kolkata,Training,Associate Engineer ,Male,4,No,0
+123151,24,1,MBA/PGDM,Kolkata,Training,Engineer ,Male,3,No,0
+123152,66,1,B.Tech/B.E.,Bangalore,Support,Senior Lead Engineer ,Male,7,No,0
+123153,40,1,Other degrees,Hyderabad,Accounting,Lead Engineer ,Male,1,No,0
+123154,65,4,MBA/PGDM,Chennai,Services,Technical Manager ,Male,1,No,0
+123156,27,1,Other degrees,Delhi,Human Resources,Engineer ,Male,6,No,0
+123157,26,0,B.Tech/B.E.,Delhi,Sales,Engineer ,Male,3,Yes,1
+123158,28,1,MBA/PGDM,Kolkata,Human Resources,Senior Engineer ,Male,3,No,0
+123159,30,1,Ph.D/Doctorate,Hyderabad,Training,Engineer  ,Male,7,No,0
+123160,24,1,MBA/PGDM,Bangalore,Support,Associate Engineer ,Male,2,No,0
+123161,36,1,MBA/PGDM,Hyderabad,Accounting,Senior Engineer ,Male,1,No,0
+123163,38,1,Other degrees,Chennai,Human Resources,Project Manager ,Female,6,No,0
+123165,34,1,M.Tech/M.E.,Bangalore,Legal,Senior Engineer  ,Female,1,No,0
+123204,41,0,MBA/PGDM,Delhi,Human Resources,Senior Manager ,Female,6,Yes,1
+123216,32,1,MBA/PGDM,Chennai,Sales,Engineer ,Male,7,No,0
+123218,30,0,Other degrees,Chennai,Training,Senior Engineer ,Female,4,Yes,1
+123219,31,1,Ph.D/Doctorate,Kolkata,Human Resources,Senior Engineer ,Female,6,No,0
+123220,60,0,M.Tech/M.E.,Ahmedabad,Support,Senior Engineer ,Male,3,Yes,1
+123222,22,1,MBA/PGDM,Kolkata,Services,Associate Engineer ,Male,4,No,0
+123223,21,1,Other degrees,Ahmedabad,Training,Associate Engineer  ,Female,5,No,0
+123224,23,1,MBA/PGDM,Delhi,Training,Associate Engineer  ,Male,3,No,0
+123225,58,0,MBA/PGDM,Ahmedabad,Marketing,Senior Engineer ,Male,5,Yes,1
+123226,38,1,Other degrees,Delhi,Sales,Engineer  ,Male,5,No,0
+123227,32,1,MBA/PGDM,Hyderabad,Human Resources,Engineer  ,Female,2,No,0
+123228,27,1,Other degrees,Bangalore,Training,Engineer  ,Male,6,No,0
+123229,50,0,Other degrees,Ahmedabad,Human Resources,Engineer ,Female,5,Yes,1
+123230,31,1,B.Tech/B.E.,Delhi,Business Development,Engineer ,Female,7,No,0
+123291,59,1,B.Tech/B.E.,Ahmedabad,Services,Project Manager ,Male,2,No,0
+123292,33,0,M.Tech/M.E.,Delhi,Human Resources,Project Leader ,Female,4,Yes,1
+123295,23,1,MBA/PGDM,Ahmedabad,Training,Associate Engineer  ,Male,2,No,0
+123296,29,1,B.Tech/B.E.,Ahmedabad,Training,Associate Engineer  ,Female,2,No,0
+123297,23,1,Other degrees,Delhi,Engineering,Associate Engineer  ,Male,7,No,0
+123298,60,0,MBA/PGDM,Hyderabad,Human Resources,Technical Manager ,Male,2,Yes,1
+123299,24,1,Ph.D/Doctorate,Bangalore,Sales,Lead Engineer  ,Female,3,No,0
+123300,33,1,B.Tech/B.E.,Ahmedabad,Sales,Engineer ,Male,2,No,0
+123301,30,1,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer  ,Male,4,No,0
+123302,28,5,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer  ,Male,3,No,0
+123304,35,1,Ph.D/Doctorate,Hyderabad,Sales,Engineer  ,Male,1,No,0
+123305,25,1,B.Tech/B.E.,Bangalore,Human Resources,Engineer ,Female,6,No,0
+123306,27,1,M.Tech/M.E.,Hyderabad,Business Development,Project Leader ,Male,7,No,0
+123307,36,1,M.Tech/M.E.,Chennai,Marketing,Senior Engineer ,Female,1,No,0
+123344,64,1,Other degrees,Chennai,Marketing,Lead Engineer ,Male,2,No,0
+123372,63,1,M.Tech/M.E.,Kolkata,Business Development,Senior Lead Engineer ,Male,2,No,0
+123373,25,1,Ph.D/Doctorate,Hyderabad,Training,Engineer ,Male,7,No,0
+123374,33,1,MBA/PGDM,Ahmedabad,Training,Engineer  ,Female,8,No,0
+123375,26,1,Other degrees,Mumbai,Human Resources,Associate Engineer  ,Male,7,No,0
+123376,27,1,M.Tech/M.E.,Chennai,Research and Development,Engineer  ,Female,3,No,0
+123377,26,1,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer ,Male,4,No,0
+123379,43,1,MBA/PGDM,Hyderabad,Legal,Senior Engineer  ,Male,7,No,0
+123381,24,0,B.Tech/B.E.,Hyderabad,Engineering,Engineer  ,Female,4,Yes,1
+123382,23,1,M.Tech/M.E.,Ahmedabad,Support,Associate Engineer ,Male,3,No,0
+123390,46,1,M.Tech/M.E.,Bangalore,Support,Senior Specialist-,Male,3,No,0
+123468,24,1,MBA/PGDM,Ahmedabad,Training,Engineer  ,Male,2,No,0
+123471,27,1,B.Tech/B.E.,Hyderabad,Legal,Engineer  ,Male,6,No,0
+123472,49,1,B.Tech/B.E.,Hyderabad,Accounting,Lead Engineer  ,Female,5,No,0
+123474,27,1,MBA/PGDM,Hyderabad,Training,Associate Engineer ,Male,1,No,0
+123475,32,1,Ph.D/Doctorate,Delhi,Engineering,Engineer  ,Male,3,No,0
+123476,24,1,Ph.D/Doctorate,Chennai,Legal,Engineer  ,Male,6,No,0
+123477,24,1,Ph.D/Doctorate,Ahmedabad,Legal,Engineer  ,Male,5,No,0
+123478,56,0,MBA/PGDM,Ahmedabad,Sales,Lead Engineer ,Male,1,Yes,1
+123479,22,0,B.Tech/B.E.,Hyderabad,Legal,Engineer  ,Male,7,Yes,1
+123480,32,1,MBA/PGDM,Delhi,Marketing,Senior Engineer ,Male,3,No,0
+123481,23,1,M.Tech/M.E.,Pune,Sales,Associate Engineer  ,Female,2,No,0
+123495,36,1,MBA/PGDM,Delhi,Sales,Senior Account Manager ,Male,4,No,0
+123515,25,1,M.Tech/M.E.,Delhi,Marketing,Engineer ,Male,1,No,0
+123517,29,1,MBA/PGDM,Kolkata,Research and Development,Engineer  ,Male,4,No,0
+123518,29,0,Other degrees,Bangalore,Human Resources,Senior Engineer ,Male,4,Yes,1
+123519,30,0,MBA/PGDM,Hyderabad,Sales,Engineer ,Male,6,Yes,1
+123520,56,1,Other degrees,Hyderabad,Human Resources,Program Manager ,Male,2,No,0
+123521,27,1,Other degrees,Hyderabad,Engineering,Engineer  ,Male,2,No,0
+123522,30,0,Ph.D/Doctorate,Bangalore,Accounting,Senior Engineer  ,Male,4,No,0
+123524,24,1,B.Tech/B.E.,Mumbai,Human Resources,Engineer  ,Female,7,No,0
+123525,29,0,B.Tech/B.E.,Chennai,Human Resources,Engineer  ,Female,1,Yes,1
+123526,47,1,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Male,3,No,0
+123527,35,1,Other degrees,Chennai,Human Resources,Engineer  ,Male,7,No,0
+123528,23,0,B.Tech/B.E.,Delhi,Services,Engineer ,Male,6,Yes,1
+123529,25,1,B.Tech/B.E.,Ahmedabad,Accounting,Engineer ,Male,1,No,0
+123530,40,1,B.Tech/B.E.,Kolkata,Marketing,Engineer ,Female,7,No,0
+123531,61,1,MBA/PGDM,Hyderabad,Research and Development,Lead Engineer ,Male,7,No,0
+123532,23,1,Ph.D/Doctorate,Chennai,Product Management,Engineer ,Female,1,No,0
+123534,51,1,MBA/PGDM,Kolkata,Human Resources,Senior Engineer ,Male,3,No,0
+123535,25,1,Ph.D/Doctorate,Pune,Business Development,Engineer ,Male,1,No,0
+123568,23,0,Other degrees,Bangalore,Legal,Associate Engineer  ,Male,1,Yes,1
+123569,72,1,B.Tech/B.E.,Chennai,Research and Development,Senior Engineer ,Male,1,No,0
+123720,29,0,MBA/PGDM,Bangalore,Sales,Engineer ,Male,3,No,0
+123722,32,0,Ph.D/Doctorate,Hyderabad,Engineering,Engineer  ,Male,6,No,0
+123723,61,0,Other degrees,Hyderabad,Legal,Project Leader ,Male,3,Yes,1
+123724,55,0,Ph.D/Doctorate,Bangalore,Business Development,Engineer  ,Female,6,No,0
+123726,57,0,M.Tech/M.E.,Hyderabad,Services,Senior Lead Engineer ,Male,7,No,0
+123727,26,0,Other degrees,Mumbai,Business Development,Engineer  ,Female,6,No,0
+123728,30,0,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,1,No,0
+123729,24,0,M.Tech/M.E.,Kolkata,Sales,Associate Engineer  ,Female,1,Yes,1
+123730,58,0,M.Tech/M.E.,Bangalore,Sales,Lead Engineer  ,Male,7,Yes,1
+123731,37,0,B.Tech/B.E.,Mumbai,Human Resources,Engineer  ,Male,4,No,0
+123732,31,0,Ph.D/Doctorate,Kolkata,Training,Engineer  ,Male,1,No,0
+123733,52,0,Ph.D/Doctorate,Delhi,Support,Senior Lead Engineer ,Male,2,Yes,1
+123734,28,4,Ph.D/Doctorate,Bangalore,Research and Development,Senior Engineer ,Male,1,No,0
+123735,64,0,Ph.D/Doctorate,Bangalore,Business Development,Senior Engineer ,Male,1,No,0
+123791,40,0,Ph.D/Doctorate,Kolkata,Services,Lead Engineer ,Male,3,No,0
+123793,50,0,M.Tech/M.E.,Delhi,Support,Senior Engineer ,Male,6,No,0
+123794,42,1,Other degrees,Bangalore,Research and Development,Program Manager ,Female,4,No,0
+123796,32,0,Other degrees,Mumbai,Support,Engineer  ,Female,5,No,0
+123798,25,0,Other degrees,Bangalore,Human Resources,Associate Engineer ,Female,4,No,0
+123800,24,0,B.Tech/B.E.,Chennai,Business Development,Senior Engineer ,Male,2,No,0
+123801,55,0,M.Tech/M.E.,Kolkata,Services,Lead Engineer ,Male,3,No,0
+123802,28,0,M.Tech/M.E.,Bangalore,Sales,Engineer ,Male,2,Yes,1
+123803,29,0,Other degrees,Hyderabad,Human Resources,Engineer ,Male,6,Yes,1
+123804,56,9,M.Tech/M.E.,Kolkata,Business Development,Senior Lead Engineer ,Male,2,No,0
+123855,61,1,Other degrees,Hyderabad,Accounting,Lead Engineer  ,Male,5,Yes,1
+123903,24,0,Other degrees,Delhi,Marketing,Associate Engineer  ,Male,4,No,0
+123904,56,0,Other degrees,Bangalore,Training,Lead Engineer ,Male,1,Yes,1
+123905,34,0,MBA/PGDM,Delhi,Sales,Lead Engineer ,Male,7,Yes,1
+123907,24,0,MBA/PGDM,Delhi,Human Resources,Engineer ,Male,5,No,0
+123908,37,0,B.Tech/B.E.,Chennai,Sales,Senior Engineer ,Male,7,Yes,1
+123909,24,0,M.Tech/M.E.,Chennai,Business Development,Associate Engineer  ,Female,3,No,0
+123910,36,11,M.Tech/M.E.,Chennai,Accounting,Lead Engineer ,Male,6,No,0
+123911,23,0,B.Tech/B.E.,Chennai,Sales,Associate Engineer  ,Female,2,No,0
+123913,22,0,M.Tech/M.E.,Ahmedabad,Human Resources,Associate Engineer  ,Female,2,No,0
+123914,24,0,Ph.D/Doctorate,Ahmedabad,Human Resources,Engineer  ,Female,5,No,0
+123915,24,0,B.Tech/B.E.,Hyderabad,Support,Associate Engineer ,Male,2,No,0
+123931,36,0,B.Tech/B.E.,Kolkata,Accounting,Technical Lead ,Female,1,Yes,1
+123932,33,0,MBA/PGDM,Delhi,Training,Technical Manager ,Male,2,Yes,1
+123933,35,0,B.Tech/B.E.,Chennai,Legal,Technical Manager ,Male,3,No,0
+123968,64,0,MBA/PGDM,Hyderabad,Services,Senior Lead Engineer ,Male,2,No,0
+123969,26,0,B.Tech/B.E.,Delhi,Sales,Engineer ,Male,1,Yes,1
+123970,26,0,Other degrees,Delhi,Product Management,Engineer ,Male,2,No,0
+123971,36,0,B.Tech/B.E.,Chennai,Training,Engineer  ,Male,5,No,0
+123972,29,0,Other degrees,Ahmedabad,Sales,Engineer  ,Male,5,Yes,1
+123973,48,0,Ph.D/Doctorate,Chennai,Marketing,Senior Engineer ,Female,3,No,0
+123974,24,0,M.Tech/M.E.,Chennai,Sales,Associate Engineer ,Male,7,No,0
+123975,23,0,Ph.D/Doctorate,Ahmedabad,Engineering,Engineer  ,Female,5,No,0
+123978,57,0,MBA/PGDM,Chennai,Human Resources,Engineer  ,Female,3,No,0
+123979,37,0,B.Tech/B.E.,Kolkata,Sales,Senior Engineer ,Male,4,Yes,1
+124027,31,4,MBA/PGDM,Bangalore,Business Development,Senior Engineer  ,Male,4,Yes,1
+124039,35,0,B.Tech/B.E.,Hyderabad,Legal,Technical Lead ,Male,2,No,0
+124040,28,0,Other degrees,Ahmedabad,Research and Development,Technical Lead ,Male,4,No,0
+124049,56,0,B.Tech/B.E.,Mumbai,Human Resources,Lead Engineer ,Male,2,No,0
+124050,26,0,MBA/PGDM,Hyderabad,Business Development,Associate Engineer  ,Male,1,No,0
+124051,55,0,B.Tech/B.E.,Hyderabad,Training,Senior Engineer ,Female,4,Yes,1
+124052,32,0,MBA/PGDM,Bangalore,Accounting,Senior Engineer ,Male,3,No,0
+124055,56,0,Ph.D/Doctorate,Delhi,Training,Deputy Manager ,Male,1,No,0
+124056,26,0,B.Tech/B.E.,Mumbai,Training,Associate Engineer  ,Male,1,No,0
+124057,58,0,MBA/PGDM,Bangalore,Training,Senior Lead Engineer ,Male,2,Yes,1
+124133,29,0,MBA/PGDM,Chennai,Human Resources,Associate Engineer ,Male,2,No,0
+124135,39,0,MBA/PGDM,Mumbai,Engineering,Engineer  ,Male,1,No,0
+124302,24,0,M.Tech/M.E.,Delhi,Human Resources,Senior Engineer  ,Female,5,No,0
+124303,25,0,MBA/PGDM,Chennai,Sales,Engineer ,Female,5,No,0
+124463,34,0,MBA/PGDM,Bangalore,Training,Lead Engineer ,Male,3,No,0
+124464,33,0,B.Tech/B.E.,Kolkata,Sales,Associate Engineer ,Male,1,No,0
+124465,25,0,Other degrees,Delhi,Accounting,Engineer ,Male,7,No,0
+124466,28,0,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer ,Male,3,No,0
+124467,23,0,B.Tech/B.E.,Bangalore,Human Resources,Engineer ,Male,1,No,0
+124468,22,0,MBA/PGDM,Bangalore,Training,Associate Engineer ,Male,7,Yes,1
+124469,47,0,Ph.D/Doctorate,Bangalore,Business Development,Senior Engineer ,Male,3,Yes,1
+124470,22,0,MBA/PGDM,Hyderabad,Human Resources,Engineer  ,Male,2,No,0
+124472,24,0,B.Tech/B.E.,Delhi,Research and Development,Engineer  ,Male,2,Yes,1
+124475,24,0,Other degrees,Delhi,Training,Associate Engineer ,Male,1,Yes,1
+124476,23,0,B.Tech/B.E.,Chennai,Business Development,Associate Engineer  ,Female,3,No,0
+124481,22,0,MBA/PGDM,Delhi,Human Resources,Engineer  ,Male,1,Yes,1
+124491,51,0,B.Tech/B.E.,Hyderabad,Training,Senior Engineer ,Female,7,Yes,1
+124514,48,0,B.Tech/B.E.,Hyderabad,Legal,Lead Engineer  ,Male,3,No,0
+124516,28,0,Other degrees,Bangalore,Sales,Engineer  ,Male,3,No,0
+124517,28,0,M.Tech/M.E.,Hyderabad,Support,Associate Engineer  ,Female,3,No,0
+124521,42,0,B.Tech/B.E.,Bangalore,Support,Associate Engineer  ,Female,2,No,0
+124523,32,0,MBA/PGDM,Bangalore,Sales,Project Leader ,Male,3,Yes,1
+124524,56,0,Ph.D/Doctorate,Kolkata,Human Resources,Project Leader ,Male,3,No,0
+124525,25,0,Ph.D/Doctorate,Chennai,Human Resources,Engineer ,Male,2,Yes,1
+124528,26,0,MBA/PGDM,Kolkata,Training,Engineer ,Male,3,Yes,1
+124529,31,0,Ph.D/Doctorate,Hyderabad,Human Resources,Associate Engineer  ,Male,6,No,0
+124530,31,0,MBA/PGDM,Bangalore,Services,Associate Engineer  ,Male,3,No,0
+124531,26,0,Ph.D/Doctorate,Delhi,Human Resources,Engineer ,Male,2,No,0
+124532,25,0,MBA/PGDM,Mumbai,Business Development,Senior Associate - ,Male,3,No,0
+124533,24,0,B.Tech/B.E.,Ahmedabad,Human Resources,Associate Engineer ,Female,2,No,0
+124556,25,0,M.Tech/M.E.,Kolkata,Human Resources,Engineer ,Male,6,No,0
+124574,29,2,B.Tech/B.E.,Delhi,Training,Associate Engineer ,Male,5,No,0
+124575,24,0,MBA/PGDM,Chennai,Marketing,Associate Engineer  ,Male,1,No,0
+124576,40,0,Ph.D/Doctorate,Mumbai,Human Resources,Technical Manager ,Female,4,No,0
+124607,33,0,MBA/PGDM,Mumbai,Human Resources,Associate Engineer  ,Male,3,No,0
+124608,52,0,Other degrees,Chennai,Research and Development,Senior Engineer ,Male,2,No,0
+124610,49,0,Ph.D/Doctorate,Delhi,Sales,Engineer  ,Female,2,No,0
+124611,30,3,M.Tech/M.E.,Delhi,Training,Engineer ,Male,1,No,0
+124612,28,0,Ph.D/Doctorate,Bangalore,Research and Development,Engineer ,Male,7,No,0
+124614,32,4,MBA/PGDM,Bangalore,Human Resources,Senior Engineer ,Female,4,No,0
+124615,35,0,B.Tech/B.E.,Delhi,Services,Senior Lead Engineer ,Female,1,Yes,1
+124616,23,0,MBA/PGDM,Kolkata,Human Resources,Engineer  ,Female,4,No,0
+124617,29,0,MBA/PGDM,Hyderabad,Human Resources,Associate Engineer  ,Male,3,No,0
+124618,25,0,M.Tech/M.E.,Bangalore,Business Development,Engineer  ,Female,4,No,0
+124620,60,0,Ph.D/Doctorate,Kolkata,Business Development,Senior Engineer ,Male,5,No,0
+124661,65,0,B.Tech/B.E.,Delhi,Business Development,General Manager ,Male,3,No,0
+124687,35,0,B.Tech/B.E.,Ahmedabad,Support,Project Manager ,Male,1,No,0
+124701,40,0,MBA/PGDM,Mumbai,Services,Project Leader ,Male,1,No,0
+124788,33,0,MBA/PGDM,Chennai,Accounting,Project Manager ,Male,5,No,0
+124811,32,0,B.Tech/B.E.,Kolkata,Training,Lead Engineer ,Male,6,No,0
+124840,32,0,M.Tech/M.E.,Bangalore,Training,Lead Engineer ,Female,6,No,0
+124841,27,0,B.Tech/B.E.,Bangalore,Marketing,Lead Engineer  ,Male,3,No,0
+124874,32,0,B.Tech/B.E.,Chennai,Engineering,Technical Lead ,Male,5,No,0
+124879,27,0,M.Tech/M.E.,Chennai,Sales,Senior Engineer  ,Female,3,No,0
+124917,27,0,Ph.D/Doctorate,Bangalore,Sales,Senior Engineer  ,Male,7,No,0
+124931,31,0,B.Tech/B.E.,Hyderabad,Engineering,Lead Engineer  ,Female,5,No,0
+124936,34,0,MBA/PGDM,Hyderabad,Legal,Technical Lead ,Male,1,No,0
+124937,38,0,M.Tech/M.E.,Mumbai,Support,Project Leader ,Male,1,No,0
+124995,39,0,B.Tech/B.E.,Ahmedabad,Support,Technical Manager ,Female,3,No,0
+125021,26,0,M.Tech/M.E.,Bangalore,Marketing,Senior Engineer  ,Male,7,No,0
+125023,32,0,Other degrees,Hyderabad,Accounting,Project Leader ,Male,1,No,0
+125043,38,0,MBA/PGDM,Pune,Business Development,Project Manager ,Male,3,No,0
+125047,34,0,MBA/PGDM,Kolkata,Accounting,Project Leader ,Male,2,No,0
+125059,30,0,MBA/PGDM,Ahmedabad,Engineering,Lead Engineer ,Male,2,No,0
+125103,25,0,B.Tech/B.E.,Hyderabad,Business Development,Engineer  ,Female,1,Yes,1
+125104,30,0,Ph.D/Doctorate,Kolkata,Research and Development,Senior Engineer ,Female,2,No,0
+125105,64,0,MBA/PGDM,Kolkata,Human Resources,Engineer  ,Female,2,No,0
+125106,23,0,Ph.D/Doctorate,Chennai,Business Development,Engineer  ,Male,1,No,0
+125107,29,0,Ph.D/Doctorate,Ahmedabad,Sales,Associate Engineer  ,Male,2,No,0
+125108,25,0,MBA/PGDM,Kolkata,Sales,Engineer ,Female,4,No,0
+125109,29,0,M.Tech/M.E.,Bangalore,Marketing,Lead Engineer ,Male,7,Yes,1
+125110,42,0,M.Tech/M.E.,Mumbai,Marketing,Senior Engineer ,Male,2,Yes,1
+125111,29,0,M.Tech/M.E.,Ahmedabad,Human Resources,Senior Engineer ,Male,1,No,0
+125112,35,0,Other degrees,Ahmedabad,Sales,Senior Engineer ,Male,2,No,0
+125113,64,0,Other degrees,Bangalore,Business Development,Senior Lead Engineer  ,Male,4,No,0
+125174,32,0,Other degrees,Ahmedabad,Training,Engineer ,Male,4,No,0
+125175,49,0,Ph.D/Doctorate,Hyderabad,Business Development,Senior Engineer ,Male,5,No,0
+125177,26,0,Ph.D/Doctorate,Bangalore,Human Resources,Engineer  ,Female,4,No,0
+125178,29,0,B.Tech/B.E.,Delhi,Research and Development,Engineer ,Male,3,Yes,1
+125179,25,0,B.Tech/B.E.,Delhi,Training,Associate Engineer ,Male,5,Yes,1
+125181,27,0,Other degrees,Delhi,Support,Senior Engineer ,Male,4,No,0
+125182,38,0,B.Tech/B.E.,Chennai,Training,Lead Engineer ,Male,2,No,0
+125183,31,0,Ph.D/Doctorate,Bangalore,Accounting,Engineer ,Male,7,No,0
+125184,24,0,M.Tech/M.E.,Delhi,Human Resources,Engineer ,Male,6,No,0
+125186,45,0,MBA/PGDM,Mumbai,Human Resources,Engineer ,Male,4,No,0
+125187,32,0,Ph.D/Doctorate,Kolkata,Research and Development,Engineer ,Male,1,No,0
+125188,51,0,B.Tech/B.E.,Hyderabad,Business Development,Engineer  ,Female,3,No,0
+125189,44,0,Ph.D/Doctorate,Bangalore,Training,Engineer  ,Male,1,No,0
+125191,24,0,MBA/PGDM,Bangalore,Human Resources,Senior Engineer ,Female,2,No,0
+125192,28,0,B.Tech/B.E.,Mumbai,Training,Senior Engineer ,Female,7,No,0
+125193,39,0,M.Tech/M.E.,Mumbai,Training,Senior Engineer ,Male,2,No,0
+125194,51,10,M.Tech/M.E.,Bangalore,Services,Program Manager ,Male,5,No,0
+125196,49,0,MBA/PGDM,Ahmedabad,Training,Lead Engineer ,Male,6,No,0
+125197,56,0,Ph.D/Doctorate,Hyderabad,Legal,Senior Lead Engineer ,Male,6,Yes,1
+125227,23,0,M.Tech/M.E.,Bangalore,Training,Associate Engineer ,Male,2,No,0
+125228,25,0,MBA/PGDM,Hyderabad,Services,Associate Engineer ,Female,5,No,0
+125229,25,0,Ph.D/Doctorate,Chennai,Services,Associate Engineer ,Male,3,No,0
+125231,23,0,B.Tech/B.E.,Hyderabad,Business Development,Associate Engineer ,Male,2,No,0
+125242,23,0,MBA/PGDM,Chennai,Support,Associate Engineer ,Male,5,No,0
+125243,41,0,MBA/PGDM,Kolkata,Training,Technical Manager ,Male,2,No,0
+125299,36,0,Other degrees,Hyderabad,Business Development,Associate Engineer  ,Male,3,No,0
+125300,27,0,B.Tech/B.E.,Hyderabad,Business Development,Engineer  ,Male,7,No,0
+125301,36,0,B.Tech/B.E.,Chennai,Business Development,Engineer  ,Female,7,No,0
+125302,37,0,Other degrees,Delhi,Sales,Engineer  ,Male,4,No,0
+125303,27,0,Ph.D/Doctorate,Hyderabad,Sales,Associate Engineer ,Male,7,No,0
+125304,23,0,MBA/PGDM,Delhi,Business Development,Engineer ,Male,5,No,0
+125306,25,0,MBA/PGDM,Ahmedabad,Human Resources,Engineer ,Female,1,No,0
+125308,26,0,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer  ,Male,7,No,0
+125309,57,0,B.Tech/B.E.,Delhi,Training,Lead Engineer ,Male,4,Yes,1
+125310,65,0,MBA/PGDM,Chennai,Training,Lead Engineer ,Male,1,Yes,1
+125311,27,0,MBA/PGDM,Chennai,Business Development,Associate Engineer  ,Female,3,Yes,1
+125313,32,0,B.Tech/B.E.,Delhi,Accounting,Senior Engineer  ,Female,2,No,0
+125331,31,0,B.Tech/B.E.,Hyderabad,Sales,Associate Engineer  ,Male,3,No,0
+125336,28,0,B.Tech/B.E.,Ahmedabad,Accounting,Senior Engineer ,Male,2,No,0
+125337,30,0,Other degrees,Hyderabad,Legal,Senior Engineer  ,Female,6,Yes,1
+125338,54,0,B.Tech/B.E.,Bangalore,Services,Senior Engineer ,Male,3,Yes,1
+125420,59,0,Other degrees,Kolkata,Human Resources,Technical Lead ,Male,2,No,0
+125421,23,0,Other degrees,Chennai,Human Resources,Engineer  ,Female,6,No,0
+125422,24,0,Ph.D/Doctorate,Delhi,Human Resources,Engineer  ,Male,4,Yes,1
+125423,25,0,MBA/PGDM,Bangalore,Human Resources,Engineer  ,Male,3,No,0
+125469,27,0,B.Tech/B.E.,Bangalore,Human Resources,Associate Engineer  ,Male,2,No,0
+125471,19,0,MBA/PGDM,Kolkata,Support,Associate Engineer  ,Male,7,Yes,1
+125510,61,0,Ph.D/Doctorate,Delhi,Business Development,Engineer ,Male,5,No,0
+125511,22,1,B.Tech/B.E.,Hyderabad,Training,Associate Engineer ,Male,5,No,0
+125516,58,0,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer  ,Male,3,No,0
+125517,28,0,Other degrees,Bangalore,Training,Associate Engineer  ,Female,4,Yes,1
+125518,24,0,Other degrees,Chennai,Sales,Associate Engineer ,Male,5,No,0
+125519,69,0,B.Tech/B.E.,Kolkata,Training,Senior Lead Engineer ,Male,5,No,0
+125520,25,0,Other degrees,Bangalore,Training,Engineer ,Male,5,Yes,1
+125521,24,0,M.Tech/M.E.,Hyderabad,Training,Associate Engineer ,Male,2,Yes,1
+125522,26,0,Ph.D/Doctorate,Delhi,Training,Associate Engineer ,Male,5,No,0
+125523,25,0,Other degrees,Hyderabad,Training,Associate Engineer ,Male,4,No,0
+125524,69,0,M.Tech/M.E.,Chennai,Human Resources,Program Manager ,Male,3,No,0
+125525,57,0,Other degrees,Kolkata,Human Resources,Senior Engineer ,Male,2,No,0
+125526,40,0,M.Tech/M.E.,Hyderabad,Human Resources,Engineer ,Male,4,No,0
+125534,27,2,Other degrees,Kolkata,Marketing,Engineer ,Male,3,No,0
+125535,55,0,Ph.D/Doctorate,Ahmedabad,Training,Senior Vice President ,Male,5,No,0
+125547,57,0,MBA/PGDM,Bangalore,Legal,Senior Engineer  ,Male,4,No,0
+125548,59,0,M.Tech/M.E.,Delhi,Legal,Senior Lead Engineer  ,Male,7,No,0
+125580,20,0,MBA/PGDM,Chennai,Product Management,Associate Engineer  ,Male,5,Yes,1
+125581,21,0,MBA/PGDM,Bangalore,Product Management,Associate Engineer  ,Male,2,Yes,1
+125582,20,0,Other degrees,Ahmedabad,Product Management,Associate Engineer  ,Male,3,Yes,1
+125583,22,0,Other degrees,Bangalore,Product Management,Associate Engineer  ,Male,4,Yes,1
+125584,22,0,MBA/PGDM,Delhi,Product Management,Associate Engineer  ,Male,3,Yes,1
+125585,22,1,Ph.D/Doctorate,Bangalore,Support,Associate Engineer  ,Male,3,Yes,1
+125586,21,0,Ph.D/Doctorate,Kolkata,Support,Associate Engineer  ,Male,3,Yes,1
+125587,21,0,B.Tech/B.E.,Ahmedabad,Support,Associate Engineer  ,Male,3,Yes,1
+125588,21,0,Other degrees,Ahmedabad,Support,Associate Engineer  ,Male,5,Yes,1
+125589,21,0,MBA/PGDM,Mumbai,Support,Associate Engineer  ,Male,2,Yes,1
+125590,22,0,M.Tech/M.E.,Ahmedabad,Support,Associate Engineer  ,Male,3,Yes,1
+125591,21,0,Ph.D/Doctorate,Hyderabad,Support,Associate Engineer  ,Male,5,Yes,1
+125592,24,0,Other degrees,Ahmedabad,Training,Associate Engineer ,Male,5,No,0
+125593,22,0,MBA/PGDM,Chennai,Support,Associate Engineer  ,Male,4,Yes,1
+125594,22,0,M.Tech/M.E.,Bangalore,Support,Associate Engineer  ,Male,1,Yes,1
+125595,23,0,Ph.D/Doctorate,Hyderabad,Support,Associate Engineer  ,Male,6,Yes,1
+125596,21,0,Other degrees,Hyderabad,Support,Associate Engineer  ,Male,6,Yes,1
+125597,21,0,MBA/PGDM,Delhi,Support,Associate Engineer  ,Male,3,Yes,1
+125598,20,0,M.Tech/M.E.,Bangalore,Support,Associate Engineer  ,Male,4,Yes,1
+125599,20,0,Ph.D/Doctorate,Bangalore,Support,Associate Engineer  ,Male,1,Yes,1
+125600,21,0,M.Tech/M.E.,Chennai,Product Management,Associate Engineer  ,Male,2,Yes,1
+125601,22,0,MBA/PGDM,Bangalore,Support,Associate Engineer  ,Male,2,No,0
+125602,22,0,B.Tech/B.E.,Kolkata,Support,Associate Engineer  ,Male,1,Yes,1
+125603,21,0,M.Tech/M.E.,Bangalore,Support,Associate Engineer  ,Male,5,Yes,1
+125604,22,0,Ph.D/Doctorate,Bangalore,Support,Associate Engineer  ,Male,4,Yes,1
+125605,21,0,Ph.D/Doctorate,Delhi,Support,Associate Engineer  ,Male,1,Yes,1
+125606,21,0,Other degrees,Bangalore,Product Management,Associate Engineer  ,Male,6,Yes,1
+125607,22,0,M.Tech/M.E.,Delhi,Sales,Associate Engineer  ,Male,3,No,0
+125608,20,0,M.Tech/M.E.,Bangalore,Support,Associate Engineer  ,Male,7,Yes,1
+125609,21,0,Ph.D/Doctorate,Chennai,Support,Associate Engineer  ,Male,6,Yes,1
+125610,20,0,B.Tech/B.E.,Bangalore,Product Management,Associate Engineer  ,Male,7,Yes,1
+125611,23,0,MBA/PGDM,Delhi,Support,Engineer ,Male,4,No,0
+125614,59,0,M.Tech/M.E.,Bangalore,Marketing,Senior Lead Engineer ,Male,2,No,0
+125615,24,0,M.Tech/M.E.,Hyderabad,Business Development,Engineer ,Female,4,No,0
+125616,44,0,Ph.D/Doctorate,Bangalore,Business Development,Lead Engineer ,Female,6,Yes,1
+125617,49,0,Other degrees,Ahmedabad,Services,Engineer ,Male,2,Yes,1
+125618,23,0,B.Tech/B.E.,Hyderabad,Accounting,Associate Engineer ,Male,2,No,0
+125619,48,0,B.Tech/B.E.,Hyderabad,Legal,Lead Engineer  ,Female,3,No,0
+125620,24,0,MBA/PGDM,Bangalore,Human Resources,Engineer ,Male,8,Yes,1
+125622,60,0,B.Tech/B.E.,Kolkata,Human Resources,Senior Lead Engineer  ,Male,6,No,0
+125623,28,4,B.Tech/B.E.,Kolkata,Training,Project Leader ,Female,3,No,0
+125656,38,0,B.Tech/B.E.,Chennai,Sales,Lead Engineer ,Male,4,No,0
+125657,27,0,Other degrees,Hyderabad,Training,Engineer  ,Female,6,No,0
+125658,36,0,Ph.D/Doctorate,Delhi,Sales,Senior Engineer ,Female,2,No,0
+125659,44,0,MBA/PGDM,Chennai,Human Resources,Engineer ,Male,4,No,0
+125660,50,0,M.Tech/M.E.,Ahmedabad,Services,Senior Engineer ,Male,4,No,0
+125661,60,0,B.Tech/B.E.,Bangalore,Sales,Senior Lead Engineer ,Male,5,Yes,1
+125662,64,0,B.Tech/B.E.,Bangalore,Accounting,Senior Engineer ,Male,1,No,0
+125663,23,0,Other degrees,Ahmedabad,Training,Associate Engineer ,Male,4,No,0
+125665,60,0,Ph.D/Doctorate,Mumbai,Human Resources,Senior Lead Engineer ,Male,6,No,0
+125715,62,3,MBA/PGDM,Hyderabad,Sales,Lead Engineer ,Male,4,No,0
+125717,44,0,MBA/PGDM,Mumbai,Accounting,Technical Lead ,Male,1,No,0
+125723,66,0,Other degrees,Chennai,Business Development,Senior Lead Engineer  ,Male,3,No,0
+125724,59,0,MBA/PGDM,Ahmedabad,Human Resources,Senior Lead Engineer ,Male,3,No,0
+125726,68,0,MBA/PGDM,Bangalore,Research and Development,Lead Engineer ,Male,5,No,0
+125727,35,0,Ph.D/Doctorate,Ahmedabad,Training,Associate Engineer  ,Female,3,No,0
+125728,38,0,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer ,Male,3,Yes,1
+125729,68,0,Other degrees,Ahmedabad,Accounting,Senior Lead Engineer  ,Male,7,No,0
+125743,35,0,B.Tech/B.E.,Bangalore,Accounting,Technical Lead ,Female,2,No,0
+125773,53,0,B.Tech/B.E.,Mumbai,Training,Project Leader ,Male,6,Yes,1
+125774,60,0,Other degrees,Hyderabad,Sales,Senior Engineer  ,Male,6,No,0
+125775,25,0,Ph.D/Doctorate,Hyderabad,Sales,Associate Engineer ,Male,6,No,0
+125776,26,0,MBA/PGDM,Chennai,Business Development,Associate Engineer  ,Male,2,No,0
+125777,50,0,Other degrees,Delhi,Business Development,Lead Engineer  ,Female,3,Yes,1
+125778,23,0,Other degrees,Hyderabad,Sales,Engineer ,Male,7,Yes,1
+125779,73,0,M.Tech/M.E.,Hyderabad,Business Development,Senior Lead Engineer  ,Male,6,No,0
+125780,43,0,Other degrees,Mumbai,Marketing,Lead Engineer  ,Male,7,No,0
+125782,47,0,MBA/PGDM,Kolkata,Training,Lead Engineer ,Male,4,No,0
+125783,36,0,B.Tech/B.E.,Bangalore,Marketing,Engineer ,Male,6,No,0
+125784,37,0,Ph.D/Doctorate,Kolkata,Engineering,Associate Engineer  ,Female,5,No,0
+125785,47,0,Other degrees,Ahmedabad,Accounting,Senior Engineer  ,Female,5,Yes,1
+125786,24,0,B.Tech/B.E.,Hyderabad,Human Resources,Engineer ,Female,6,No,0
+125787,48,0,M.Tech/M.E.,Delhi,Human Resources,Engineer ,Male,6,Yes,1
+125788,65,0,Ph.D/Doctorate,Hyderabad,Business Development,Project Manager ,Male,3,No,0
+125789,29,0,Ph.D/Doctorate,Chennai,Human Resources,Engineer  ,Male,6,No,0
+125790,28,0,B.Tech/B.E.,Bangalore,Sales,Associate Engineer  ,Male,6,Yes,1
+125791,34,0,B.Tech/B.E.,Mumbai,Marketing,Engineer ,Female,5,No,0
+125792,36,0,B.Tech/B.E.,Delhi,Training,Associate Engineer  ,Female,1,No,0
+125793,35,0,MBA/PGDM,Hyderabad,Services,Engineer  ,Male,3,Yes,1
+125809,25,0,MBA/PGDM,Ahmedabad,Training,Associate Engineer ,Male,2,No,0
+125829,34,0,B.Tech/B.E.,Hyderabad,Engineering,Senior Engineer  ,Male,7,No,0
+125831,42,0,MBA/PGDM,Chennai,Accounting,Associate Engineer  ,Female,3,No,0
+125832,23,0,M.Tech/M.E.,Hyderabad,Support,Engineer ,Male,2,No,0
+125833,26,0,M.Tech/M.E.,Bangalore,Sales,Project Leader ,Male,2,No,0
+125834,28,0,Ph.D/Doctorate,Bangalore,Sales,Senior Engineer ,Female,1,No,0
+125835,46,0,B.Tech/B.E.,Chennai,Support,Senior Lead Engineer ,Male,5,No,0
+125836,38,0,Ph.D/Doctorate,Hyderabad,Training,Senior Engineer  ,Male,5,No,0
+125837,28,0,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer  ,Male,4,No,0
+125838,23,0,Other degrees,Kolkata,Support,Associate Engineer ,Male,1,No,0
+125840,59,0,Other degrees,Delhi,Training,Senior Lead Engineer ,Male,7,Yes,1
+125841,57,0,M.Tech/M.E.,Chennai,Training,Associate Engineer  ,Male,6,No,0
+125842,23,0,Other degrees,Ahmedabad,Training,Senior Engineer ,Male,2,No,0
+125844,25,0,MBA/PGDM,Bangalore,Support,Associate Engineer ,Male,3,No,0
+125845,60,0,MBA/PGDM,Delhi,Research and Development,Senior Lead Engineer  ,Male,7,No,0
+125871,31,0,B.Tech/B.E.,Ahmedabad,Business Development,Engineer  ,Female,3,No,0
+125872,30,0,Other degrees,Bangalore,Marketing,Senior Engineer ,Female,4,No,0
+125874,60,0,M.Tech/M.E.,Bangalore,Sales,Senior Lead Engineer ,Male,6,No,0
+125887,56,0,B.Tech/B.E.,Chennai,Human Resources,Senior Manager ,Male,6,No,0
+125888,46,0,Other degrees,Kolkata,Sales,Senior Account Manager ,Male,1,No,0
+125897,57,0,MBA/PGDM,Chennai,Sales,Senior Engineer ,Male,4,Yes,1
+125898,52,0,Ph.D/Doctorate,Delhi,Human Resources,Lead Engineer ,Female,7,No,0
+125899,29,0,Ph.D/Doctorate,Delhi,Business Development,Engineer  ,Female,5,Yes,1
+125900,23,0,Ph.D/Doctorate,Delhi,Business Development,Engineer  ,Male,4,No,0
+125901,22,0,B.Tech/B.E.,Ahmedabad,Human Resources,Engineer  ,Female,3,No,0
+125902,24,0,B.Tech/B.E.,Kolkata,Sales,Associate Engineer  ,Male,4,No,0
+125903,35,0,Other degrees,Chennai,Sales,Engineer  ,Female,1,Yes,1
+125904,55,0,Other degrees,Delhi,Services,Project Leader ,Female,7,Yes,1
+125905,24,0,Other degrees,Bangalore,Sales,Engineer ,Male,3,No,0
+125907,69,0,Other degrees,Bangalore,Sales,Senior Lead Engineer ,Male,5,No,0
+125912,30,0,B.Tech/B.E.,Delhi,Business Development,Engineer  ,Female,6,No,0
+125913,45,0,Ph.D/Doctorate,Bangalore,Training,Project Leader ,Male,5,No,0
+125946,27,0,MBA/PGDM,Kolkata,Legal,Engineer  ,Male,3,No,0
+125947,33,0,MBA/PGDM,Delhi,Legal,Senior Engineer  ,Female,4,Yes,1
+125948,28,0,Ph.D/Doctorate,Delhi,Research and Development,Engineer ,Male,6,No,0
+125949,23,0,M.Tech/M.E.,Bangalore,Training,Associate Engineer ,Male,1,No,0
+125966,25,0,B.Tech/B.E.,Bangalore,Sales,Engineer ,Male,2,No,0
+125967,48,0,Other degrees,Ahmedabad,Business Development,Project Manager ,Female,3,No,0
+125968,28,0,M.Tech/M.E.,Delhi,Sales,Senior Engineer ,Male,1,Yes,1
+125970,30,0,Other degrees,Chennai,Sales,Engineer  ,Female,4,No,0
+125971,59,0,Ph.D/Doctorate,Kolkata,Business Development,Lead Engineer ,Male,4,Yes,1
+125972,53,0,M.Tech/M.E.,Hyderabad,Services,Lead Engineer ,Male,5,No,0
+125973,26,0,Ph.D/Doctorate,Delhi,Training,Engineer ,Male,4,No,0
+125974,25,0,Other degrees,Delhi,Human Resources,Engineer ,Female,4,Yes,1
+125975,23,0,MBA/PGDM,Hyderabad,Support,Associate Engineer ,Male,3,No,0
+125976,42,0,B.Tech/B.E.,Hyderabad,Training,Senior Lead Engineer ,Male,3,Yes,1
+125977,29,0,MBA/PGDM,Delhi,Human Resources,Senior Engineer ,Male,1,No,0
+125999,38,0,Ph.D/Doctorate,Kolkata,Support,Account Manager ,Male,6,Yes,1
+126000,43,0,M.Tech/M.E.,Chennai,Business Development,Senior Engineer ,Male,3,Yes,1
+126002,25,0,MBA/PGDM,Kolkata,Accounting,Engineer ,Female,3,No,0
+126024,29,0,Other degrees,Ahmedabad,Services,Senior Engineer  ,Male,2,Yes,1
+126025,32,0,Other degrees,Kolkata,Human Resources,Engineer  ,Male,1,No,0
+126026,28,0,Other degrees,Chennai,Services,Engineer ,Male,4,No,0
+126027,48,0,B.Tech/B.E.,Kolkata,Business Development,Lead Engineer ,Male,6,No,0
+126028,56,0,Other degrees,Mumbai,Support,Senior Lead Engineer ,Male,6,Yes,1
+126029,59,0,B.Tech/B.E.,Kolkata,Human Resources,Senior Lead Engineer ,Male,5,No,0
+126030,60,0,M.Tech/M.E.,Kolkata,Business Development,Senior Lead Engineer ,Male,5,Yes,1
+126031,64,0,Other degrees,Chennai,Sales,Deputy Manager ,Male,4,No,0
+126032,44,0,MBA/PGDM,Chennai,Business Development,Lead Engineer ,Male,3,No,0
+126033,38,0,MBA/PGDM,Hyderabad,Human Resources,Engineer ,Male,7,No,0
+126035,25,0,Other degrees,Hyderabad,Human Resources,Engineer ,Male,3,No,0
+126036,58,0,MBA/PGDM,Bangalore,Business Development,Senior Engineer  ,Female,7,No,0
+126037,44,0,Ph.D/Doctorate,Bangalore,Training,Senior Lead Engineer ,Male,2,Yes,1
+126038,28,0,Ph.D/Doctorate,Chennai,Engineering,Technical Manager ,Male,5,No,0
+126052,39,0,MBA/PGDM,Hyderabad,Training,Associate Engineer ,Male,7,No,0
+126067,37,0,M.Tech/M.E.,Kolkata,Support,Project Manager ,Male,7,No,0
+126103,38,0,Ph.D/Doctorate,Bangalore,Research and Development,Senior Engineer ,Male,4,No,0
+126104,28,0,M.Tech/M.E.,Kolkata,Human Resources,Senior Engineer ,Male,1,No,0
+126105,32,0,MBA/PGDM,Bangalore,Human Resources,Project Leader ,Female,7,No,0
+126106,24,0,MBA/PGDM,Ahmedabad,Training,Associate Engineer ,Male,3,No,0
+126107,27,0,Ph.D/Doctorate,Chennai,Support,Associate Engineer ,Male,3,No,0
+126108,50,0,M.Tech/M.E.,Ahmedabad,Human Resources,Lead Engineer ,Female,5,No,0
+126109,26,0,M.Tech/M.E.,Delhi,Human Resources,Engineer  ,Male,2,No,0
+126112,35,0,B.Tech/B.E.,Chennai,Business Development,Senior Engineer ,Male,4,No,0
+126114,49,0,MBA/PGDM,Chennai,Services,Engineer ,Male,1,Yes,1
+126116,26,0,Ph.D/Doctorate,Kolkata,Services,Engineer ,Female,7,Yes,1
+126117,58,0,Ph.D/Doctorate,Chennai,Business Development,Senior Lead Engineer  ,Male,1,No,0
+126118,24,0,B.Tech/B.E.,Kolkata,Human Resources,Engineer  ,Male,7,No,0
+126119,60,0,B.Tech/B.E.,Bangalore,Human Resources,Engineer ,Male,2,No,0
+126121,27,0,MBA/PGDM,Delhi,Human Resources,Engineer  ,Female,7,No,0
+126122,38,0,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer ,Male,3,No,0
+126123,34,0,M.Tech/M.E.,Bangalore,Sales,Engineer  ,Male,4,No,0
+126124,52,0,M.Tech/M.E.,Delhi,Services,Senior Engineer ,Male,1,Yes,1
+126126,46,0,B.Tech/B.E.,Delhi,Support,Technical Lead ,Male,6,No,0
+126130,23,0,MBA/PGDM,Kolkata,Support,TRAINEE ,Female,1,No,0
+126134,32,0,MBA/PGDM,Chennai,Sales,Senior Engineer ,Male,2,Yes,1
+126147,57,0,Other degrees,Delhi,Research and Development,Senior Engineer ,Male,2,No,0
+126164,27,0,B.Tech/B.E.,Mumbai,Legal,Associate Engineer  ,Female,1,No,0
+126167,54,0,MBA/PGDM,Chennai,Research and Development,Senior Engineer ,Female,3,No,0
+126168,31,0,MBA/PGDM,Delhi,Research and Development,Senior Lead Engineer ,Female,1,No,0
+126171,61,0,Other degrees,Chennai,Training,Senior Engineer  ,Male,4,No,0
+126172,29,0,Other degrees,Delhi,Accounting,Engineer  ,Female,2,No,0
+126174,23,0,M.Tech/M.E.,Hyderabad,Support,Associate Engineer  ,Male,2,No,0
+126175,22,0,Ph.D/Doctorate,Hyderabad,Support,Associate Engineer ,Male,4,No,0
+126177,24,0,Other degrees,Delhi,Marketing,Engineer ,Male,4,No,0
+126195,72,0,B.Tech/B.E.,Mumbai,Training,Senior Lead Engineer ,Male,6,Yes,1
+126196,23,0,MBA/PGDM,Kolkata,Human Resources,Associate Engineer ,Male,2,No,0
+126197,61,0,MBA/PGDM,Kolkata,Human Resources,Lead Engineer ,Female,1,No,0
+126224,24,0,MBA/PGDM,Bangalore,Sales,Engineer ,Male,6,No,0
+126225,32,0,B.Tech/B.E.,Delhi,Support,Engineer ,Male,2,No,0
+126226,54,0,M.Tech/M.E.,Kolkata,Human Resources,Engineer  ,Female,3,No,0
+126227,25,0,M.Tech/M.E.,Bangalore,Product Management,Engineer ,Male,3,No,0
+126228,58,0,MBA/PGDM,Bangalore,Human Resources,Engineer ,Male,7,No,0
+126229,26,0,Ph.D/Doctorate,Ahmedabad,Product Management,Engineer ,Male,3,No,0
+126230,42,0,B.Tech/B.E.,Chennai,Sales,Senior Engineer  ,Female,3,No,0
+126231,41,0,MBA/PGDM,Bangalore,Sales,Engineer  ,Male,4,No,0
+126232,23,0,Other degrees,Chennai,Human Resources,Associate Engineer  ,Female,6,No,0
+126234,56,0,B.Tech/B.E.,Hyderabad,Human Resources,Senior Engineer ,Female,7,No,0
+126235,22,0,Other degrees,Hyderabad,Support,Associate Engineer ,Male,5,No,0
+126236,65,0,M.Tech/M.E.,Kolkata,Marketing,Lead Engineer  ,Male,6,No,0
+126237,58,0,B.Tech/B.E.,Hyderabad,Support,Senior Lead Engineer ,Male,5,No,0
+126472,27,0,Ph.D/Doctorate,Kolkata,Product Management,Senior Engineer ,Male,3,No,0
+126477,26,0,Ph.D/Doctorate,Delhi,Training,Associate Engineer ,Male,1,No,0
+126478,25,0,Other degrees,Chennai,Engineering,Engineer ,Male,4,Yes,1
+126479,61,0,MBA/PGDM,Chennai,Human Resources,Engineer ,Male,2,No,0
+126480,25,0,B.Tech/B.E.,Bangalore,Research and Development,Engineer ,Male,1,No,0
+126481,25,0,M.Tech/M.E.,Kolkata,Services,Engineer ,Male,3,No,0
+126482,47,0,Ph.D/Doctorate,Kolkata,Sales,Senior Engineer  ,Male,6,No,0
+126483,22,0,Ph.D/Doctorate,Ahmedabad,Human Resources,Engineer  ,Male,5,No,0
+126484,26,0,M.Tech/M.E.,Ahmedabad,Accounting,Engineer ,Male,4,No,0
+126485,23,0,B.Tech/B.E.,Delhi,Human Resources,Engineer  ,Female,6,No,0
+126487,23,0,Ph.D/Doctorate,Hyderabad,Research and Development,Engineer ,Male,1,No,0
+126490,33,0,MBA/PGDM,Chennai,Training,Senior Engineer ,Male,5,No,0
+126491,60,0,Ph.D/Doctorate,Hyderabad,Services,Senior Engineer ,Male,2,No,0
+126492,62,0,B.Tech/B.E.,Chennai,Services,Senior Engineer ,Male,5,No,0
+126494,32,5,B.Tech/B.E.,Hyderabad,Training,Senior Engineer  ,Female,5,No,0
+126495,26,0,B.Tech/B.E.,Hyderabad,Training,Associate Engineer ,Male,3,No,0
+126496,29,0,MBA/PGDM,Chennai,Engineering,Project Leader ,Male,6,No,0
+126575,28,0,Ph.D/Doctorate,Chennai,Human Resources,Senior Engineer  ,Female,3,No,0
+126576,24,0,B.Tech/B.E.,Bangalore,Training,Senior Engineer ,Male,7,No,0
+126578,67,0,Other degrees,Delhi,Accounting,Lead Engineer ,Male,3,No,0
+126579,41,0,MBA/PGDM,Bangalore,Human Resources,Senior Lead Engineer ,Male,6,No,0
+126580,51,0,B.Tech/B.E.,Chennai,Legal,Lead Engineer  ,Male,4,No,0
+126582,27,0,M.Tech/M.E.,Delhi,Business Development,Senior Engineer ,Male,4,Yes,1
+126583,61,0,MBA/PGDM,Pune,Services,Lead Engineer  ,Male,2,No,0
+126584,25,0,MBA/PGDM,Delhi,Training,Associate Engineer ,Male,5,No,0
+126591,47,0,B.Tech/B.E.,Hyderabad,Sales,Director,Male,7,No,0
+126592,50,0,MBA/PGDM,Bangalore,Engineering,Vice President ,Male,3,No,0
+126633,61,0,Ph.D/Doctorate,Kolkata,Research and Development,Senior Lead Engineer ,Male,4,No,0
+126639,62,0,Other degrees,Ahmedabad,Business Development,Lead Engineer  ,Male,1,No,0
+126640,25,0,Ph.D/Doctorate,Delhi,Training,Engineer ,Male,6,No,0
+126641,26,2,Ph.D/Doctorate,Ahmedabad,Business Development,Project Leader ,Female,6,No,0
+126642,66,3,Ph.D/Doctorate,Chennai,Services,Senior Lead Engineer ,Male,4,No,0
+126643,37,0,M.Tech/M.E.,Delhi,Research and Development,Senior Engineer ,Male,2,No,0
+126644,46,0,Other degrees,Chennai,Human Resources,Lead Engineer ,Male,1,No,0
+126646,50,0,B.Tech/B.E.,Hyderabad,Human Resources,Senior Engineer  ,Female,3,No,0
+126647,30,0,Ph.D/Doctorate,Chennai,Sales,Associate Engineer  ,Male,2,No,0
+126648,34,0,B.Tech/B.E.,Bangalore,Business Development,Engineer  ,Female,7,No,0
+126649,30,0,M.Tech/M.E.,Bangalore,Training,Engineer ,Male,3,No,0
+126650,42,0,Other degrees,Delhi,Services,Lead Engineer ,Male,3,No,0
+126651,63,0,MBA/PGDM,Delhi,Services,Lead Engineer  ,Male,5,No,0
+126652,54,0,MBA/PGDM,Mumbai,Research and Development,Senior Lead Engineer ,Male,3,No,0
+126723,27,0,Other degrees,Chennai,Human Resources,Engineer  ,Male,7,No,0
+126724,26,0,Ph.D/Doctorate,Chennai,Sales,Associate Engineer  ,Male,3,No,0
+126725,24,0,M.Tech/M.E.,Hyderabad,Human Resources,Engineer  ,Male,1,No,0
+126727,38,0,Ph.D/Doctorate,Bangalore,Sales,Senior Lead Engineer ,Male,4,Yes,1
+126729,23,0,MBA/PGDM,Hyderabad,Training,Associate Engineer ,Male,6,No,0
+126730,47,0,M.Tech/M.E.,Hyderabad,Human Resources,Lead Engineer ,Female,2,No,0
+126731,28,0,M.Tech/M.E.,Bangalore,Business Development,Associate Engineer  ,Female,5,No,0
+126732,64,0,Other degrees,Ahmedabad,Business Development,Engineer  ,Female,3,Yes,1
+126733,30,0,M.Tech/M.E.,Delhi,Human Resources,Associate Engineer ,Male,3,Yes,1
+126734,53,0,Ph.D/Doctorate,Hyderabad,Research and Development,Senior Engineer  ,Female,6,No,0
+126735,60,0,M.Tech/M.E.,Chennai,Services,Lead Engineer  ,Male,2,Yes,1
+126736,66,0,MBA/PGDM,Mumbai,Services,Senior Engineer ,Male,6,No,0
+126737,23,0,MBA/PGDM,Chennai,Services,Senior Engineer ,Male,1,No,0
+126755,46,0,Ph.D/Doctorate,Mumbai,Services,Associate Vice President,Male,7,No,0
+126760,48,0,Other degrees,Hyderabad,Business Development,Vice President ,Female,6,No,0
+126791,26,0,MBA/PGDM,Bangalore,Sales,Senior Engineer  ,Male,4,No,0
+126794,60,0,Other degrees,Bangalore,Training,Senior Lead Engineer ,Male,2,No,0
+126795,26,0,Ph.D/Doctorate,Bangalore,Training,Associate Engineer ,Female,1,No,0
+126796,31,0,MBA/PGDM,Mumbai,Training,Associate Engineer  ,Male,1,No,0
+126798,58,0,M.Tech/M.E.,Hyderabad,Services,Lead Engineer  ,Male,3,No,0
+126799,19,0,Other degrees,Hyderabad,Accounting,Associate Engineer  ,Female,7,No,0
+126801,25,0,MBA/PGDM,Chennai,Engineering,Engineer  ,Male,2,No,0
+126821,25,0,Ph.D/Doctorate,Chennai,Human Resources,Associate Engineer ,Male,6,No,0
+126822,25,0,B.Tech/B.E.,Bangalore,Sales,Engineer  ,Male,2,No,0
+126831,41,0,B.Tech/B.E.,Bangalore,Engineering,Project Leader ,Male,3,No,0
+126892,28,0,M.Tech/M.E.,Chennai,Human Resources,Engineer  ,Male,5,No,0
+126893,44,0,B.Tech/B.E.,Delhi,Training,Senior Lead Engineer ,Male,2,Yes,1
+126894,26,0,Ph.D/Doctorate,Kolkata,Human Resources,Senior Engineer ,Female,1,No,0
+126895,25,0,Ph.D/Doctorate,Chennai,Human Resources,Engineer  ,Male,6,No,0
+126896,23,0,M.Tech/M.E.,Bangalore,Sales,Associate Engineer  ,Male,4,Yes,1
+126898,66,0,MBA/PGDM,Chennai,Research and Development,Senior Lead Engineer ,Male,1,No,0
+126899,33,0,Ph.D/Doctorate,Hyderabad,Business Development,Associate Engineer  ,Female,3,No,0
+126900,60,0,B.Tech/B.E.,Ahmedabad,Business Development,Senior Lead Engineer ,Male,1,No,0
+126901,25,0,Other degrees,Ahmedabad,Sales,Engineer ,Male,2,No,0
+126902,24,0,Other degrees,Hyderabad,Human Resources,Engineer  ,Female,2,No,0
+126903,56,0,Other degrees,Kolkata,Services,Senior Lead Engineer ,Male,2,No,0
+126904,43,0,M.Tech/M.E.,Bangalore,Services,Senior Engineer ,Female,2,No,0
+126905,41,0,M.Tech/M.E.,Bangalore,Training,Senior Engineer  ,Male,5,Yes,1
+126906,67,0,MBA/PGDM,Hyderabad,Accounting,Lead Engineer  ,Male,1,No,0
+126907,26,0,MBA/PGDM,Delhi,Training,Engineer ,Male,1,No,0
+126908,37,0,M.Tech/M.E.,Kolkata,Services,Senior Engineer  ,Male,1,No,0
+126936,31,1,B.Tech/B.E.,Delhi,Human Resources,Engineer ,Male,7,No,0
+126968,54,0,Ph.D/Doctorate,Delhi,Business Development,Senior Engineer  ,Female,1,No,0
+126969,24,0,Ph.D/Doctorate,Chennai,Business Development,Senior Engineer  ,Female,2,Yes,1
+126970,29,0,Other degrees,Bangalore,Training,Engineer ,Female,6,No,0
+126972,41,0,Ph.D/Doctorate,Kolkata,Business Development,Senior Engineer  ,Female,4,No,0
+126973,58,0,Other degrees,Chennai,Sales,Senior Lead Engineer ,Female,2,Yes,1
+126997,48,0,Ph.D/Doctorate,Delhi,Business Development,Senior Engineer ,Male,4,No,0
+127030,29,0,B.Tech/B.E.,Hyderabad,Human Resources,Engineer  ,Male,5,No,0
+127031,50,0,B.Tech/B.E.,Mumbai,Human Resources,Lead Engineer ,Male,7,No,0
+127032,31,5,M.Tech/M.E.,Ahmedabad,Services,Senior Engineer ,Male,1,No,0
+127033,23,0,M.Tech/M.E.,Kolkata,Human Resources,Senior Engineer  ,Male,1,No,0
+127034,28,0,M.Tech/M.E.,Bangalore,Marketing,Engineer ,Male,6,No,0
+127035,30,0,Other degrees,Chennai,Human Resources,Engineer  ,Female,5,No,0
+127036,24,0,MBA/PGDM,Hyderabad,Marketing,Engineer ,Male,1,No,0
+127037,30,0,MBA/PGDM,Kolkata,Human Resources,Project Leader ,Female,7,No,0
+127038,52,0,MBA/PGDM,Bangalore,Business Development,Engineer  ,Male,6,No,0
+127040,22,0,Ph.D/Doctorate,Kolkata,Engineering,Engineer  ,Female,4,No,0
+127041,63,0,M.Tech/M.E.,Chennai,Human Resources,Technical Manager ,Male,2,No,0
+127042,34,0,MBA/PGDM,Delhi,Human Resources,Senior Engineer ,Male,2,Yes,1
+127043,28,0,B.Tech/B.E.,Chennai,Business Development,Associate Engineer  ,Female,3,No,0
+127046,38,0,Ph.D/Doctorate,Chennai,Business Development,Engineer  ,Male,5,No,0
+127047,21,1,Other degrees,Delhi,Support,Associate Engineer  ,Male,3,Yes,1
+127048,26,0,Ph.D/Doctorate,Chennai,Training,Associate Engineer ,Male,5,No,0
+127049,29,0,B.Tech/B.E.,Chennai,Training,Senior Engineer ,Male,2,No,0
+127072,42,0,MBA/PGDM,Chennai,Support,Project Manager ,Male,7,No,0
+127074,22,0,Other degrees,Kolkata,Product Management,Associate Engineer  ,Male,1,Yes,1
+127075,32,0,B.Tech/B.E.,Ahmedabad,Training,Technical Lead ,Male,1,No,0
+127084,41,2,Ph.D/Doctorate,Chennai,Training,Lead Engineer ,Female,2,No,0
+127086,40,0,B.Tech/B.E.,Kolkata,Engineering,General Manager ,Male,4,No,0
+127119,56,0,MBA/PGDM,Kolkata,Sales,Senior Lead Engineer ,Male,1,No,0
+127120,20,0,B.Tech/B.E.,Ahmedabad,Product Management,Associate Engineer  ,Male,6,Yes,1
+127121,62,0,MBA/PGDM,Delhi,Human Resources,Senior Engineer ,Male,1,No,0
+127124,30,5,M.Tech/M.E.,Delhi,Engineering,Associate Engineer  ,Male,7,Yes,1
+127125,24,0,Ph.D/Doctorate,Ahmedabad,Human Resources,Associate Engineer  ,Male,2,No,0
+127126,42,0,MBA/PGDM,Chennai,Training,Senior Engineer ,Female,2,Yes,1
+127128,61,0,B.Tech/B.E.,Bangalore,Accounting,Associate Engineer ,Male,6,No,0
+127165,27,0,Ph.D/Doctorate,Hyderabad,Engineering,Associate Engineer  ,Female,6,No,0
+127167,63,0,MBA/PGDM,Bangalore,Support,Senior Lead Engineer ,Male,6,No,0
+127168,27,0,B.Tech/B.E.,Kolkata,Human Resources,Engineer  ,Male,6,No,0
+127169,28,0,M.Tech/M.E.,Ahmedabad,Human Resources,Engineer  ,Male,1,No,0
+127170,34,0,MBA/PGDM,Hyderabad,Human Resources,Project Manager ,Male,1,No,0
+127171,62,0,MBA/PGDM,Hyderabad,Human Resources,Senior Engineer ,Male,4,No,0
+127172,50,0,Ph.D/Doctorate,Hyderabad,Human Resources,Lead Engineer ,Male,2,No,0
+127173,24,0,Ph.D/Doctorate,Ahmedabad,Research and Development,Associate Engineer ,Male,1,No,0
+127174,24,0,M.Tech/M.E.,Chennai,Engineering,Engineer  ,Male,1,No,0
+127175,24,0,Ph.D/Doctorate,Ahmedabad,Engineering,Engineer  ,Male,2,No,0
+127176,55,0,M.Tech/M.E.,Bangalore,Services,Senior Engineer ,Male,3,No,0
+127177,23,0,MBA/PGDM,Kolkata,Engineering,Engineer  ,Male,2,No,0
+127178,53,0,M.Tech/M.E.,Kolkata,Human Resources,Lead Engineer  ,Female,2,No,0
+127179,63,0,Other degrees,Delhi,Human Resources,Engineer ,Male,1,Yes,1
+127180,49,0,M.Tech/M.E.,Chennai,Research and Development,Lead Engineer ,Male,1,No,0
+127181,22,0,MBA/PGDM,Bangalore,Research and Development,Associate Engineer ,Male,2,No,0
+127183,40,0,B.Tech/B.E.,Delhi,Services,Senior Engineer ,Male,1,Yes,1
+127241,49,0,Ph.D/Doctorate,Chennai,Engineering,Associate Vice President,Male,3,No,0
+127243,45,0,Ph.D/Doctorate,Chennai,Accounting,Project Manager ,Male,6,No,0
+127265,52,0,Ph.D/Doctorate,Delhi,Sales,Lead Engineer ,Male,3,No,0
+127266,26,0,MBA/PGDM,Chennai,Training,Associate Engineer ,Male,5,No,0
+127267,51,0,B.Tech/B.E.,Kolkata,Marketing,Deputy Manager ,Female,1,No,0
+127268,58,0,Other degrees,Bangalore,Human Resources,Engineer ,Male,2,No,0
+127270,67,0,B.Tech/B.E.,Kolkata,Accounting,Senior Engineer ,Male,2,No,0
+127334,29,0,MBA/PGDM,Hyderabad,Accounting,Engineer  ,Male,7,No,0
+127335,27,0,M.Tech/M.E.,Bangalore,Product Management,Engineer  ,Male,7,No,0
+127362,57,0,M.Tech/M.E.,Delhi,Research and Development,Senior Engineer ,Male,3,No,0
+127365,27,0,MBA/PGDM,Delhi,Human Resources,Engineer  ,Male,1,No,0
+127366,22,1,Other degrees,Delhi,Training,Associate Engineer ,Male,1,No,0
+127368,23,0,Other degrees,Hyderabad,Services,Associate Engineer  ,Male,5,No,0
+127369,22,0,Other degrees,Bangalore,Training,Associate Engineer ,Male,2,No,0
+127370,22,0,MBA/PGDM,Bangalore,Human Resources,Associate Engineer  ,Female,7,Yes,1
+127371,35,0,B.Tech/B.E.,Bangalore,Marketing,Senior Engineer ,Male,2,No,0
+127436,35,0,Ph.D/Doctorate,Kolkata,Services,Project Manager ,Female,7,No,0
+127437,38,0,M.Tech/M.E.,Chennai,Accounting,Lead Engineer ,Male,5,No,0
+127453,28,0,MBA/PGDM,Delhi,Sales,Associate Engineer ,Female,2,No,0
+127454,29,0,M.Tech/M.E.,Ahmedabad,Business Development,Engineer ,Female,6,No,0
+127455,26,0,M.Tech/M.E.,Delhi,Training,Engineer ,Male,3,No,0
+127457,29,0,Other degrees,Chennai,Human Resources,Senior Engineer ,Male,4,Yes,1
+127458,38,0,Ph.D/Doctorate,Mumbai,Sales,Engineer ,Male,1,No,0
+127459,25,0,M.Tech/M.E.,Hyderabad,Sales,Engineer ,Male,7,No,0
+127460,28,0,B.Tech/B.E.,Mumbai,Business Development,Engineer  ,Female,3,No,0
+127461,34,0,Ph.D/Doctorate,Kolkata,Training,Associate Engineer ,Male,5,No,0
+127467,42,0,Other degrees,Hyderabad,Business Development,Senior Engineer ,Male,4,No,0
+127468,30,0,MBA/PGDM,Ahmedabad,Marketing,Engineer ,Male,6,No,0
+127469,21,0,MBA/PGDM,Kolkata,Human Resources,Associate Engineer  ,Male,1,No,0
+127590,67,0,MBA/PGDM,Kolkata,Training,Senior Lead Engineer ,Male,3,No,0
+127591,23,0,Other degrees,Bangalore,Services,Senior Engineer ,Male,7,No,0
+127594,30,0,M.Tech/M.E.,Hyderabad,Research and Development,Lead Engineer ,Male,1,No,0
+127595,23,0,Ph.D/Doctorate,Delhi,Human Resources,Senior Engineer ,Male,6,No,0
+127596,31,0,Ph.D/Doctorate,Kolkata,Research and Development,Officer  ,Female,1,No,0
+127597,56,0,MBA/PGDM,Kolkata,Accounting,Lead Engineer  ,Male,2,No,0
+127652,26,0,Ph.D/Doctorate,Kolkata,Sales,Senior Engineer ,Female,5,Yes,1
+127653,45,0,Other degrees,Hyderabad,Business Development,Senior Engineer ,Male,3,No,0
+127654,60,0,MBA/PGDM,Delhi,Business Development,Senior Engineer ,Male,5,No,0
+127684,63,0,B.Tech/B.E.,Chennai,Sales,Senior Engineer ,Female,7,No,0
+127686,25,0,Other degrees,Hyderabad,Sales,Engineer ,Male,3,No,0
+127687,22,0,M.Tech/M.E.,Mumbai,Human Resources,Engineer ,Male,5,No,0
+127688,48,0,B.Tech/B.E.,Delhi,Research and Development,Lead Engineer ,Male,2,No,0
+127690,31,0,Other degrees,Ahmedabad,Sales,Engineer ,Male,3,No,0
+127691,55,0,Ph.D/Doctorate,Bangalore,Services,Senior Engineer ,Male,7,No,0
+127693,50,0,MBA/PGDM,Bangalore,Services,Senior Engineer  ,Male,6,No,0
+127694,43,0,Ph.D/Doctorate,Hyderabad,Research and Development,Lead Engineer ,Male,6,No,0
+127695,38,0,B.Tech/B.E.,Delhi,Sales,Engineer  ,Male,2,No,0
+127697,32,0,Other degrees,Ahmedabad,Human Resources,Senior Engineer ,Male,4,No,0
+127698,30,0,B.Tech/B.E.,Delhi,Business Development,Senior Engineer ,Male,3,No,0
+127699,53,6,M.Tech/M.E.,Bangalore,Sales,Lead Engineer ,Male,5,No,0
+127735,41,0,M.Tech/M.E.,Chennai,Marketing,Lead Engineer ,Male,1,No,0
+127742,33,0,MBA/PGDM,Bangalore,Accounting,Lead Engineer ,Female,2,No,0
+127777,54,0,MBA/PGDM,Hyderabad,Training,Lead Engineer ,Male,3,No,0
+127778,20,0,MBA/PGDM,Chennai,Product Management,Associate Engineer  ,Male,2,No,0
+127779,21,0,Other degrees,Bangalore,Product Management,Associate Engineer  ,Male,6,No,0
+127780,22,0,MBA/PGDM,Hyderabad,Product Management,Associate Engineer  ,Female,5,No,0
+127781,20,0,B.Tech/B.E.,Bangalore,Product Management,Associate Engineer  ,Female,2,No,0
+127782,19,0,M.Tech/M.E.,Kolkata,Support,Associate Engineer  ,Male,4,No,0
+127783,23,0,Ph.D/Doctorate,Hyderabad,Support,Engineer ,Male,5,No,0
+127784,53,0,Other degrees,Ahmedabad,Legal,Lead Engineer ,Male,5,No,0
+127785,30,0,Other degrees,Chennai,Human Resources,Engineer ,Male,1,No,0
+127786,36,0,MBA/PGDM,Hyderabad,Sales,Senior Engineer ,Male,6,No,0
+127787,37,0,M.Tech/M.E.,Bangalore,Marketing,Deputy Manager ,Female,6,No,0
+127788,37,0,Other degrees,Delhi,Research and Development,Senior Engineer ,Male,6,No,0
+127789,26,0,Other degrees,Kolkata,Sales,Engineer  ,Male,4,No,0
+127795,37,0,M.Tech/M.E.,Hyderabad,Marketing,Lead Engineer ,Male,1,No,0
+127796,52,0,B.Tech/B.E.,Bangalore,Research and Development,Senior Lead Engineer ,Male,7,No,0
+127797,20,0,Other degrees,Ahmedabad,Product Management,Associate Engineer  ,Male,5,No,0
+127831,29,0,Other degrees,Hyderabad,Accounting,Lead Engineer ,Male,2,No,0
+127856,27,4,Other degrees,Hyderabad,Product Management,Senior Engineer ,Male,2,No,0
+127857,31,0,Ph.D/Doctorate,Bangalore,Training,Engineer ,Male,1,No,0
+127859,26,0,B.Tech/B.E.,Bangalore,Sales,Engineer ,Male,7,No,0
+127860,40,0,Ph.D/Doctorate,Hyderabad,Human Resources,Lead Engineer ,Male,2,No,0
+127862,57,0,MBA/PGDM,Bangalore,Business Development,Senior Engineer ,Male,2,No,0
+127863,56,0,M.Tech/M.E.,Kolkata,Business Development,Lead Engineer ,Male,1,No,0
+127864,29,0,Other degrees,Chennai,Services,Lead Engineer ,Male,1,No,0
+127865,25,0,B.Tech/B.E.,Chennai,Services,Senior Engineer  ,Male,1,No,0
+127867,39,0,Other degrees,Hyderabad,Legal,Project Manager ,Female,1,No,0
+127868,32,0,M.Tech/M.E.,Hyderabad,Accounting,Project Leader ,Male,2,No,0
+127989,53,0,Other degrees,Delhi,Support,General Manager ,Male,3,No,0
+127991,46,0,Ph.D/Doctorate,Kolkata,Marketing,Deputy Manager ,Male,2,No,0
+128013,66,0,B.Tech/B.E.,Kolkata,Human Resources,Senior Engineer ,Female,3,No,0
+128014,24,0,MBA/PGDM,Chennai,Sales,Engineer ,Male,2,No,0
+128015,56,0,B.Tech/B.E.,Bangalore,Marketing,Project Leader ,Female,2,No,0
+128016,55,0,M.Tech/M.E.,Hyderabad,Engineering,Project Leader ,Female,1,No,0
+128018,28,0,MBA/PGDM,Mumbai,Human Resources,Senior Engineer ,Male,1,No,0
+128019,22,0,Other degrees,Hyderabad,Sales,Engineer  ,Male,1,No,0
+128020,29,0,Other degrees,Hyderabad,Human Resources,Lead Engineer ,Female,3,No,0
+128034,27,0,M.Tech/M.E.,Chennai,Accounting,Senior Engineer ,Female,1,No,0
+128035,28,0,Other degrees,Ahmedabad,Marketing,Project Manager ,Female,2,No,0
+128036,51,0,MBA/PGDM,Ahmedabad,Accounting,Senior Lead Engineer ,Male,1,No,0
+128037,46,0,Other degrees,Kolkata,Research and Development,Senior Engineer ,Male,2,No,0
+128056,27,0,B.Tech/B.E.,Delhi,Marketing,Lead Engineer ,Male,3,No,0
+128058,24,0,MBA/PGDM,Chennai,Sales,Associate Engineer ,Male,1,No,0
+128059,35,0,B.Tech/B.E.,Kolkata,Sales,Engineer  ,Male,1,No,0
+128061,26,0,Other degrees,Bangalore,Research and Development,Senior Engineer ,Male,2,No,0
+128062,22,0,Ph.D/Doctorate,Bangalore,Engineering,Engineer  ,Male,3,No,0
+128063,34,0,M.Tech/M.E.,Chennai,Sales,Senior Engineer  ,Male,3,No,0
+128064,52,0,B.Tech/B.E.,Bangalore,Sales,Senior Engineer  ,Male,3,No,0
+128065,60,0,MBA/PGDM,Hyderabad,Sales,Senior Engineer  ,Male,3,No,0
+128066,24,0,Ph.D/Doctorate,Hyderabad,Business Development,Associate Engineer ,Male,1,No,0
+128067,55,0,M.Tech/M.E.,Hyderabad,Services,Lead Engineer ,Male,3,No,0
+128068,50,0,M.Tech/M.E.,Hyderabad,Sales,Lead Engineer ,Male,6,No,0
+128095,34,0,B.Tech/B.E.,Mumbai,Sales,Project Leader ,Male,5,No,0
+128097,30,0,Other degrees,Mumbai,Business Development,Lead Engineer ,Male,3,No,0
+128099,36,0,M.Tech/M.E.,Kolkata,Marketing,Program Manager ,Male,1,No,0
+128107,27,0,B.Tech/B.E.,Chennai,Product Management,Senior Engineer ,Male,2,No,0
+128123,49,0,Ph.D/Doctorate,Ahmedabad,Services,Lead Engineer ,Male,7,No,0
+128124,27,0,MBA/PGDM,Ahmedabad,Legal,Senior Lead Engineer ,Male,7,No,0
+128127,34,0,M.Tech/M.E.,Delhi,Business Development,Senior Engineer ,Male,1,No,0
+128128,42,0,B.Tech/B.E.,Chennai,Human Resources,Senior Engineer ,Male,4,No,0
+128129,26,0,Other degrees,Chennai,Business Development,Engineer ,Female,6,No,0
+128130,55,0,MBA/PGDM,Ahmedabad,Research and Development,Senior Engineer ,Male,4,No,0
+128131,40,0,Other degrees,Kolkata,Engineering,Project Leader ,Female,2,No,0
+128133,48,0,Other degrees,Hyderabad,Product Management,Lead Engineer ,Male,4,No,0
+128134,34,0,M.Tech/M.E.,Hyderabad,Product Management,Lead Engineer ,Female,7,No,0
+128179,56,8,MBA/PGDM,Hyderabad,Business Development,Engineer  ,Female,3,No,0
+128180,35,0,Ph.D/Doctorate,Delhi,Business Development,Associate Engineer  ,Male,1,No,0
+128181,64,0,M.Tech/M.E.,Bangalore,Human Resources,Lead Engineer ,Male,4,No,0
+128191,61,0,Other degrees,Ahmedabad,Human Resources,Project Leader ,Male,1,No,0
+128192,21,2,M.Tech/M.E.,Hyderabad,Support,Associate Engineer  ,Male,7,No,0
+128193,21,2,Other degrees,Chennai,Support,Associate Engineer  ,Male,7,No,0
+128194,44,0,M.Tech/M.E.,Chennai,Sales,Engineer ,Male,2,No,0
+128195,48,0,M.Tech/M.E.,Delhi,Engineering,Engineer  ,Female,3,No,0
+128196,60,0,MBA/PGDM,Bangalore,Engineering,Senior Engineer  ,Female,7,No,0
+128197,44,0,MBA/PGDM,Bangalore,Engineering,Associate Engineer  ,Female,4,No,0
+128200,51,0,B.Tech/B.E.,Hyderabad,Services,Engineer ,Female,4,No,0
+128372,27,0,M.Tech/M.E.,Kolkata,Business Development,Associate Engineer  ,Male,1,No,0
+128373,27,0,Ph.D/Doctorate,Chennai,Research and Development,Senior Engineer ,Male,5,No,0
+128374,22,0,M.Tech/M.E.,Chennai,Human Resources,Associate Engineer  ,Male,2,No,0
+128375,53,0,Ph.D/Doctorate,Bangalore,Human Resources,Senior Engineer ,Male,4,No,0
+128376,23,0,Ph.D/Doctorate,Chennai,Research and Development,Associate Engineer ,Male,7,No,0
+128377,23,0,Ph.D/Doctorate,Delhi,Sales,Engineer ,Female,4,No,0
+128378,27,0,M.Tech/M.E.,Hyderabad,Services,Engineer ,Male,4,No,0
+128379,41,0,Ph.D/Doctorate,Hyderabad,Business Development,Senior Engineer ,Male,3,No,0
+128381,25,0,Ph.D/Doctorate,Bangalore,Services,Engineer ,Male,3,No,0
+128382,34,0,B.Tech/B.E.,Hyderabad,Engineering,Engineer  ,Female,6,No,0
+128385,41,0,B.Tech/B.E.,Hyderabad,Engineering,Lead Engineer  ,Male,4,No,0
+128477,41,0,Ph.D/Doctorate,Hyderabad,Marketing,Project Manager ,Male,6,No,0
+128485,56,0,Ph.D/Doctorate,Hyderabad,Human Resources,Lead Engineer ,Male,5,No,0
+128487,48,0,Other degrees,Chennai,Human Resources,Technical Lead ,Male,2,No,0
+128488,28,0,M.Tech/M.E.,Ahmedabad,Training,Technical Manager ,Male,4,No,0
+128489,38,0,Other degrees,Hyderabad,Sales,Senior Engineer ,Female,2,No,0
+128490,25,0,M.Tech/M.E.,Ahmedabad,Engineering,Associate Engineer  ,Female,3,No,0
+128491,33,0,Other degrees,Mumbai,Engineering,Engineer  ,Female,1,No,0
+128492,34,0,MBA/PGDM,Ahmedabad,Research and Development,Senior Engineer ,Male,4,No,0
+128494,35,0,Other degrees,Bangalore,Training,Engineer  ,Male,1,No,0
+128505,28,0,M.Tech/M.E.,Kolkata,Business Development,Senior Lead Engineer ,Male,1,No,0
+128509,38,0,Ph.D/Doctorate,Hyderabad,Business Development,Senior Manager ,Male,2,No,0
+128573,55,0,Ph.D/Doctorate,Hyderabad,Business Development,Engineer  ,Male,3,No,0
+128582,23,0,B.Tech/B.E.,Chennai,Business Development,Associate Engineer  ,Male,1,No,0
+128584,23,0,B.Tech/B.E.,Bangalore,Sales,Associate Engineer ,Male,4,No,0
+128586,36,0,M.Tech/M.E.,Hyderabad,Engineering,Engineer  ,Female,4,No,0
+128587,47,0,MBA/PGDM,Mumbai,Engineering,Engineer  ,Female,6,No,0
+128588,35,0,Other degrees,Chennai,Services,Senior Engineer  ,Female,1,No,0
+128589,62,0,Other degrees,Delhi,Research and Development,Senior Lead Engineer ,Male,2,No,0
+128622,34,0,Other degrees,Kolkata,Legal,Lead Engineer ,Male,6,No,0
